@@ -1,2883 +1,2883 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="343" generatedAt="2025-08-25T01:57:38.350Z">
+<items count="343" generatedAt="2025-08-25T12:21:53.840Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
-    <sources>
-      <source name="Abominatio" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6659" name="Abominatio"/>
+    </droppedBy>
   </item>
   <item looktype="6495" name="Abominy's Skin" sell="70" type="none">
-    <sources>
-      <source name="Abominy" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="8449" name="Abominy"/>
+    </droppedBy>
   </item>
   <item looktype="6490" name="Acolyte hood" sell="1" type="helmet">
-    <sources>
-      <source name="Acolyte" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6152" name="Acolyte"/>
+    </droppedBy>
   </item>
   <item looktype="6492" name="Acolyte legs" sell="1" type="legs">
-    <sources>
-      <source name="Acolyte" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6152" name="Acolyte"/>
+    </droppedBy>
   </item>
   <item looktype="6491" name="Acolyte robe" sell="1" type="armour">
-    <sources>
-      <source name="Acolyte" type="mob"/>
-      <source name="Buzzy" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6152" name="Acolyte"/>
+      <monster looktype="6408" name="Buzzy"/>
+    </droppedBy>
   </item>
   <item looktype="6582" name="Adventurer armour" sell="2000" type="armour" vocation="warrior">
     <defences hit_def="30" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="6581" name="Adventurer coat" sell="2000" type="armour" vocation="wizard">
     <defences hit_def="35" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5316" name="Ancient Skin" sell="1000" type="none">
-    <sources>
-      <source name="Ancient" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5892" name="Ancient"/>
+    </droppedBy>
   </item>
   <item looktype="5494" name="Angelic armour" sell="35" type="armour" vocation="warrior">
     <defences holy_def="16" level="34"/>
-    <sources>
-      <source name="Minorrior" type="mob"/>
-      <source name="The Miner" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5635" name="Minorrior"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+    </droppedBy>
   </item>
   <item looktype="5185" name="Angelic mantle" sell="94" type="armour" vocation="wizard">
     <defences holy_def="20" level="34"/>
-    <sources>
-      <source name="Minorrior" type="mob"/>
-      <source name="The Miner" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5635" name="Minorrior"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+    </droppedBy>
   </item>
   <item looktype="5139" name="Arctic spike" sell="18" type="weapon" vocation="warrior">
     <attacks hit_attack="1-5" ice_attack="1-50" level="24"/>
-    <sources>
-      <source name="Haunter" type="mob"/>
-      <source name="Shadow" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5640" name="Haunter"/>
+      <monster looktype="5640" name="Shadow"/>
+    </droppedBy>
   </item>
   <item looktype="5452" name="Armoured amulet" sell="54" type="chain">
     <defences hit_def="9" level="45"/>
-    <sources>
-      <source name="Tentacle" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6151" name="Tentacle"/>
+    </droppedBy>
   </item>
   <item looktype="5399" name="Armoured cap" sell="79" type="helmet" vocation="wizard">
     <defences hit_def="15" level="44"/>
-    <sources>
-      <source name="Chicken" type="mob"/>
-      <source name="Orc Master" type="mob"/>
-      <source name="Phorus" type="mob"/>
-      <source name="Terrorbird" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5387" name="Phorus"/>
+      <monster looktype="5387" name="Terrorbird"/>
+      <monster looktype="5387" name="Chicken"/>
+      <monster looktype="5122" name="Orc Master"/>
+    </droppedBy>
   </item>
   <item looktype="5450" name="Armoured helmet" sell="54" type="helmet" vocation="warrior">
     <defences hit_def="12" level="41"/>
-    <sources>
-      <source name="Orc Master" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5122" name="Orc Master"/>
+    </droppedBy>
   </item>
   <item looktype="5449" name="Armoured legs" sell="54" type="legs" vocation="warrior">
     <defences hit_def="15" level="40"/>
-    <sources>
-      <source name="Goblin" type="mob"/>
-      <source name="Gremlin" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5890" name="Goblin"/>
+      <monster looktype="5890" name="Gremlin"/>
+    </droppedBy>
   </item>
   <item looktype="5448" name="Armoured mail" sell="54" type="armour" vocation="warrior">
     <defences hit_def="21" level="42"/>
-    <sources>
-      <source name="Orc Master" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5122" name="Orc Master"/>
+    </droppedBy>
   </item>
   <item looktype="5453" name="Armoured ring" sell="54" type="ring">
     <defences hit_def="12" level="43"/>
-    <sources>
-      <source name="Evil Sheep" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5896" name="Evil Sheep"/>
+    </droppedBy>
   </item>
   <item looktype="5451" name="Armoured shield" sell="54" type="shield" vocation="warrior">
     <defences hit_def="12" level="44"/>
-    <sources>
-      <source name="Chicken" type="mob"/>
-      <source name="Phorus" type="mob"/>
-      <source name="Terrorbird" type="mob"/>
-      <source name="The Fanatic" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+      <monster looktype="5387" name="Phorus"/>
+      <monster looktype="5387" name="Terrorbird"/>
+      <monster looktype="5387" name="Chicken"/>
+    </droppedBy>
   </item>
   <item looktype="5479" name="Armoured shield" sell="42" type="shield" vocation="wizard">
     <defences hit_def="15" level="42"/>
-    <sources>
-      <source name="Cult Tutor" type="mob"/>
-      <source name="The Fanatic" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+      <monster looktype="6153" name="Cult Tutor"/>
+    </droppedBy>
   </item>
   <item looktype="5398" name="Armoured shirt" sell="124" type="armour" vocation="wizard">
     <defences hit_def="24" level="41"/>
-    <sources>
-      <source name="Orc Master" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5122" name="Orc Master"/>
+    </droppedBy>
   </item>
   <item looktype="5159" name="Armoured trousers" sell="48" type="legs" vocation="wizard">
     <defences hit_def="18" level="40"/>
-    <sources>
-      <source name="Goblin" type="mob"/>
-      <source name="Gremlin" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5890" name="Goblin"/>
+      <monster looktype="5890" name="Gremlin"/>
+    </droppedBy>
   </item>
   <item looktype="2562" name="Axe" sell="15" type="weapon" vocation="warrior">
     <attacks hit_attack="1-30" level="11"/>
-    <sources>
-      <source name="Skelenary" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5121" name="Skelenary"/>
+    </droppedBy>
   </item>
   <item looktype="5276" name="Bag of Coliseum" type="bag">
-    <sources>
-      <source name="Gladiator" type="mob"/>
-      <source name="Gladinus" type="mob"/>
-      <source name="Gladunus" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6154" name="Gladiator"/>
+      <monster isBoss="true" looktype="5897" name="Gladinus"/>
+      <monster isBoss="true" looktype="8449" name="Gladunus"/>
+    </droppedBy>
   </item>
   <item looktype="5276" name="Bag of Gorgoros" type="bag">
-    <sources>
-      <source name="Kyklopes" type="boss"/>
-      <source name="Medusa" type="boss"/>
-      <source name="Tauragor" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
+      <monster isBoss="true" looktype="5131" name="Medusa"/>
+      <monster isBoss="true" looktype="6658" name="Tauragor"/>
+    </droppedBy>
   </item>
   <item looktype="5276" name="Bag of Lucifero" type="bag">
-    <sources>
-      <source name="Lucifero" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2561" name="Lucifero"/>
+    </droppedBy>
   </item>
   <item looktype="5277" name="Bag of Orthoma" type="bag">
-    <sources>
-      <source name="Mutanty" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6913" name="Mutanty"/>
+    </droppedBy>
   </item>
   <item looktype="2601" name="Bag of Tazmania" type="bag">
-    <sources>
-      <source name="Tazmania" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6659" name="Tazmania"/>
+    </droppedBy>
   </item>
   <item looktype="8478" name="Bag of Valentine's Day" type="bag">
-    <sources>
-      <source name="The Cupid" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="8450" name="The Cupid"/>
+    </droppedBy>
   </item>
   <item looktype="5278" name="Bag of Yabura" type="bag">
-    <sources>
-      <source name="King Demon" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5639" name="King Demon"/>
+    </droppedBy>
   </item>
   <item looktype="5391" name="Basting hood" sell="42" type="helmet" vocation="wizard">
     <defences hit_def="8" level="19"/>
-    <sources>
-      <source name="Frost Bear" type="mob"/>
-      <source name="Icy Bear" type="mob"/>
-      <source name="Polar Bear" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5382" name="Frost Bear"/>
+      <monster looktype="5382" name="Icy Bear"/>
+      <monster looktype="5382" name="Polar Bear"/>
+    </droppedBy>
   </item>
   <item looktype="5477" name="Basting shield" sell="44" type="shield" vocation="wizard">
     <defences hit_def="8" level="20"/>
-    <sources>
-      <source name="Hissy" type="mob"/>
-      <source name="Sabrecat" type="mob"/>
-      <source name="Scratchy" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5380" name="Hissy"/>
+      <monster looktype="5380" name="Sabrecat"/>
+      <monster looktype="5380" name="Scratchy"/>
+    </droppedBy>
   </item>
   <item looktype="5389" name="Basting shirt" sell="45" type="armour" vocation="wizard">
     <defences hit_def="13" level="18"/>
-    <sources>
-      <source name="Lich" type="mob"/>
-      <source name="Lich King" type="mob"/>
-      <source name="Lich Lord" type="mob"/>
-      <source name="Twombie" type="mob"/>
-      <source name="Zombie" type="mob"/>
-      <source name="Zompforp" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5377" name="Twombie"/>
+      <monster looktype="5377" name="Zompforp"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+      <monster looktype="5377" name="Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="6495" name="Bat skin" type="none">
-    <sources>
-      <source name="Bat" type="mob"/>
-      <source name="Little Bat" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="5124" name="Little Bat"/>
+    </droppedBy>
   </item>
   <item looktype="5457" name="Battle amulet" sell="34" type="chain">
     <defences hit_def="10" level="49"/>
-    <sources>
-      <source name="Raider" type="mob"/>
-      <source name="Solahmari" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6146" name="Raider"/>
+      <monster looktype="6146" name="Solahmari"/>
+    </droppedBy>
   </item>
   <item looktype="5458" name="Battle ring" sell="34" type="ring">
     <defences hit_def="13" level="48"/>
-    <sources>
-      <source name="Dessnake" type="mob"/>
-      <source name="Scorpiant" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="2568" name="Dessnake"/>
+      <monster looktype="2571" name="Scorpiant"/>
+    </droppedBy>
   </item>
   <item looktype="2566" name="Blazing crystal" sell="4" type="weapon" vocation="wizard">
     <attacks fire_attack="1-18" level="4" mana="2"/>
-    <sources>
-      <source name="Frog" type="mob"/>
-      <source name="Frogy" type="mob"/>
-      <source name="Spider" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5889" name="Frog"/>
+      <monster looktype="2567" name="Spider"/>
+      <monster looktype="5889" name="Frogy"/>
+    </droppedBy>
   </item>
   <item looktype="6585" name="Blazing ore" sell="200" type="none">
-    <sources>
-      <source name="Elite Borc" type="mob"/>
-      <source name="Elite Mutan" type="mob"/>
-      <source name="Elite Mutant" type="mob"/>
-      <source name="Elite Worc" type="mob"/>
-      <source name="Krakomin" type="mob"/>
-      <source name="Kul'Krak'u" type="mob"/>
-      <source name="Levitacle" type="mob"/>
-      <source name="Ninjana" type="mob"/>
-      <source name="Orc Hunter" type="mob"/>
-      <source name="Shellborn" type="mob"/>
-      <source name="Worc" type="mob"/>
-    </sources>
+    <droppedBy count="11">
+      <monster looktype="5388" name="Ninjana"/>
+      <monster looktype="5644" name="Krakomin"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="6663" name="Elite Worc"/>
+      <monster looktype="6663" name="Worc"/>
+      <monster looktype="6662" name="Orc Hunter"/>
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="6504" name="Blessed greatstaff" sell="65" type="weapon" vocation="wizard">
     <attacks holy_attack="1-142" level="48" mana="14"/>
-    <sources>
-      <source name="Gaspar" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+    </droppedBy>
   </item>
   <item looktype="5314" name="Blood of Cain" sell="666" type="script">
-    <sources>
-      <source name="BioGhoul" type="mob"/>
-      <source name="ProtoFang" type="mob"/>
-      <source name="Myst" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+      <monster isBoss="true" looktype="5126" name="BioGhoul"/>
+      <monster isBoss="true" looktype="5384" name="ProtoFang"/>
+    </droppedBy>
   </item>
   <item looktype="2584" name="Blue defroster" type="none">
-    <sources>
-      <source name="Frostcat" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5380" name="Frostcat"/>
+    </droppedBy>
   </item>
   <item looktype="5255" name="Blue dragon egg" type="egg">
     <heals mp="100"/>
-    <sources>
-      <source name="Eggosaurus" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="8452" name="Eggosaurus"/>
+    </droppedBy>
   </item>
   <item looktype="8476" name="Blue Stone" sell="2000" type="none">
-    <sources>
-      <source name="Blue Stone" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6917" name="Blue Stone"/>
+    </droppedBy>
   </item>
   <item looktype="6444" name="Bommelsword" sell="67" type="weapon" vocation="warrior">
     <attacks fire_attack="5-43" level="22"/>
-    <sources>
-      <source name="Primeguard" type="mob"/>
-      <source name="Recruit" type="mob"/>
-      <source name="Tempguard" type="mob"/>
-      <source name="Warden" type="mob"/>
-      <source name="Wardy" type="mob"/>
-      <source name="Baby Drake" type="boss"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+      <monster looktype="6404" name="Recruit"/>
+      <monster looktype="6404" name="Tempguard"/>
+      <monster looktype="6405" name="Warden"/>
+      <monster looktype="6404" name="Primeguard"/>
+      <monster looktype="6405" name="Wardy"/>
+    </droppedBy>
   </item>
   <item looktype="6474" name="Branding stamp" sell="49" type="weapon" vocation="wizard">
     <attacks hit_attack="1-20" ice_attack="1-20" level="12" mana="3"/>
-    <sources>
-      <source name="Restless" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5126" name="Restless"/>
+    </droppedBy>
   </item>
   <item looktype="2572" name="Brass helmet" sell="46" type="helmet" vocation="warrior">
     <defences fire_def="5" hit_def="9" level="29"/>
-    <sources>
-      <source name="Bokk" type="mob"/>
-      <source name="Ibex" type="mob"/>
-      <source name="Markhor" type="mob"/>
-      <source name="Shogun" type="mob"/>
-      <source name="Wiashi" type="mob"/>
-      <source name="Baby Drake" type="boss"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+      <monster looktype="6405" name="Shogun"/>
+      <monster looktype="6405" name="Wiashi"/>
+      <monster looktype="5891" name="Bokk"/>
+      <monster looktype="5891" name="Ibex"/>
+      <monster looktype="5891" name="Markhor"/>
+    </droppedBy>
   </item>
   <item looktype="5316" name="Brinefiend Roots" sell="250" type="none">
-    <sources>
-      <source name="Brinefiend" type="mob"/>
-      <source name="Myst" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+      <monster looktype="6150" name="Brinefiend"/>
+    </droppedBy>
   </item>
   <item looktype="6513" name="Broodmother ring" sell="44" type="ring">
     <defences fire_def="13" hit_def="4" level="49"/>
-    <sources>
-      <source name="Gryllo" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5378" name="Gryllo"/>
+    </droppedBy>
   </item>
   <item looktype="6571" name="Brute Force" sell="1000" type="weapon" vocation="warrior">
     <attacks hit_attack="15-170" level="79"/>
-    <sources>
-      <source name="Ghoranus" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
+    </droppedBy>
   </item>
   <item looktype="6518" name="Burning blade" sell="34" type="weapon" vocation="warrior">
     <attacks fire_attack="4-74" level="33"/>
-    <sources>
-      <source name="Werewolf Master" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6664" name="Werewolf Master"/>
+    </droppedBy>
   </item>
   <item looktype="6536" name="Cell key" sell="10" type="none">
-    <sources>
-      <source name="Warden" type="mob"/>
-      <source name="Wardy" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6405" name="Warden"/>
+      <monster looktype="6405" name="Wardy"/>
+    </droppedBy>
   </item>
   <item looktype="5178" name="Ceremonial rod" sell="33" type="weapon" vocation="wizard">
     <attacks hit_attack="1-105" holy_attack="1-15" level="38" mana="11"/>
-    <sources>
-      <source name="The Bug" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+    </droppedBy>
   </item>
   <item looktype="5445" name="Chain helmet" sell="36" type="helmet" vocation="warrior">
     <defences hit_def="11" level="35"/>
-    <sources>
-      <source name="Trangler" type="mob"/>
-      <source name="Troll" type="mob"/>
-      <source name="Trollsmash" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5634" name="Troll"/>
+      <monster looktype="5634" name="Trollsmash"/>
+      <monster looktype="5634" name="Trangler"/>
+    </droppedBy>
   </item>
   <item looktype="6484" name="Chastity legs" sell="37" type="legs" vocation="warrior">
     <defences hit_def="8" holy_def="10" level="26"/>
-    <sources>
-      <source name="Bantinel" type="mob"/>
-      <source name="Cleptoman" type="mob"/>
-      <source name="Skonkey" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5385" name="Cleptoman"/>
+      <monster looktype="5385" name="Skonkey"/>
+      <monster looktype="5385" name="Bantinel"/>
+    </droppedBy>
   </item>
   <item looktype="6483" name="Chastity pants" sell="37" type="legs" vocation="wizard">
     <defences hit_def="8" holy_def="10" level="22"/>
-    <sources>
-      <source name="Bantinel" type="mob"/>
-      <source name="Cleptoman" type="mob"/>
-      <source name="Skonkey" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5385" name="Cleptoman"/>
+      <monster looktype="5385" name="Skonkey"/>
+      <monster looktype="5385" name="Bantinel"/>
+    </droppedBy>
   </item>
   <item looktype="5224" name="Chili stick" sell="1" type="weapon" vocation="wizard">
     <attacks fire_attack="1-12" level="0" mana="1"/>
-    <sources>
-      <source name="Bug" type="mob"/>
-      <source name="The Bug" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="2565" name="Bug"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+    </droppedBy>
   </item>
   <item looktype="6516" name="Claymore of damn" type="weapon" vocation="warrior">
     <attacks hit_attack="2-20" holy_attack="70-160" level="111"/>
-    <sources>
-      <source name="Kul'Krak'u" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+    </droppedBy>
   </item>
   <item looktype="5269" name="Coldshadow armour" sell="75" type="armour" vocation="warrior">
     <defences hit_def="8" ice_def="14" level="47"/>
-    <sources>
-      <source name="Little Drake" type="mob"/>
-      <source name="Gaspar" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+      <monster isBoss="true" looktype="5898" name="Little Drake"/>
+    </droppedBy>
   </item>
   <item looktype="5267" name="Coldshadow guard" sell="65" type="shield" vocation="wizard">
     <defences hit_def="5" ice_def="11" level="49"/>
-    <sources>
-      <source name="The Chicken" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5387" name="The Chicken"/>
+    </droppedBy>
   </item>
   <item looktype="5268" name="Coldshadow helmet" sell="65" type="helmet" vocation="warrior">
     <defences hit_def="4" ice_def="9" level="48"/>
-    <sources>
-      <source name="Little Drake" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5898" name="Little Drake"/>
+    </droppedBy>
   </item>
   <item looktype="5264" name="Coldshadow hood" sell="65" type="helmet" vocation="wizard">
     <defences hit_def="4" ice_def="12" level="47"/>
-    <sources>
-      <source name="Little Drake" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5898" name="Little Drake"/>
+    </droppedBy>
   </item>
   <item looktype="5270" name="Coldshadow legs" sell="65" type="legs" vocation="warrior">
     <defences hit_def="5" ice_def="15" level="46"/>
-    <sources>
-      <source name="The Chicken" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5387" name="The Chicken"/>
+    </droppedBy>
   </item>
   <item looktype="5266" name="Coldshadow pants" sell="55" type="legs" vocation="wizard">
     <defences hit_def="6" ice_def="14" level="46"/>
-    <sources>
-      <source name="The Chicken" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5387" name="The Chicken"/>
+    </droppedBy>
   </item>
   <item looktype="5265" name="Coldshadow robes" sell="75" type="armour" vocation="wizard">
     <defences hit_def="7" ice_def="20" level="48"/>
-    <sources>
-      <source name="Little Drake" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5898" name="Little Drake"/>
+    </droppedBy>
   </item>
   <item looktype="5271" name="Coldshadow shield" sell="65" type="shield" vocation="warrior">
     <defences hit_def="4" ice_def="9" level="49"/>
-    <sources>
-      <source name="The Chicken" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5387" name="The Chicken"/>
+    </droppedBy>
   </item>
   <item looktype="5590" name="Conflagrator" type="weapon" vocation="wizard">
     <attacks fire_attack="60-233" level="99" mana="23"/>
-    <sources>
-      <source name="Demon Lord" type="mob"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster looktype="5639" name="Demon Lord"/>
+    </droppedBy>
   </item>
   <item looktype="5239" name="Corsair tricorn" sell="44" type="helmet" vocation="warrior">
     <defences energy_def="12" hit_def="5" ice_def="12" level="41"/>
-    <sources>
-      <source name="Capitain" type="mob"/>
-      <source name="Bragnak" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="6148" name="Capitain"/>
+    </droppedBy>
   </item>
   <item looktype="6438" name="Cozy warmring" sell="44" type="ring">
     <defences energy_def="10" hit_def="15" level="56"/>
-    <sources>
-      <source name="Archvampir" type="mob"/>
-      <source name="Chaleton" type="mob"/>
-      <source name="Vampire" type="mob"/>
-      <source name="Vampmaster" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5636" name="Vampire"/>
+      <monster looktype="5636" name="Vampmaster"/>
+      <monster looktype="8451" name="Chaleton"/>
+      <monster looktype="5636" name="Archvampir"/>
+    </droppedBy>
   </item>
   <item looktype="6500" name="Creature Tracker" sell="300" type="script">
-    <sources>
-      <source name="Myst" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+    </droppedBy>
   </item>
   <item looktype="5210" name="Crown armour" sell="58" type="armour" vocation="warrior">
     <defences fire_def="30" hit_def="5" level="60"/>
-    <sources>
-      <source name="Leviatacle" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6151" name="Leviatacle"/>
+    </droppedBy>
   </item>
   <item looktype="5209" name="Crown helmet" sell="66" type="helmet" vocation="warrior">
     <defences fire_def="20" hit_def="15" level="70"/>
-    <sources>
-      <source name="Ninjana" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5388" name="Ninjana"/>
+    </droppedBy>
   </item>
   <item looktype="5211" name="Crown legs" sell="43" type="legs" vocation="warrior">
     <defences fire_def="20" level="54"/>
-    <sources>
-      <source name="Tyrannix" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5387" name="Tyrannix"/>
+    </droppedBy>
   </item>
   <item looktype="5191" name="Crusader helmet" sell="66" type="helmet" vocation="warrior">
     <defences holy_def="15" level="52"/>
-    <sources>
-      <source name="Big Zombie" type="mob"/>
-      <source name="King Bat" type="mob"/>
-      <source name="Apprentice" type="boss"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+      <monster isBoss="true" looktype="5377" name="Big Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="5195" name="Crusader shield" sell="93" type="shield" vocation="warrior">
     <defences hit_def="5" holy_def="15" level="55"/>
-    <sources>
-      <source name="King Bat" type="mob"/>
-      <source name="Orc General" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+      <monster isBoss="true" looktype="6663" name="Orc General"/>
+    </droppedBy>
   </item>
   <item looktype="5263" name="Crushing staff" sell="45" type="weapon" vocation="wizard">
     <attacks hit_attack="17-128" level="48" mana="12"/>
-    <sources>
-      <source name="Tutankhamn" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5123" name="Tutankhamn"/>
+    </droppedBy>
   </item>
   <item looktype="5163" name="Crystal chain" sell="48" type="chain">
     <defences energy_def="10" ice_def="10" level="49"/>
-    <sources>
-      <source name="Forofnat" type="mob"/>
-      <source name="Frostily" type="mob"/>
-      <source name="Smeliot" type="mob"/>
-      <source name="Treant" type="mob"/>
-      <source name="Yeti" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="5379" name="Frostily"/>
+      <monster looktype="5379" name="Smeliot"/>
+      <monster looktype="5379" name="Yeti"/>
+      <monster looktype="5893" name="Treant"/>
+      <monster looktype="5893" name="Forofnat"/>
+    </droppedBy>
   </item>
   <item looktype="5520" name="Crystal cloak" sell="2000" type="armour" vocation="wizard">
     <defences ice_def="35" level="65"/>
-    <sources>
-      <source name="Big Zombie" type="mob"/>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+      <monster isBoss="true" looktype="5377" name="Big Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="5554" name="Crystal cutter" type="weapon" vocation="warrior">
     <attacks ice_attack="20-205" level="99"/>
-    <sources>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Shellborn" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster looktype="6154" name="Hell Guard"/>
+    </droppedBy>
   </item>
   <item looktype="2598" name="Crystal eye" type="none">
-    <sources>
-      <source name="Crysmantis" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5378" name="Crysmantis"/>
+    </droppedBy>
   </item>
   <item looktype="5514" name="Crystal harness" sell="2000" type="armour" vocation="warrior">
     <defences ice_def="30" level="65"/>
-    <sources>
-      <source name="Big Zombie" type="mob"/>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+      <monster isBoss="true" looktype="5377" name="Big Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="5170" name="Crystal ring" sell="48" type="ring">
     <defences ice_def="15" level="56"/>
-    <sources>
-      <source name="Mammoth" type="mob"/>
-      <source name="Orc General" type="mob"/>
-      <source name="Orc Master" type="mob"/>
-      <source name="Zottel" type="mob"/>
-      <source name="Zuppel" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="5381" name="Mammoth"/>
+      <monster looktype="5381" name="Zottel"/>
+      <monster looktype="5381" name="Zuppel"/>
+      <monster isBoss="true" looktype="6663" name="Orc General"/>
+      <monster looktype="5122" name="Orc Master"/>
+    </droppedBy>
   </item>
   <item looktype="5272" name="Crystal shard ring" sell="45" type="ring">
     <defences ice_def="13" level="50"/>
-    <sources>
-      <source name="Djinn" type="mob"/>
-      <source name="ElderDjinn" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6410" name="Djinn"/>
+      <monster looktype="6410" name="ElderDjinn"/>
+    </droppedBy>
   </item>
   <item looktype="6406" name="Crystal stinger" type="none">
-    <sources>
-      <source name="Horrornet" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2573" name="Horrornet"/>
+    </droppedBy>
   </item>
   <item looktype="5553" name="Curse of Ashmor" type="weapon" vocation="wizard">
     <attacks holy_attack="18-175" level="74" mana="18"/>
-    <sources>
-      <source name="Chilong" type="boss"/>
-      <source name="Ghostnon" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
+    </droppedBy>
   </item>
   <item looktype="6521" name="Curved reaver" sell="36" type="weapon" vocation="warrior">
     <attacks hit_attack="1-70" level="30"/>
-    <sources>
-      <source name="Farmzombie" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6401" name="Farmzombie"/>
+    </droppedBy>
   </item>
   <item looktype="6547" name="Cutting leafes" sell="56" type="weapon" vocation="warrior">
     <attacks holy_attack="1-102" level="44"/>
-    <sources>
-      <source name="Gaspar" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+    </droppedBy>
   </item>
   <item looktype="2595" name="Cyclops Skin" type="none">
-    <sources>
-      <source name="Pillarclop" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5637" name="Pillarclop"/>
+    </droppedBy>
   </item>
   <item looktype="5522" name="Deepfrozen hood" type="helmet" vocation="wizard">
     <defences hit_def="13" ice_def="27" level="79"/>
-    <sources>
-      <source name="Odon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
   </item>
   <item looktype="5521" name="Deepfrozen pants" type="legs" vocation="wizard">
     <defences hit_def="16" ice_def="32" level="79"/>
-    <sources>
-      <source name="Odon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
   </item>
   <item looktype="5523" name="Deepfrozen shield" type="shield" vocation="wizard">
     <defences hit_def="13" ice_def="27" level="79"/>
-    <sources>
-      <source name="Odon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
   </item>
   <item looktype="5566" name="Divine health potion" type="potion">
     <heals hp="1500"/>
-    <sources>
-      <source name="Abominatio" type="mob"/>
-      <source name="Abominy" type="mob"/>
-      <source name="Archvampir" type="mob"/>
-      <source name="Behemoth" type="mob"/>
-      <source name="Blackdrake" type="mob"/>
-      <source name="Cerberus" type="mob"/>
-      <source name="Chaodrake" type="mob"/>
-      <source name="Demon Lord" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Leviatacle" type="mob"/>
-      <source name="Levitacle" type="mob"/>
-      <source name="Tazmania" type="mob"/>
-    </sources>
+    <droppedBy count="13">
+      <monster looktype="6155" name="Behemoth"/>
+      <monster looktype="5636" name="Archvampir"/>
+      <monster looktype="6412" name="Blackdrake"/>
+      <monster looktype="6412" name="Chaodrake"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="6151" name="Leviatacle"/>
+      <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="6659" name="Abominatio"/>
+      <monster looktype="8449" name="Abominy"/>
+      <monster looktype="6412" name="Fouldrake"/>
+      <monster isBoss="true" looktype="6659" name="Tazmania"/>
+      <monster looktype="5642" name="Cerberus"/>
+      <monster looktype="5639" name="Demon Lord"/>
+    </droppedBy>
   </item>
   <item looktype="5573" name="Divine mana potion" type="potion">
     <heals mp="1200"/>
-    <sources>
-      <source name="Abominatio" type="mob"/>
-      <source name="Abominy" type="mob"/>
-      <source name="Archvampir" type="mob"/>
-      <source name="Cerberus" type="mob"/>
-      <source name="Chaodrake" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Leviatacle" type="mob"/>
-      <source name="Levitacle" type="mob"/>
-      <source name="Tazmania" type="mob"/>
-    </sources>
+    <droppedBy count="10">
+      <monster looktype="5636" name="Archvampir"/>
+      <monster looktype="6412" name="Chaodrake"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="6151" name="Leviatacle"/>
+      <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="6659" name="Abominatio"/>
+      <monster looktype="8449" name="Abominy"/>
+      <monster looktype="6412" name="Fouldrake"/>
+      <monster isBoss="true" looktype="6659" name="Tazmania"/>
+      <monster looktype="5642" name="Cerberus"/>
+    </droppedBy>
   </item>
   <item looktype="5552" name="Divine twinblade" sell="1000" type="weapon" vocation="warrior">
     <attacks holy_attack="15-170" level="79"/>
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="NanoWasp" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5892" name="NanoWasp"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="5553" name="Divine twinstaff" sell="1000" type="weapon" vocation="wizard">
     <attacks holy_attack="19-185" level="79" mana="19"/>
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="NanoWasp" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5892" name="NanoWasp"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="2599" name="Dragon Candle" type="script">
-    <sources>
-      <source name="Fouldraky" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6412" name="Fouldraky"/>
+    </droppedBy>
   </item>
   <item looktype="5232" name="Dragon pearl" sell="400" type="none">
-    <sources>
-      <source name="Baby Drake" type="mob"/>
-      <source name="Dragon" type="mob"/>
-      <source name="Fire Drake" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5898" name="Fire Drake"/>
+      <monster looktype="5638" name="Dragon"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+    </droppedBy>
   </item>
   <item looktype="6495" name="Drake skin" sell="25" type="none">
-    <sources>
-      <source name="Baby Drake" type="mob"/>
-      <source name="Fire Drake" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5898" name="Fire Drake"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+    </droppedBy>
   </item>
   <item looktype="5559" name="Dul'mar" sell="1000" type="weapon" vocation="warrior">
     <attacks fire_attack="15-170" level="79"/>
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="NanoWasp" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-      <source name="Chilong" type="boss"/>
-      <source name="Crepper" type="boss"/>
-      <source name="Crystally" type="boss"/>
-      <source name="Ghoranus" type="boss"/>
-      <source name="Ghostnon" type="boss"/>
-      <source name="Kul'Krak'u" type="boss"/>
-      <source name="Myst" type="boss"/>
-      <source name="Shellborn" type="boss"/>
-      <source name="The Fouldrake" type="boss"/>
-      <source name="The Miner" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="17">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5892" name="NanoWasp"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="6501" name="Edge of storm" sell="65" type="weapon" vocation="warrior">
     <attacks energy_attack="1-113" level="49"/>
-    <sources>
-      <source name="Bragnak" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+    </droppedBy>
   </item>
   <item looktype="5596" name="Elder health potion" type="potion">
     <heals hp="3200"/>
-    <sources>
-      <source name="Darktaur" type="mob"/>
-      <source name="Elite Borc" type="mob"/>
-      <source name="Gorgon" type="mob"/>
-      <source name="Kyklopes" type="mob"/>
-      <source name="Medusa" type="mob"/>
-      <source name="Mutan" type="mob"/>
-      <source name="Mutant" type="mob"/>
-      <source name="Petraclops" type="mob"/>
-      <source name="Tauragor" type="mob"/>
-      <source name="Viper" type="mob"/>
-      <source name="Worc" type="mob"/>
-    </sources>
+    <droppedBy count="11">
+      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="6663" name="Worc"/>
+      <monster looktype="5384" name="Mutan"/>
+      <monster looktype="6913" name="Mutant"/>
+      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
+      <monster isBoss="true" looktype="6658" name="Tauragor"/>
+      <monster isBoss="true" looktype="5131" name="Medusa"/>
+      <monster looktype="5132" name="Viper"/>
+      <monster looktype="6658" name="Darktaur"/>
+      <monster looktype="5131" name="Gorgon"/>
+      <monster looktype="6657" name="Petraclops"/>
+    </droppedBy>
   </item>
   <item looktype="5598" name="Elder mana potion" type="potion">
     <heals mp="2400"/>
-    <sources>
-      <source name="Darktaur" type="mob"/>
-      <source name="Elite Borc" type="mob"/>
-      <source name="Gorgon" type="mob"/>
-      <source name="Kyklopes" type="mob"/>
-      <source name="Medusa" type="mob"/>
-      <source name="Mutan" type="mob"/>
-      <source name="Mutant" type="mob"/>
-      <source name="Petraclops" type="mob"/>
-      <source name="Tauragor" type="mob"/>
-      <source name="Viper" type="mob"/>
-      <source name="Worc" type="mob"/>
-    </sources>
+    <droppedBy count="11">
+      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="6663" name="Worc"/>
+      <monster looktype="5384" name="Mutan"/>
+      <monster looktype="6913" name="Mutant"/>
+      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
+      <monster isBoss="true" looktype="6658" name="Tauragor"/>
+      <monster isBoss="true" looktype="5131" name="Medusa"/>
+      <monster looktype="5132" name="Viper"/>
+      <monster looktype="6658" name="Darktaur"/>
+      <monster looktype="5131" name="Gorgon"/>
+      <monster looktype="6657" name="Petraclops"/>
+    </droppedBy>
   </item>
   <item looktype="5597" name="Elder might potion" type="potion">
     <heals hp="3200" mp="2400"/>
-    <sources>
-      <source name="Darktaur" type="mob"/>
-      <source name="Gorgon" type="mob"/>
-      <source name="Kyklopes" type="mob"/>
-      <source name="Medusa" type="mob"/>
-      <source name="Petraclops" type="mob"/>
-      <source name="Tauragor" type="mob"/>
-      <source name="Viper" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
+      <monster isBoss="true" looktype="6658" name="Tauragor"/>
+      <monster isBoss="true" looktype="5131" name="Medusa"/>
+      <monster looktype="5132" name="Viper"/>
+      <monster looktype="6658" name="Darktaur"/>
+      <monster looktype="5131" name="Gorgon"/>
+      <monster looktype="6657" name="Petraclops"/>
+    </droppedBy>
   </item>
   <item looktype="5262" name="Elder staff" sell="55" type="weapon" vocation="wizard">
     <attacks holy_attack="25-126" level="50" mana="13"/>
-    <sources>
-      <source name="Tutankhamn" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5123" name="Tutankhamn"/>
+    </droppedBy>
   </item>
   <item looktype="6584" name="Emerald" sell="450" type="none">
-    <sources>
-      <source name="Gaspar" type="mob"/>
-      <source name="Ghost" type="mob"/>
-      <source name="Lizardman" type="mob"/>
-      <source name="Restless" type="mob"/>
-      <source name="Trangler" type="mob"/>
-      <source name="Treant" type="mob"/>
-      <source name="Troll" type="mob"/>
-      <source name="Trollsmash" type="mob"/>
-    </sources>
+    <droppedBy count="8">
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="2566" name="Lizardman"/>
+      <monster looktype="5126" name="Restless"/>
+      <monster looktype="5634" name="Troll"/>
+      <monster looktype="5634" name="Trollsmash"/>
+      <monster looktype="5634" name="Trangler"/>
+      <monster looktype="5893" name="Treant"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+    </droppedBy>
   </item>
   <item looktype="5127" name="Energy blade" sell="48" type="weapon" vocation="warrior">
     <attacks energy_attack="1-62" level="30"/>
-    <sources>
-      <source name="Flappy" type="mob"/>
-      <source name="Flutt" type="mob"/>
-      <source name="Flutto" type="mob"/>
-      <source name="Flutty" type="mob"/>
-      <source name="Long" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="6407" name="Flutt"/>
+      <monster looktype="6407" name="Flutto"/>
+      <monster looktype="6407" name="Flutty"/>
+      <monster looktype="6407" name="Long"/>
+      <monster looktype="6407" name="Flappy"/>
+    </droppedBy>
   </item>
   <item looktype="5148" name="Energy discus" sell="38" type="weapon" vocation="wizard">
     <attacks energy_attack="1-94" level="32" mana="9"/>
-    <sources>
-      <source name="Flappy" type="mob"/>
-      <source name="Flutt" type="mob"/>
-      <source name="Flutto" type="mob"/>
-      <source name="Flutty" type="mob"/>
-      <source name="Long" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="6407" name="Flutt"/>
+      <monster looktype="6407" name="Flutto"/>
+      <monster looktype="6407" name="Flutty"/>
+      <monster looktype="6407" name="Long"/>
+      <monster looktype="6407" name="Flappy"/>
+    </droppedBy>
   </item>
   <item looktype="5167" name="Energy ring" sell="78" type="ring">
     <defences energy_def="25" level="78"/>
-    <sources>
-      <source name="Aural" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5892" name="Aural"/>
+    </droppedBy>
   </item>
   <item looktype="5144" name="Energy Stone" type="script">
-    <sources>
-      <source name="Tyrannix" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5387" name="Tyrannix"/>
+    </droppedBy>
   </item>
   <item looktype="5396" name="Enlighted cap" sell="45" type="helmet" vocation="wizard">
     <defences hit_def="12" level="32"/>
-    <sources>
-      <source name="Wiashi" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6405" name="Wiashi"/>
+    </droppedBy>
   </item>
   <item looktype="5441" name="Enlighted necklace" sell="33" type="chain">
     <defences hit_def="7" level="31"/>
-    <sources>
-      <source name="Bloodfly" type="mob"/>
-      <source name="Buzzy" type="mob"/>
-      <source name="Kappa" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="6408" name="Bloodfly"/>
+      <monster looktype="6409" name="Kappa"/>
+      <monster looktype="6408" name="Buzzy"/>
+    </droppedBy>
   </item>
   <item looktype="5442" name="Enlighted ring" sell="24" type="ring">
     <defences hit_def="9" level="30"/>
-    <sources>
-      <source name="Kreppan" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6409" name="Kreppan"/>
+    </droppedBy>
   </item>
   <item looktype="5478" name="Enlighted shield" sell="32" type="shield" vocation="wizard">
     <defences hit_def="12" level="29"/>
-    <sources>
-      <source name="Monk" type="mob"/>
-      <source name="Monky" type="mob"/>
-      <source name="Nimon" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="6406" name="Nimon"/>
+      <monster looktype="6406" name="Monk"/>
+      <monster looktype="6406" name="Monky"/>
+    </droppedBy>
   </item>
   <item looktype="5395" name="Enlighted shirt" sell="47" type="armour" vocation="wizard">
     <defences hit_def="19" level="33"/>
-    <sources>
-      <source name="Shogun" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6405" name="Shogun"/>
+    </droppedBy>
   </item>
   <item looktype="5550" name="Eternal Winter" type="weapon" vocation="warrior">
     <attacks ice_attack="14-161" level="74"/>
-    <sources>
-      <source name="Crystally" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
+    </droppedBy>
   </item>
   <item looktype="5675" name="Ethereal Shards" sell="5000" type="none">
-    <sources>
-      <source name="Myst" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+    </droppedBy>
   </item>
   <item looktype="6587" name="Etheric ore" sell="350" type="none">
-    <sources>
-      <source name="Abominy" type="mob"/>
-      <source name="Elite Borc" type="mob"/>
-      <source name="Elite Mutan" type="mob"/>
-      <source name="Elite Mutant" type="mob"/>
-      <source name="Elite Worc" type="mob"/>
-      <source name="Levitacle" type="mob"/>
-      <source name="Orc Hunter" type="mob"/>
-      <source name="Worc" type="mob"/>
-    </sources>
+    <droppedBy count="8">
+      <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="8449" name="Abominy"/>
+      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="6663" name="Elite Worc"/>
+      <monster looktype="6663" name="Worc"/>
+      <monster looktype="6662" name="Orc Hunter"/>
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Evilare mask" sell="550" type="mask">
-    <sources>
-      <source name="ProtoFang" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5384" name="ProtoFang"/>
+    </droppedBy>
   </item>
   <item looktype="6451" name="Fan" sell="36" type="weapon" vocation="wizard">
     <attacks ice_attack="1-61" level="21" mana="6"/>
-    <sources>
-      <source name="Primeguard" type="mob"/>
-      <source name="Recruit" type="mob"/>
-      <source name="Tempguard" type="mob"/>
-      <source name="Warden" type="mob"/>
-      <source name="Wardy" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="6404" name="Recruit"/>
+      <monster looktype="6404" name="Tempguard"/>
+      <monster looktype="6405" name="Warden"/>
+      <monster looktype="6404" name="Primeguard"/>
+      <monster looktype="6405" name="Wardy"/>
+    </droppedBy>
   </item>
   <item looktype="6554" name="Faraday skirt" sell="56" type="legs" vocation="wizard">
     <defences energy_def="12" hit_def="10" level="27"/>
-    <sources>
-      <source name="Peasant" type="mob"/>
-      <source name="Restliss" type="mob"/>
-      <source name="Restluss" type="mob"/>
-      <source name="Ristless" type="mob"/>
-      <source name="Ristloss" type="mob"/>
-      <source name="Rostless" type="mob"/>
-      <source name="Rustless" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="6402" name="Peasant"/>
+      <monster looktype="6402" name="Restliss"/>
+      <monster looktype="6402" name="Restluss"/>
+      <monster looktype="6402" name="Ristless"/>
+      <monster looktype="6402" name="Ristloss"/>
+      <monster looktype="6402" name="Rostless"/>
+      <monster looktype="6402" name="Rustless"/>
+    </droppedBy>
   </item>
   <item looktype="5220" name="Feathered stick" sell="5" type="weapon" vocation="wizard">
     <attacks hit_attack="1-16" level="3" mana="2"/>
-    <sources>
-      <source name="Snake" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2568" name="Snake"/>
+    </droppedBy>
   </item>
   <item looktype="5430" name="Field armour" sell="24" type="armour" vocation="warrior">
     <defences hit_def="12" level="20"/>
-    <sources>
-      <source name="Hissy" type="mob"/>
-      <source name="Sabrecat" type="mob"/>
-      <source name="Scratchy" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5380" name="Hissy"/>
+      <monster looktype="5380" name="Sabrecat"/>
+      <monster looktype="5380" name="Scratchy"/>
+    </droppedBy>
   </item>
   <item looktype="5431" name="Field helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="7" level="18"/>
-    <sources>
-      <source name="Lich" type="mob"/>
-      <source name="Lich King" type="mob"/>
-      <source name="Lich Lord" type="mob"/>
-      <source name="Twombie" type="mob"/>
-      <source name="Zombie" type="mob"/>
-      <source name="Zompforp" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5377" name="Twombie"/>
+      <monster looktype="5377" name="Zompforp"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+      <monster looktype="5377" name="Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="5434" name="Field ring" sell="24" type="ring">
     <defences hit_def="7" level="21"/>
-    <sources>
-      <source name="Hissy" type="mob"/>
-      <source name="Sabrecat" type="mob"/>
-      <source name="Sabrerus" type="mob"/>
-      <source name="Scratchy" type="mob"/>
-      <source name="Walrull" type="mob"/>
-      <source name="Walrus" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster looktype="5380" name="Hissy"/>
+      <monster looktype="5380" name="Sabrecat"/>
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5380" name="Scratchy"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+    </droppedBy>
   </item>
   <item looktype="5588" name="Fiery nexus" type="weapon" vocation="warrior">
     <attacks fire_attack="20-205" level="99"/>
-    <sources>
-      <source name="Demon Lord" type="mob"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster looktype="5639" name="Demon Lord"/>
+    </droppedBy>
   </item>
   <item looktype="5565" name="Fine health potion" type="potion">
     <heals hp="1250"/>
-    <sources>
-      <source name="Blackdrake" type="mob"/>
-      <source name="Brinefiend" type="mob"/>
-      <source name="Bullwar" type="mob"/>
-      <source name="Demon" type="mob"/>
-      <source name="Demon Lord" type="mob"/>
-      <source name="Djinn" type="mob"/>
-      <source name="ElderDjinn" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Krakomin" type="mob"/>
-      <source name="Saurial" type="mob"/>
-      <source name="Shellborn" type="mob"/>
-    </sources>
+    <droppedBy count="12">
+      <monster looktype="6410" name="Djinn"/>
+      <monster looktype="5635" name="Bullwar"/>
+      <monster looktype="2566" name="Saurial"/>
+      <monster looktype="6412" name="Blackdrake"/>
+      <monster looktype="6150" name="Brinefiend"/>
+      <monster looktype="5639" name="Demon"/>
+      <monster looktype="6410" name="ElderDjinn"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="5644" name="Krakomin"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster looktype="6412" name="Fouldrake"/>
+      <monster looktype="5639" name="Demon Lord"/>
+    </droppedBy>
   </item>
   <item looktype="5572" name="Fine mana potion" type="potion">
     <heals mp="1050"/>
-    <sources>
-      <source name="Brinefiend" type="mob"/>
-      <source name="Bullwar" type="mob"/>
-      <source name="Demon" type="mob"/>
-      <source name="Djinn" type="mob"/>
-      <source name="ElderDjinn" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Krakomin" type="mob"/>
-      <source name="Saurial" type="mob"/>
-      <source name="Shellborn" type="mob"/>
-    </sources>
+    <droppedBy count="10">
+      <monster looktype="6410" name="Djinn"/>
+      <monster looktype="5635" name="Bullwar"/>
+      <monster looktype="2566" name="Saurial"/>
+      <monster looktype="6150" name="Brinefiend"/>
+      <monster looktype="5639" name="Demon"/>
+      <monster looktype="6410" name="ElderDjinn"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="5644" name="Krakomin"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="5579" name="Fine might potion" type="potion">
     <heals hp="1250" mp="1050"/>
-    <sources>
-      <source name="Bullwar" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Saurial" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5635" name="Bullwar"/>
+      <monster looktype="2566" name="Saurial"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="5147" name="Fire discus" sell="25" type="weapon" vocation="wizard">
     <attacks fire_attack="1-54" level="18" mana="6"/>
-    <sources>
-      <source name="Skeleguard" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6152" name="Skeleguard"/>
+    </droppedBy>
   </item>
   <item looktype="5168" name="Fire ring" sell="106" type="ring">
     <defences fire_def="20" level="76"/>
-    <sources>
-      <source name="Dragon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5638" name="Dragon"/>
+    </droppedBy>
   </item>
   <item looktype="5174" name="Fire rod" sell="83" type="weapon" vocation="wizard">
     <attacks fire_attack="1-82" level="28" mana="8"/>
-    <sources>
-      <source name="Baby Drake" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+    </droppedBy>
   </item>
   <item looktype="2568" name="Fire rune" sell="44" type="weapon" vocation="wizard">
     <attacks fire_attack="1-34" level="10" mana="3"/>
-    <sources>
-      <source name="Hornet" type="mob"/>
-      <source name="Mean wolf" type="mob"/>
-      <source name="Skeleguard" type="mob"/>
-      <source name="Tarantula" type="mob"/>
-      <source name="Widow" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="2573" name="Hornet"/>
+      <monster looktype="2569" name="Mean wolf"/>
+      <monster looktype="6152" name="Skeleguard"/>
+      <monster looktype="2567" name="Tarantula"/>
+      <monster looktype="2567" name="Widow"/>
+    </droppedBy>
   </item>
   <item looktype="5129" name="Flame spear" sell="8" type="weapon" vocation="warrior">
     <attacks fire_attack="1-15" hit_attack="1-4" level="6"/>
-    <sources>
-      <source name="Hornet" type="mob"/>
-      <source name="Mean wolf" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="2573" name="Hornet"/>
+      <monster looktype="2569" name="Mean wolf"/>
+    </droppedBy>
   </item>
   <item looktype="5219" name="Flash hacker" sell="44" type="weapon" vocation="warrior">
     <attacks energy_attack="1-15" hit_attack="1-12" level="10"/>
-    <sources>
-      <source name="Skeleton" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5121" name="Skeleton"/>
+    </droppedBy>
   </item>
   <item looktype="6475" name="Flogging rune" sell="56" type="weapon" vocation="wizard">
     <attacks hit_attack="1-48" level="15" mana="6"/>
-    <sources>
-      <source name="Bear" type="mob"/>
-      <source name="Bokk" type="mob"/>
-      <source name="Ibex" type="mob"/>
-      <source name="Markhor" type="mob"/>
-      <source name="Rabid Bear" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="2572" name="Bear"/>
+      <monster looktype="2572" name="Rabid Bear"/>
+      <monster looktype="5891" name="Bokk"/>
+      <monster looktype="5891" name="Ibex"/>
+      <monster looktype="5891" name="Markhor"/>
+    </droppedBy>
   </item>
   <item looktype="5436" name="Focus helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="8" level="24"/>
-    <sources>
-      <source name="Sabrerus" type="mob"/>
-      <source name="Walrull" type="mob"/>
-      <source name="Walrus" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+    </droppedBy>
   </item>
   <item looktype="5440" name="Focus shield" sell="37" type="shield" vocation="warrior">
     <defences hit_def="9" level="33"/>
-    <sources>
-      <source name="Primeguard" type="mob"/>
-      <source name="Recruit" type="mob"/>
-      <source name="Tempguard" type="mob"/>
-      <source name="Warden" type="mob"/>
-      <source name="Wardy" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="6404" name="Recruit"/>
+      <monster looktype="6404" name="Tempguard"/>
+      <monster looktype="6405" name="Warden"/>
+      <monster looktype="6404" name="Primeguard"/>
+      <monster looktype="6405" name="Wardy"/>
+    </droppedBy>
   </item>
   <item looktype="6573" name="Forcebender ring" type="ring">
     <defences hit_def="25" level="79"/>
-    <sources>
-      <source name="Elite Mutan" type="mob"/>
-      <source name="Elite Mutant" type="mob"/>
-      <source name="Elite Worc" type="mob"/>
-      <source name="Mutan" type="mob"/>
-      <source name="Mutant" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="6663" name="Elite Worc"/>
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+      <monster looktype="5384" name="Mutan"/>
+      <monster looktype="6913" name="Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="5435" name="Fortified legs" sell="24" type="legs" vocation="warrior">
     <defences hit_def="10" level="26"/>
-    <sources>
-      <source name="Angrax" type="mob"/>
-      <source name="Cultist" type="mob"/>
-      <source name="Cultix" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5130" name="Angrax"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+    </droppedBy>
   </item>
   <item looktype="5500" name="Freezer planks" sell="20" type="shield" vocation="wizard">
     <defences hit_def="7" ice_def="7" level="17"/>
-    <sources>
-      <source name="Bat" type="mob"/>
-      <source name="Giant Bat" type="mob"/>
-      <source name="Little Bat" type="mob"/>
-      <source name="Skeleton" type="mob"/>
-      <source name="Vamp Bat" type="mob"/>
-      <source name="The Fouldrake" type="boss"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="5124" name="Little Bat"/>
+      <monster looktype="5121" name="Skeleton"/>
+      <monster looktype="5124" name="Vamp Bat"/>
+      <monster looktype="5124" name="Giant Bat"/>
+    </droppedBy>
   </item>
   <item looktype="6477" name="Freezer rune" sell="27" type="weapon" vocation="wizard">
     <attacks ice_attack="1-84" level="29" mana="9"/>
-    <sources>
-      <source name="Bragnak" type="mob"/>
-      <source name="Orc" type="mob"/>
-      <source name="Orc Leader" type="mob"/>
-      <source name="Orc Raider" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Leader"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+    </droppedBy>
   </item>
   <item looktype="5499" name="Freezer shield" sell="60" type="shield" vocation="warrior">
     <defences hit_def="5" ice_def="5" level="15"/>
-    <sources>
-      <source name="Skeleguard" type="mob"/>
-      <source name="Skelenary" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6152" name="Skeleguard"/>
+      <monster looktype="5121" name="Skelenary"/>
+    </droppedBy>
   </item>
   <item looktype="5280" name="Frog Pet" type="addpet">
-    <sources>
-      <source name="The Frog" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5889" name="The Frog"/>
+    </droppedBy>
   </item>
   <item looktype="6433" name="Frost helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="5" ice_def="20" level="70"/>
-    <sources>
-      <source name="Ghostnon" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
+    </droppedBy>
   </item>
   <item looktype="6436" name="Frost hood" sell="43" type="helmet" vocation="wizard">
     <defences hit_def="5" ice_def="22" level="62"/>
-    <sources>
-      <source name="Ghostnon" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
+    </droppedBy>
   </item>
   <item looktype="6502" name="Frost smasher" sell="65" type="weapon" vocation="warrior">
     <attacks ice_attack="1-108" level="47"/>
-    <sources>
-      <source name="The Fanatic" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+    </droppedBy>
   </item>
   <item looktype="5121" name="Frostbringer" sell="10" type="weapon" vocation="warrior">
     <attacks ice_attack="1-65" level="31"/>
-    <sources>
-      <source name="Archvampir" type="mob"/>
-      <source name="Berseclops" type="mob"/>
-      <source name="Bragnak" type="mob"/>
-      <source name="Cyclops" type="mob"/>
-      <source name="Orc" type="mob"/>
-      <source name="Orc Leader" type="mob"/>
-      <source name="Orc Raider" type="mob"/>
-      <source name="Vampire" type="mob"/>
-      <source name="Vampmaster" type="mob"/>
-    </sources>
+    <droppedBy count="9">
+      <monster looktype="5637" name="Cyclops"/>
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Leader"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="5637" name="Berseclops"/>
+      <monster looktype="5636" name="Vampire"/>
+      <monster looktype="5636" name="Vampmaster"/>
+      <monster looktype="5636" name="Archvampir"/>
+    </droppedBy>
   </item>
   <item looktype="5517" name="Frostscale barrier" type="shield" vocation="warrior">
     <defences hit_def="10" ice_def="21" level="79"/>
-    <sources>
-      <source name="Odon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
   </item>
   <item looktype="5516" name="Frostscale helmet" type="helmet" vocation="warrior">
     <defences hit_def="10" ice_def="21" level="79"/>
-    <sources>
-      <source name="Odon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
   </item>
   <item looktype="5515" name="Frostscale legplates" type="legs" vocation="warrior">
     <defences hit_def="13" ice_def="27" level="79"/>
-    <sources>
-      <source name="Odon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
   </item>
   <item looktype="5518" name="Frostscale Ring" sell="77" type="ring">
     <defences hit_def="7" ice_def="22" level="79"/>
-    <sources>
-      <source name="Elite Mutan" type="mob"/>
-      <source name="Elite Mutant" type="mob"/>
-      <source name="Mutan" type="mob"/>
-      <source name="Mutant" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+      <monster looktype="5384" name="Mutan"/>
+      <monster looktype="6913" name="Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="6471" name="Frozarium" sell="67" type="weapon" vocation="warrior">
     <attacks ice_attack="1-36" level="20"/>
-    <sources>
-      <source name="Minosol" type="mob"/>
-      <source name="Minotaur" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5635" name="Minosol"/>
+      <monster looktype="5635" name="Minotaur"/>
+    </droppedBy>
   </item>
   <item looktype="5498" name="Frozen shield" sell="60" type="shield" vocation="warrior">
     <defences hit_def="6" ice_def="18" level="55"/>
-    <sources>
-      <source name="The Fouldrake" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="6469" name="Fugazor" sell="55" type="weapon" vocation="warrior">
     <attacks fire_attack="1-97" level="42"/>
-    <sources>
-      <source name="Werewolf" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2569" name="Werewolf"/>
+    </droppedBy>
   </item>
   <item looktype="5204" name="Fur gloves" sell="33" type="ring">
     <defences ice_def="10" level="34"/>
-    <sources>
-      <source name="The Bug" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+    </droppedBy>
   </item>
   <item looktype="5388" name="Fur-lined cap" sell="33" type="helmet" vocation="wizard">
     <defences hit_def="7" ice_def="7" level="13"/>
-    <sources>
-      <source name="Cult Tutor" type="mob"/>
-      <source name="Gaspar" type="mob"/>
-      <source name="Ghost" type="mob"/>
-      <source name="Restless" type="mob"/>
-      <source name="Tarmonted" type="mob"/>
-      <source name="Tormonted" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="6153" name="Cult Tutor"/>
+      <monster looktype="5126" name="Restless"/>
+      <monster looktype="5126" name="Tarmonted"/>
+      <monster looktype="5126" name="Tormonted"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+    </droppedBy>
   </item>
   <item looktype="5470" name="Fur-lined legs" sell="17" type="legs" vocation="warrior">
     <defences hit_def="7" ice_def="7" level="13"/>
-    <sources>
-      <source name="Gaspar" type="mob"/>
-      <source name="Ghost" type="mob"/>
-      <source name="Restless" type="mob"/>
-      <source name="Tarmonted" type="mob"/>
-      <source name="Tormonted" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="5126" name="Restless"/>
+      <monster looktype="5126" name="Tarmonted"/>
+      <monster looktype="5126" name="Tormonted"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+    </droppedBy>
   </item>
   <item looktype="2586" name="Ghost blood" type="none">
-    <sources>
-      <source name="Tarmonted" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5126" name="Tarmonted"/>
+    </droppedBy>
   </item>
   <item looktype="6583" name="Ghost Crystal" type="script">
-    <sources>
-      <source name="AcidWorm" type="mob"/>
-      <source name="BioGhoul" type="mob"/>
-      <source name="Ghostsin" type="mob"/>
-      <source name="ProtoFang" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5126" name="Ghostsin"/>
+      <monster isBoss="true" looktype="6915" name="AcidWorm"/>
+      <monster isBoss="true" looktype="5126" name="BioGhoul"/>
+      <monster isBoss="true" looktype="5384" name="ProtoFang"/>
+    </droppedBy>
   </item>
   <item looktype="5551" name="Gift of Nivalis" type="weapon" vocation="wizard">
     <attacks ice_attack="18-175" level="74" mana="18"/>
-    <sources>
-      <source name="Crystally" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
+    </droppedBy>
   </item>
   <item looktype="2584" name="Girtonyclerine" type="none">
-    <sources>
-      <source name="Young Yeti" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5379" name="Young Yeti"/>
+    </droppedBy>
   </item>
   <item looktype="5164" name="Glacier chain" sell="48" type="chain">
     <defences hit_def="5" ice_def="10" level="49"/>
-    <sources>
-      <source name="Construct" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6154" name="Construct"/>
+    </droppedBy>
   </item>
   <item looktype="5188" name="Glove of eternity" sell="154" type="weapon" vocation="wizard">
     <attacks hit_attack="1-25" holy_attack="1-40" ice_attack="1-130" level="69" mana="17"/>
-    <sources>
-      <source name="Dragon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5638" name="Dragon"/>
+    </droppedBy>
   </item>
   <item looktype="5138" name="Glowing hammer" sell="5" type="weapon" vocation="warrior">
     <attacks fire_attack="1-10" hit_attack="1-5" level="3"/>
-    <sources>
-      <source name="Frog" type="mob"/>
-      <source name="Frogy" type="mob"/>
-      <source name="Snake" type="mob"/>
-      <source name="Squirell" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5889" name="Frog"/>
+      <monster looktype="2568" name="Snake"/>
+      <monster looktype="5129" name="Squirell"/>
+      <monster looktype="5889" name="Frogy"/>
+    </droppedBy>
   </item>
   <item looktype="2574" name="Gold ring" sell="106" type="ring">
     <defences energy_def="20" level="76"/>
-    <sources>
-      <source name="Dragon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5638" name="Dragon"/>
+    </droppedBy>
   </item>
   <item looktype="8477" name="Gold Stone" sell="3000" type="none">
-    <sources>
-      <source name="Gold Stone" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6918" name="Gold Stone"/>
+    </droppedBy>
   </item>
   <item looktype="5251" name="Golden dragon egg" type="none">
-    <sources>
-      <source name="Blackburn" type="mob"/>
-      <source name="Draguns" type="mob"/>
-      <source name="Electryon" type="mob"/>
-      <source name="Shiverthor" type="mob"/>
-      <source name="Soulrath" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster isBoss="true" looktype="6412" name="Blackburn"/>
+      <monster isBoss="true" looktype="5899" name="Draguns"/>
+      <monster isBoss="true" looktype="5898" name="Electryon"/>
+      <monster isBoss="true" looktype="5641" name="Shiverthor"/>
+      <monster isBoss="true" looktype="5638" name="Soulrath"/>
+    </droppedBy>
   </item>
   <item looktype="8453" name="Goldfish" sell="500" type="none">
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="5563" name="Great health potion" type="potion">
     <heals hp="800"/>
-    <sources>
-      <source name="Behemoth" type="mob"/>
-      <source name="Blackdrake" type="mob"/>
-      <source name="Demon Lord" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Ninjana" type="mob"/>
-      <source name="Tyrannix" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="5387" name="Tyrannix"/>
+      <monster looktype="5388" name="Ninjana"/>
+      <monster looktype="6155" name="Behemoth"/>
+      <monster looktype="6412" name="Blackdrake"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="6412" name="Fouldrake"/>
+      <monster looktype="5639" name="Demon Lord"/>
+    </droppedBy>
   </item>
   <item looktype="5570" name="Great mana potion" type="potion">
     <heals mp="750"/>
-    <sources>
-      <source name="Behemoth" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Ninjana" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5388" name="Ninjana"/>
+      <monster looktype="6155" name="Behemoth"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="5253" name="Green dragon egg" type="egg">
-    <sources>
-      <source name="Eggosaurus" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="8452" name="Eggosaurus"/>
+    </droppedBy>
   </item>
   <item looktype="6468" name="Gurumistick" sell="67" type="weapon" vocation="warrior">
     <attacks holy_attack="1-36" level="20"/>
-    <sources>
-      <source name="Killer Bear" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2572" name="Killer Bear"/>
+    </droppedBy>
   </item>
   <item looktype="5176" name="Hallowed sword" sell="40" type="weapon" vocation="warrior">
     <attacks hit_attack="1-70" holy_attack="1-15" level="38"/>
-    <sources>
-      <source name="The Bug" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+    </droppedBy>
   </item>
   <item looktype="6485" name="Hardwater ring" sell="77" type="ring">
     <defences ice_def="20" level="76"/>
-    <sources>
-      <source name="Krakomin" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5644" name="Krakomin"/>
+    </droppedBy>
   </item>
   <item looktype="5567" name="Health potion" sell="144" type="potion">
     <heals hp="650"/>
-    <sources>
-      <source name="Assasin" type="mob"/>
-      <source name="Bastinx" type="mob"/>
-      <source name="Bloodbeak" type="mob"/>
-      <source name="Crustea" type="mob"/>
-      <source name="Crysmantis" type="mob"/>
-      <source name="Foresdrake" type="mob"/>
-      <source name="Gigantula" type="mob"/>
-      <source name="Horrornet" type="mob"/>
-      <source name="Ifrit" type="mob"/>
-      <source name="Kapami" type="mob"/>
-      <source name="Leechacle" type="mob"/>
-      <source name="Nunaquatch" type="mob"/>
-      <source name="Redeath" type="mob"/>
-      <source name="Rottummy" type="mob"/>
-    </sources>
+    <droppedBy count="14">
+      <monster looktype="6403" name="Assasin"/>
+      <monster looktype="5123" name="Rottummy"/>
+      <monster looktype="5380" name="Redeath"/>
+      <monster looktype="5898" name="Foresdrake"/>
+      <monster looktype="5385" name="Nunaquatch"/>
+      <monster looktype="5387" name="Bloodbeak"/>
+      <monster looktype="5378" name="Crysmantis"/>
+      <monster looktype="2567" name="Gigantula"/>
+      <monster looktype="2573" name="Horrornet"/>
+      <monster looktype="6409" name="Kapami"/>
+      <monster looktype="6411" name="Bastinx"/>
+      <monster looktype="6410" name="Ifrit"/>
+      <monster looktype="6150" name="Crustea"/>
+      <monster looktype="6151" name="Leechacle"/>
+    </droppedBy>
   </item>
   <item looktype="5196" name="Hex shield" sell="32" type="shield" vocation="wizard">
     <defences hit_def="5" holy_def="15" level="42"/>
-    <sources>
-      <source name="King Bat" type="mob"/>
-      <source name="Orc General" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+      <monster isBoss="true" looktype="6663" name="Orc General"/>
+    </droppedBy>
   </item>
   <item looktype="2569" name="Holy discus" sell="36" type="weapon" vocation="wizard">
     <attacks holy_attack="1-106" level="37" mana="10"/>
-    <sources>
-      <source name="Eye" type="mob"/>
-      <source name="Half Gazer" type="mob"/>
-      <source name="Small Eye" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5633" name="Small Eye"/>
+      <monster looktype="5633" name="Eye"/>
+      <monster looktype="5633" name="Half Gazer"/>
+    </droppedBy>
   </item>
   <item looktype="5192" name="Holy hat" sell="45" type="helmet" vocation="wizard">
     <defences holy_def="15" level="44"/>
-    <sources>
-      <source name="Big Zombie" type="mob"/>
-      <source name="King Bat" type="mob"/>
-      <source name="Apprentice" type="boss"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+      <monster isBoss="true" looktype="5377" name="Big Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="5124" name="Holy lance" sell="38" type="weapon" vocation="warrior">
     <attacks hit_attack="1-8" holy_attack="1-60" level="33"/>
-    <sources>
-      <source name="Eye" type="mob"/>
-      <source name="Half Gazer" type="mob"/>
-      <source name="Small Eye" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5633" name="Small Eye"/>
+      <monster looktype="5633" name="Eye"/>
+      <monster looktype="5633" name="Half Gazer"/>
+    </droppedBy>
   </item>
   <item looktype="5194" name="Holy legs" sell="39" type="legs" vocation="wizard">
     <defences hit_def="15" holy_def="5" level="34"/>
-    <sources>
-      <source name="Alligator" type="mob"/>
-      <source name="Crocodile" type="mob"/>
-      <source name="King Bat" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5386" name="Alligator"/>
+      <monster looktype="5386" name="Crocodile"/>
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Hornet mask" sell="550" type="mask">
-    <sources>
-      <source name="ProtoFang" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5384" name="ProtoFang"/>
+    </droppedBy>
   </item>
   <item looktype="5149" name="Ice discus" sell="38" type="weapon" vocation="wizard">
     <attacks ice_attack="1-114" level="40" mana="11"/>
-    <sources>
-      <source name="Archvampir" type="mob"/>
-      <source name="Vampire" type="mob"/>
-      <source name="Vampmaster" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5636" name="Vampire"/>
+      <monster looktype="5636" name="Vampmaster"/>
+      <monster looktype="5636" name="Archvampir"/>
+    </droppedBy>
   </item>
   <item looktype="5146" name="Ice rune" sell="10" type="weapon" vocation="wizard">
     <attacks ice_attack="1-42" level="13" mana="4"/>
-    <sources>
-      <source name="Giant Bat" type="mob"/>
-      <source name="Twombie" type="mob"/>
-      <source name="Zompforp" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5377" name="Twombie"/>
+      <monster looktype="5377" name="Zompforp"/>
+      <monster looktype="5124" name="Giant Bat"/>
+    </droppedBy>
   </item>
   <item looktype="6488" name="Incensor" sell="49" type="weapon" vocation="warrior">
     <attacks fire_attack="1-32" level="12"/>
-    <sources>
-      <source name="Skelenary" type="mob"/>
-      <source name="Tarantula" type="mob"/>
-      <source name="Widow" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5121" name="Skelenary"/>
+      <monster looktype="2567" name="Tarantula"/>
+      <monster looktype="2567" name="Widow"/>
+    </droppedBy>
   </item>
   <item looktype="6517" name="Inflamer" sell="74" type="weapon" vocation="wizard">
     <attacks fire_attack="3-95" level="33" mana="9"/>
-    <sources>
-      <source name="Werewolf Master" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6664" name="Werewolf Master"/>
+    </droppedBy>
   </item>
   <item looktype="2600" name="Jug" sell="5" type="none">
-    <sources>
-      <source name="Hornet" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2573" name="Hornet"/>
+    </droppedBy>
   </item>
   <item looktype="2586" name="Kappa ichor" type="none">
-    <sources>
-      <source name="Kappa" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6409" name="Kappa"/>
+    </droppedBy>
   </item>
   <item looktype="5207" name="King's cloak" sell="44" type="armour" vocation="wizard">
     <defences fire_def="30" hit_def="10" level="51"/>
-    <sources>
-      <source name="Leviatacle" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6151" name="Leviatacle"/>
+    </droppedBy>
   </item>
   <item looktype="5206" name="King's hood" sell="78" type="helmet" vocation="wizard">
     <defences fire_def="25" hit_def="10" level="71"/>
-    <sources>
-      <source name="Ninjana" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5388" name="Ninjana"/>
+    </droppedBy>
   </item>
   <item looktype="5208" name="King's trousers" sell="49" type="legs" vocation="wizard">
     <defences fire_def="25" level="57"/>
-    <sources>
-      <source name="Tyrannix" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5387" name="Tyrannix"/>
+    </droppedBy>
   </item>
   <item looktype="2571" name="Leather legs" sell="25" type="legs" vocation="warrior">
     <defences energy_def="8" hit_def="8" level="19"/>
-    <sources>
-      <source name="Frost Bear" type="mob"/>
-      <source name="Icy Bear" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5382" name="Frost Bear"/>
+      <monster looktype="5382" name="Icy Bear"/>
+    </droppedBy>
   </item>
   <item looktype="5186" name="Leechacles heart" type="none">
-    <sources>
-      <source name="Leechacle" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6151" name="Leechacle"/>
+    </droppedBy>
   </item>
   <item looktype="5561" name="Lesser health potion" sell="54" type="potion">
     <heals hp="300"/>
-    <sources>
-      <source name="Acid slime" type="mob"/>
-      <source name="Acolyte" type="mob"/>
-      <source name="Angrax" type="mob"/>
-      <source name="Apprentice" type="mob"/>
-      <source name="Baby Drake" type="mob"/>
-      <source name="Banthera" type="mob"/>
-      <source name="Bat" type="mob"/>
-      <source name="Bear" type="mob"/>
-      <source name="Bloodfly" type="mob"/>
-      <source name="Bragnak" type="mob"/>
-      <source name="Cult Tutor" type="mob"/>
-      <source name="Cultist" type="mob"/>
-      <source name="Cultix" type="mob"/>
-      <source name="Dessnake" type="mob"/>
-      <source name="Evil Sheep" type="mob"/>
-      <source name="Eye" type="mob"/>
-      <source name="Fanatic" type="mob"/>
-      <source name="Farmzombie" type="mob"/>
-      <source name="Fire Drake" type="mob"/>
-      <source name="Frost Bear" type="mob"/>
-      <source name="Gaspar" type="mob"/>
-      <source name="Ghost" type="mob"/>
-      <source name="Giant Bat" type="mob"/>
-      <source name="GM-Doro" type="mob"/>
-      <source name="Goblin" type="mob"/>
-      <source name="Half Gazer" type="mob"/>
-      <source name="Hissy" type="mob"/>
-      <source name="Icy Bear" type="mob"/>
-      <source name="Kappa" type="mob"/>
-      <source name="Killer Bear" type="mob"/>
-      <source name="Lich" type="mob"/>
-      <source name="Lich King" type="mob"/>
-      <source name="Lich Lord" type="mob"/>
-      <source name="Little Bat" type="mob"/>
-      <source name="Lizarogue" type="mob"/>
-      <source name="Lizazzin" type="mob"/>
-      <source name="Mammoth" type="mob"/>
-      <source name="Minorrior" type="mob"/>
-      <source name="Minosol" type="mob"/>
-      <source name="Minotaur" type="mob"/>
-      <source name="Ooze" type="mob"/>
-      <source name="Orc" type="mob"/>
-      <source name="Orc Leader" type="mob"/>
-      <source name="Orc Raider" type="mob"/>
-      <source name="Peasant" type="mob"/>
-      <source name="Polar Bear" type="mob"/>
-      <source name="Primeguard" type="mob"/>
-      <source name="Rabid Bear" type="mob"/>
-      <source name="Restless" type="mob"/>
-      <source name="Sabrecat" type="mob"/>
-      <source name="Sabrerus" type="mob"/>
-      <source name="Scratchy" type="mob"/>
-      <source name="Shombie" type="mob"/>
-      <source name="Skeleguard" type="mob"/>
-      <source name="Skelenary" type="mob"/>
-      <source name="Skeleton" type="mob"/>
-      <source name="Tarantula" type="mob"/>
-      <source name="Tempguard" type="mob"/>
-      <source name="The Fanatic" type="mob"/>
-      <source name="The Miner" type="mob"/>
-      <source name="Tormonted" type="mob"/>
-      <source name="Vamp Bat" type="mob"/>
-      <source name="Walrull" type="mob"/>
-      <source name="Walrus" type="mob"/>
-      <source name="Widow" type="mob"/>
-      <source name="Zombie" type="mob"/>
-      <source name="Zottel" type="mob"/>
-      <source name="Zuppel" type="mob"/>
-    </sources>
+    <droppedBy count="68">
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="2572" name="Bear"/>
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5124" name="Little Bat"/>
+      <monster looktype="2566" name="Lizarogue"/>
+      <monster looktype="2570" name="Ooze"/>
+      <monster looktype="5121" name="Skeleton"/>
+      <monster looktype="5124" name="Vamp Bat"/>
+      <monster looktype="2570" name="Acid slime"/>
+      <monster looktype="6152" name="Acolyte"/>
+      <monster looktype="5130" name="Angrax"/>
+      <monster looktype="6408" name="Bloodfly"/>
+      <monster looktype="6153" name="Cult Tutor"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+      <monster looktype="6152" name="Fanatic"/>
+      <monster looktype="5898" name="Fire Drake"/>
+      <monster looktype="5382" name="Frost Bear"/>
+      <monster looktype="5124" name="Giant Bat"/>
+      <monster looktype="5380" name="Hissy"/>
+      <monster looktype="5382" name="Icy Bear"/>
+      <monster looktype="6409" name="Kappa"/>
+      <monster looktype="2572" name="Killer Bear"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+      <monster looktype="2566" name="Lizazzin"/>
+      <monster looktype="5635" name="Minosol"/>
+      <monster looktype="5635" name="Minotaur"/>
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Leader"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster looktype="6402" name="Peasant"/>
+      <monster looktype="5382" name="Polar Bear"/>
+      <monster looktype="2572" name="Rabid Bear"/>
+      <monster looktype="5126" name="Restless"/>
+      <monster looktype="5380" name="Sabrecat"/>
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5380" name="Scratchy"/>
+      <monster looktype="5377" name="Shombie"/>
+      <monster looktype="6152" name="Skeleguard"/>
+      <monster looktype="5121" name="Skelenary"/>
+      <monster looktype="2567" name="Tarantula"/>
+      <monster looktype="6404" name="Tempguard"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+      <monster looktype="5126" name="Tormonted"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+      <monster looktype="2567" name="Widow"/>
+      <monster looktype="5377" name="Zombie"/>
+      <monster looktype="5633" name="Eye"/>
+      <monster looktype="6401" name="Farmzombie"/>
+      <monster looktype="5380" name="Banthera"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="5635" name="Minorrior"/>
+      <monster looktype="6404" name="Primeguard"/>
+      <monster looktype="2568" name="Dessnake"/>
+      <monster looktype="5896" name="Evil Sheep"/>
+      <monster looktype="5890" name="Goblin"/>
+      <monster looktype="5633" name="Half Gazer"/>
+      <monster looktype="5381" name="Mammoth"/>
+      <monster looktype="5381" name="Zottel"/>
+      <monster looktype="5381" name="Zuppel"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+    </droppedBy>
   </item>
   <item looktype="5568" name="Lesser mana potion" sell="38" type="potion">
     <heals mp="300"/>
-    <sources>
-      <source name="Acid slime" type="mob"/>
-      <source name="Acolyte" type="mob"/>
-      <source name="Angrax" type="mob"/>
-      <source name="Apprentice" type="mob"/>
-      <source name="Baby Drake" type="mob"/>
-      <source name="Banthera" type="mob"/>
-      <source name="Bat" type="mob"/>
-      <source name="Bear" type="mob"/>
-      <source name="Bloodfly" type="mob"/>
-      <source name="Bragnak" type="mob"/>
-      <source name="Cult Tutor" type="mob"/>
-      <source name="Cultist" type="mob"/>
-      <source name="Cultix" type="mob"/>
-      <source name="Dessnake" type="mob"/>
-      <source name="Evil Sheep" type="mob"/>
-      <source name="Eye" type="mob"/>
-      <source name="Fanatic" type="mob"/>
-      <source name="Farmzombie" type="mob"/>
-      <source name="Fire Drake" type="mob"/>
-      <source name="Frost Bear" type="mob"/>
-      <source name="Gaspar" type="mob"/>
-      <source name="Ghost" type="mob"/>
-      <source name="Giant Bat" type="mob"/>
-      <source name="GM-Doro" type="mob"/>
-      <source name="Goblin" type="mob"/>
-      <source name="Half Gazer" type="mob"/>
-      <source name="Hissy" type="mob"/>
-      <source name="Icy Bear" type="mob"/>
-      <source name="Kappa" type="mob"/>
-      <source name="Killer Bear" type="mob"/>
-      <source name="Lich" type="mob"/>
-      <source name="Lich King" type="mob"/>
-      <source name="Lich Lord" type="mob"/>
-      <source name="Little Bat" type="mob"/>
-      <source name="Lizarogue" type="mob"/>
-      <source name="Lizazzin" type="mob"/>
-      <source name="Mammoth" type="mob"/>
-      <source name="Minorrior" type="mob"/>
-      <source name="Minosol" type="mob"/>
-      <source name="Minotaur" type="mob"/>
-      <source name="Ooze" type="mob"/>
-      <source name="Orc" type="mob"/>
-      <source name="Orc Leader" type="mob"/>
-      <source name="Orc Raider" type="mob"/>
-      <source name="Peasant" type="mob"/>
-      <source name="Polar Bear" type="mob"/>
-      <source name="Primeguard" type="mob"/>
-      <source name="Rabid Bear" type="mob"/>
-      <source name="Restless" type="mob"/>
-      <source name="Sabrecat" type="mob"/>
-      <source name="Sabrerus" type="mob"/>
-      <source name="Scratchy" type="mob"/>
-      <source name="Shombie" type="mob"/>
-      <source name="Skeleguard" type="mob"/>
-      <source name="Skelenary" type="mob"/>
-      <source name="Skeleton" type="mob"/>
-      <source name="Tarantula" type="mob"/>
-      <source name="Tempguard" type="mob"/>
-      <source name="The Fanatic" type="mob"/>
-      <source name="The Miner" type="mob"/>
-      <source name="Tormonted" type="mob"/>
-      <source name="Vamp Bat" type="mob"/>
-      <source name="Walrull" type="mob"/>
-      <source name="Walrus" type="mob"/>
-      <source name="Widow" type="mob"/>
-      <source name="Zombie" type="mob"/>
-      <source name="Zottel" type="mob"/>
-      <source name="Zuppel" type="mob"/>
-    </sources>
+    <droppedBy count="68">
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="2572" name="Bear"/>
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5124" name="Little Bat"/>
+      <monster looktype="2566" name="Lizarogue"/>
+      <monster looktype="2570" name="Ooze"/>
+      <monster looktype="5121" name="Skeleton"/>
+      <monster looktype="5124" name="Vamp Bat"/>
+      <monster looktype="2570" name="Acid slime"/>
+      <monster looktype="6152" name="Acolyte"/>
+      <monster looktype="5130" name="Angrax"/>
+      <monster looktype="6408" name="Bloodfly"/>
+      <monster looktype="6153" name="Cult Tutor"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+      <monster looktype="6152" name="Fanatic"/>
+      <monster looktype="5898" name="Fire Drake"/>
+      <monster looktype="5382" name="Frost Bear"/>
+      <monster looktype="5124" name="Giant Bat"/>
+      <monster looktype="5380" name="Hissy"/>
+      <monster looktype="5382" name="Icy Bear"/>
+      <monster looktype="6409" name="Kappa"/>
+      <monster looktype="2572" name="Killer Bear"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+      <monster looktype="2566" name="Lizazzin"/>
+      <monster looktype="5635" name="Minosol"/>
+      <monster looktype="5635" name="Minotaur"/>
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Leader"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster looktype="6402" name="Peasant"/>
+      <monster looktype="5382" name="Polar Bear"/>
+      <monster looktype="2572" name="Rabid Bear"/>
+      <monster looktype="5126" name="Restless"/>
+      <monster looktype="5380" name="Sabrecat"/>
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5380" name="Scratchy"/>
+      <monster looktype="5377" name="Shombie"/>
+      <monster looktype="6152" name="Skeleguard"/>
+      <monster looktype="5121" name="Skelenary"/>
+      <monster looktype="2567" name="Tarantula"/>
+      <monster looktype="6404" name="Tempguard"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+      <monster looktype="5126" name="Tormonted"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+      <monster looktype="2567" name="Widow"/>
+      <monster looktype="5377" name="Zombie"/>
+      <monster looktype="5633" name="Eye"/>
+      <monster looktype="6401" name="Farmzombie"/>
+      <monster looktype="5380" name="Banthera"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="5635" name="Minorrior"/>
+      <monster looktype="6404" name="Primeguard"/>
+      <monster looktype="2568" name="Dessnake"/>
+      <monster looktype="5896" name="Evil Sheep"/>
+      <monster looktype="5890" name="Goblin"/>
+      <monster looktype="5633" name="Half Gazer"/>
+      <monster looktype="5381" name="Mammoth"/>
+      <monster looktype="5381" name="Zottel"/>
+      <monster looktype="5381" name="Zuppel"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+    </droppedBy>
   </item>
   <item looktype="6572" name="Leveller" sell="1000" type="weapon" vocation="wizard">
     <attacks hit_attack="19-185" level="79" mana="19"/>
-    <sources>
-      <source name="Ghoranus" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
+    </droppedBy>
   </item>
   <item looktype="6409" name="Lightbender" sell="53" type="weapon" vocation="warrior">
     <attacks energy_attack="1-95" hit_attack="1-30" holy_attack="1-15" level="59"/>
-    <sources>
-      <source name="Gryllo" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5378" name="Gryllo"/>
+    </droppedBy>
   </item>
   <item looktype="5557" name="Lightning conductor" type="weapon" vocation="wizard">
     <attacks energy_attack="60-233" level="99" mana="23"/>
-    <sources>
-      <source name="Behemoth" type="mob"/>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-      <source name="Wisper" type="mob"/>
-      <source name="Shellborn" type="boss"/>
-    </sources>
+    <droppedBy count="8">
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster looktype="6155" name="Behemoth"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+      <monster looktype="5892" name="Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="6544" name="Lightning Fang" type="weapon" vocation="warrior">
     <attacks energy_attack="14-161" level="74"/>
-    <sources>
-      <source name="Crystally" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
+    </droppedBy>
   </item>
   <item looktype="5217" name="Little sword" sell="1" type="weapon" vocation="warrior">
     <attacks hit_attack="1-12" level="0"/>
-    <sources>
-      <source name="Bug" type="mob"/>
-      <source name="The Bug" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="2565" name="Bug"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+    </droppedBy>
   </item>
   <item looktype="6495" name="Lizards Skin" type="none">
-    <sources>
-      <source name="Pillarliza" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2566" name="Pillarliza"/>
+    </droppedBy>
   </item>
   <item looktype="5205" name="Lucifero Ceremony Book" type="none">
-    <sources>
-      <source name="Ceremonial" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6153" name="Ceremonial"/>
+    </droppedBy>
   </item>
   <item looktype="6536" name="Lucifero Key" type="script">
-    <sources>
-      <source name="Insane" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5899" name="Insane"/>
+    </droppedBy>
   </item>
   <item looktype="2564" name="Mace" sell="10" type="weapon" vocation="warrior">
     <attacks hit_attack="1-25" level="9"/>
-    <sources>
-      <source name="Bat" type="mob"/>
-      <source name="Little Bat" type="mob"/>
-      <source name="Scorpion" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="5124" name="Little Bat"/>
+      <monster looktype="2571" name="Scorpion"/>
+    </droppedBy>
   </item>
   <item looktype="5151" name="Mad mage's rod" sell="68" type="weapon" vocation="wizard">
     <attacks hit_attack="1-30" ice_attack="1-125" level="42" mana="12"/>
-    <sources>
-      <source name="The Fanatic" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+    </droppedBy>
   </item>
   <item looktype="5222" name="Magic root" sell="26" type="weapon" vocation="wizard">
     <attacks hit_attack="1-38" level="11" mana="4"/>
-    <sources>
-      <source name="Gaspar" type="mob"/>
-      <source name="Ghost" type="mob"/>
-      <source name="Ooze" type="mob"/>
-      <source name="Scorpion" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="2570" name="Ooze"/>
+      <monster looktype="2571" name="Scorpion"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+    </droppedBy>
   </item>
   <item looktype="5221" name="Magic spoon" sell="23" type="weapon" vocation="wizard">
     <attacks hit_attack="1-24" level="6" mana="3"/>
-    <sources>
-      <source name="Acid slime" type="mob"/>
-      <source name="Slime" type="mob"/>
-      <source name="Wolf" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="2569" name="Wolf"/>
+      <monster looktype="2570" name="Slime"/>
+      <monster looktype="2570" name="Acid slime"/>
+    </droppedBy>
   </item>
   <item looktype="6419" name="Magma axe" sell="223" type="weapon" vocation="warrior">
     <attacks fire_attack="25-100" hit_attack="1-35" level="74"/>
-    <sources>
-      <source name="Aural" type="mob"/>
-      <source name="Blaze Master" type="mob"/>
-      <source name="Demon" type="mob"/>
-      <source name="GM-Doro" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster looktype="5892" name="Aural"/>
+      <monster looktype="5894" name="Blaze Master"/>
+      <monster looktype="5639" name="Demon"/>
+    </droppedBy>
   </item>
   <item looktype="5193" name="Magma crown" sell="57" type="helmet" vocation="warrior">
     <defences hit_def="5" holy_def="15" level="52"/>
-    <sources>
-      <source name="King Bat" type="mob"/>
-      <source name="Mummy" type="mob"/>
-      <source name="Rottummy" type="mob"/>
-      <source name="Apprentice" type="boss"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="5">
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster looktype="5123" name="Mummy"/>
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+      <monster looktype="5123" name="Rottummy"/>
+    </droppedBy>
   </item>
   <item looktype="5497" name="Magma headpiece" sell="60" type="helmet" vocation="wizard">
     <defences fire_def="17" hit_def="7" level="50"/>
-    <sources>
-      <source name="Mummy" type="mob"/>
-      <source name="Rottummy" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5123" name="Mummy"/>
+      <monster looktype="5123" name="Rottummy"/>
+    </droppedBy>
   </item>
   <item looktype="5564" name="Major health potion" type="potion">
     <heals hp="1000"/>
-    <sources>
-      <source name="Blackdrake" type="mob"/>
-      <source name="Chaleton" type="mob"/>
-      <source name="Chaombie" type="mob"/>
-      <source name="Chaomby" type="mob"/>
-      <source name="Demon Lord" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Wisper" type="mob"/>
-      <source name="Wisperfire" type="mob"/>
-    </sources>
+    <droppedBy count="9">
+      <monster looktype="8451" name="Chaleton"/>
+      <monster looktype="6401" name="Chaombie"/>
+      <monster looktype="6401" name="Chaomby"/>
+      <monster looktype="6412" name="Blackdrake"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="5892" name="Wisper"/>
+      <monster looktype="6918" name="Wisperfire"/>
+      <monster looktype="6412" name="Fouldrake"/>
+      <monster looktype="5639" name="Demon Lord"/>
+    </droppedBy>
   </item>
   <item looktype="5571" name="Major mana potion" type="potion">
     <heals mp="900"/>
-    <sources>
-      <source name="Behemoth" type="mob"/>
-      <source name="Chaleton" type="mob"/>
-      <source name="Chaombie" type="mob"/>
-      <source name="Chaomby" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Wisper" type="mob"/>
-      <source name="Wisperfire" type="mob"/>
-    </sources>
+    <droppedBy count="8">
+      <monster looktype="8451" name="Chaleton"/>
+      <monster looktype="6401" name="Chaombie"/>
+      <monster looktype="6155" name="Behemoth"/>
+      <monster looktype="6401" name="Chaomby"/>
+      <monster looktype="6154" name="Hell Guard"/>
+      <monster looktype="5892" name="Wisper"/>
+      <monster looktype="6918" name="Wisperfire"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="5578" name="Major might potion" type="potion">
     <heals hp="1000" mp="900"/>
-    <sources>
-      <source name="Chaleton" type="mob"/>
-      <source name="Chaombie" type="mob"/>
-      <source name="Chaomby" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="8451" name="Chaleton"/>
+      <monster looktype="6401" name="Chaombie"/>
+      <monster looktype="6401" name="Chaomby"/>
+    </droppedBy>
   </item>
   <item looktype="5574" name="Mana potion" sell="100" type="potion">
     <heals mp="600"/>
-    <sources>
-      <source name="Assasin" type="mob"/>
-      <source name="Bastinx" type="mob"/>
-      <source name="Bloodbeak" type="mob"/>
-      <source name="Crustea" type="mob"/>
-      <source name="Crysmantis" type="mob"/>
-      <source name="Foresdrake" type="mob"/>
-      <source name="Gigantula" type="mob"/>
-      <source name="Horrornet" type="mob"/>
-      <source name="Ifrit" type="mob"/>
-      <source name="Kapami" type="mob"/>
-      <source name="Leechacle" type="mob"/>
-      <source name="Nunaquatch" type="mob"/>
-      <source name="Redeath" type="mob"/>
-      <source name="Rottummy" type="mob"/>
-      <source name="Skelenary" type="mob"/>
-    </sources>
+    <droppedBy count="15">
+      <monster looktype="5121" name="Skelenary"/>
+      <monster looktype="6403" name="Assasin"/>
+      <monster looktype="5123" name="Rottummy"/>
+      <monster looktype="5380" name="Redeath"/>
+      <monster looktype="5898" name="Foresdrake"/>
+      <monster looktype="5385" name="Nunaquatch"/>
+      <monster looktype="5387" name="Bloodbeak"/>
+      <monster looktype="5378" name="Crysmantis"/>
+      <monster looktype="2567" name="Gigantula"/>
+      <monster looktype="2573" name="Horrornet"/>
+      <monster looktype="6409" name="Kapami"/>
+      <monster looktype="6411" name="Bastinx"/>
+      <monster looktype="6410" name="Ifrit"/>
+      <monster looktype="6150" name="Crustea"/>
+      <monster looktype="6151" name="Leechacle"/>
+    </droppedBy>
   </item>
   <item looktype="5467" name="Master amulet" sell="57" type="chain">
     <defences hit_def="12" level="61"/>
-    <sources>
-      <source name="Brinefiend" type="mob"/>
-      <source name="Shellborn" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6150" name="Brinefiend"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+    </droppedBy>
   </item>
   <item looktype="5467" name="Master Amulet" sell="75" type="chain">
     <defences energy_def="10" hit_def="22" level="88"/>
-    <sources>
-      <source name="Krakomin" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5644" name="Krakomin"/>
+    </droppedBy>
   </item>
   <item looktype="5468" name="Master ring" sell="57" type="ring">
     <defences hit_def="16" level="60"/>
-    <sources>
-      <source name="Brinefiend" type="mob"/>
-      <source name="Shellborn" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6150" name="Brinefiend"/>
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+    </droppedBy>
   </item>
   <item looktype="5218" name="Melee mallet" sell="3" type="weapon" vocation="warrior">
     <attacks hit_attack="1-16" level="4"/>
-    <sources>
-      <source name="Frog" type="mob"/>
-      <source name="Frogy" type="mob"/>
-      <source name="Spider" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5889" name="Frog"/>
+      <monster looktype="2567" name="Spider"/>
+      <monster looktype="5889" name="Frogy"/>
+    </droppedBy>
   </item>
   <item looktype="5422" name="Mercenary helmet" sell="28" type="helmet" vocation="warrior">
     <defences hit_def="4" level="10"/>
-    <sources>
-      <source name="Lizardman" type="mob"/>
-      <source name="Lizarogue" type="mob"/>
-      <source name="Lizazzin" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="2566" name="Lizardman"/>
+      <monster looktype="2566" name="Lizarogue"/>
+      <monster looktype="2566" name="Lizazzin"/>
+    </droppedBy>
   </item>
   <item looktype="6539" name="Meteor Mace" type="weapon" vocation="warrior">
     <attacks fire_attack="14-161" level="74"/>
-    <sources>
-      <source name="Ghoranus" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
+    </droppedBy>
   </item>
   <item looktype="6529" name="Mind crusher" sell="36" type="weapon" vocation="warrior">
     <attacks holy_attack="4-67" level="30"/>
-    <sources>
-      <source name="Banthera" type="mob"/>
-      <source name="Ninjaman" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6403" name="Ninjaman"/>
+      <monster looktype="5380" name="Banthera"/>
+    </droppedBy>
   </item>
   <item looktype="2587" name="Minor health potion" sell="24" type="potion">
     <heals hp="150"/>
-    <sources>
-      <source name="Anitree" type="mob"/>
-      <source name="Bandit" type="mob"/>
-      <source name="Bug" type="mob"/>
-      <source name="Frog" type="mob"/>
-      <source name="Frogy" type="mob"/>
-      <source name="Hen" type="mob"/>
-      <source name="Hornet" type="mob"/>
-      <source name="Lizardman" type="mob"/>
-      <source name="Locust" type="mob"/>
-      <source name="Mean wolf" type="mob"/>
-      <source name="Scorpion" type="mob"/>
-      <source name="Slime" type="mob"/>
-      <source name="Snake" type="mob"/>
-      <source name="Spider" type="mob"/>
-      <source name="Squirell" type="mob"/>
-      <source name="The Bug" type="mob"/>
-      <source name="The Cupid" type="mob"/>
-      <source name="The Frog" type="mob"/>
-      <source name="Wolf" type="mob"/>
-    </sources>
+    <droppedBy count="19">
+      <monster looktype="2565" name="Bug"/>
+      <monster isBoss="true" looktype="8450" name="The Cupid"/>
+      <monster looktype="5893" name="Anitree"/>
+      <monster looktype="5889" name="Frog"/>
+      <monster looktype="2568" name="Snake"/>
+      <monster looktype="2567" name="Spider"/>
+      <monster looktype="5129" name="Squirell"/>
+      <monster looktype="2569" name="Wolf"/>
+      <monster looktype="2573" name="Hornet"/>
+      <monster looktype="2570" name="Slime"/>
+      <monster looktype="2566" name="Bandit"/>
+      <monster looktype="2566" name="Lizardman"/>
+      <monster looktype="5378" name="Locust"/>
+      <monster looktype="2569" name="Mean wolf"/>
+      <monster looktype="2571" name="Scorpion"/>
+      <monster looktype="8452" name="Hen"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+      <monster looktype="5889" name="Frogy"/>
+      <monster isBoss="true" looktype="5889" name="The Frog"/>
+    </droppedBy>
   </item>
   <item looktype="2584" name="Minor mana potion" sell="16" type="potion">
     <heals mp="150"/>
-    <sources>
-      <source name="Anitree" type="mob"/>
-      <source name="Bandit" type="mob"/>
-      <source name="Bug" type="mob"/>
-      <source name="Frog" type="mob"/>
-      <source name="Frogy" type="mob"/>
-      <source name="Hen" type="mob"/>
-      <source name="Hornet" type="mob"/>
-      <source name="Lizardman" type="mob"/>
-      <source name="Locust" type="mob"/>
-      <source name="Mean wolf" type="mob"/>
-      <source name="Scorpion" type="mob"/>
-      <source name="Slime" type="mob"/>
-      <source name="Snake" type="mob"/>
-      <source name="Spider" type="mob"/>
-      <source name="Squirell" type="mob"/>
-      <source name="The Bug" type="mob"/>
-      <source name="The Cupid" type="mob"/>
-      <source name="The Frog" type="mob"/>
-      <source name="Wolf" type="mob"/>
-      <source name="Zompforp" type="mob"/>
-    </sources>
+    <droppedBy count="20">
+      <monster looktype="2565" name="Bug"/>
+      <monster isBoss="true" looktype="8450" name="The Cupid"/>
+      <monster looktype="5893" name="Anitree"/>
+      <monster looktype="5889" name="Frog"/>
+      <monster looktype="2568" name="Snake"/>
+      <monster looktype="2567" name="Spider"/>
+      <monster looktype="5129" name="Squirell"/>
+      <monster looktype="2569" name="Wolf"/>
+      <monster looktype="2573" name="Hornet"/>
+      <monster looktype="2570" name="Slime"/>
+      <monster looktype="2566" name="Bandit"/>
+      <monster looktype="2566" name="Lizardman"/>
+      <monster looktype="5378" name="Locust"/>
+      <monster looktype="2569" name="Mean wolf"/>
+      <monster looktype="2571" name="Scorpion"/>
+      <monster looktype="5377" name="Zompforp"/>
+      <monster looktype="8452" name="Hen"/>
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+      <monster looktype="5889" name="Frogy"/>
+      <monster isBoss="true" looktype="5889" name="The Frog"/>
+    </droppedBy>
   </item>
   <item looktype="5690" name="Miracle Drink" sell="50" type="potion">
     <heals hp="5000" mp="5000"/>
-    <sources>
-      <source name="AcidWorm" type="mob"/>
-      <source name="MagneBat" type="mob"/>
-      <source name="NanoWasp" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6915" name="AcidWorm"/>
+      <monster isBoss="true" looktype="5124" name="MagneBat"/>
+      <monster isBoss="true" looktype="5892" name="NanoWasp"/>
+    </droppedBy>
   </item>
   <item looktype="5584" name="Miracle herb" type="potion" vocation="wizard">
     <heals hp="450" mp="850"/>
-    <sources>
-      <source name="Alligator" type="mob"/>
-      <source name="Goldminer" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5386" name="Alligator"/>
+      <monster looktype="5895" name="Goldminer"/>
+    </droppedBy>
   </item>
   <item looktype="6556" name="Mithril amulet" sell="47" type="chain">
     <defences energy_def="7" hit_def="6" level="32"/>
-    <sources>
-      <source name="Farmzombie" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6401" name="Farmzombie"/>
+    </droppedBy>
   </item>
   <item looktype="6549" name="Mithril helmet" sell="36" type="helmet" vocation="warrior">
     <defences energy_def="8" hit_def="7" level="27"/>
-    <sources>
-      <source name="Peasant" type="mob"/>
-      <source name="Restliss" type="mob"/>
-      <source name="Restluss" type="mob"/>
-      <source name="Ristless" type="mob"/>
-      <source name="Ristloss" type="mob"/>
-      <source name="Rostless" type="mob"/>
-      <source name="Rustless" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="6402" name="Peasant"/>
+      <monster looktype="6402" name="Restliss"/>
+      <monster looktype="6402" name="Restluss"/>
+      <monster looktype="6402" name="Ristless"/>
+      <monster looktype="6402" name="Ristloss"/>
+      <monster looktype="6402" name="Rostless"/>
+      <monster looktype="6402" name="Rustless"/>
+    </droppedBy>
   </item>
   <item looktype="5461" name="Monter helmet" sell="57" type="helmet" vocation="warrior">
     <defences hit_def="15" level="52"/>
-    <sources>
-      <source name="Apprentice" type="boss"/>
-      <source name="GM-Doro" type="boss"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+    </droppedBy>
   </item>
   <item looktype="5464" name="Monter ring" sell="57" type="ring">
     <defences hit_def="15" level="56"/>
-    <sources>
-      <source name="GM-Doro" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+    </droppedBy>
   </item>
   <item looktype="5462" name="Monter shield" sell="57" type="shield" vocation="warrior">
     <defences hit_def="18" level="55"/>
-    <sources>
-      <source name="GM-Doro" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+    </droppedBy>
   </item>
   <item looktype="5480" name="Monter shield" sell="32" type="shield" vocation="wizard">
     <defences hit_def="18" level="55"/>
-    <sources>
-      <source name="GM-Doro" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+    </droppedBy>
   </item>
   <item looktype="6519" name="Mutilator" type="weapon" vocation="warrior">
     <attacks hit_attack="20-205" level="99"/>
-    <sources>
-      <source name="Kul'Krak'u" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+    </droppedBy>
   </item>
   <item looktype="6514" name="Necklace of crush" sell="44" type="chain">
     <defences fire_def="9" hit_def="3" level="47"/>
-    <sources>
-      <source name="Gryllo" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5378" name="Gryllo"/>
+    </droppedBy>
   </item>
   <item looktype="6467" name="Ninja ring" sell="50" type="ring">
     <defences hit_def="5" ice_def="15" level="56"/>
-    <sources>
-      <source name="Ninjana" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5388" name="Ninjana"/>
+    </droppedBy>
   </item>
   <item looktype="5429" name="Nivalian ring" sell="14" type="ring">
     <defences hit_def="5" ice_def="5" level="15"/>
-    <sources>
-      <source name="Acolyte" type="mob"/>
-      <source name="Bat" type="mob"/>
-      <source name="Fanatic" type="mob"/>
-      <source name="Giant Bat" type="mob"/>
-      <source name="Little Bat" type="mob"/>
-      <source name="The Fanatic" type="mob"/>
-      <source name="Vamp Bat" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="5124" name="Little Bat"/>
+      <monster looktype="5124" name="Vamp Bat"/>
+      <monster looktype="6152" name="Acolyte"/>
+      <monster looktype="6152" name="Fanatic"/>
+      <monster looktype="5124" name="Giant Bat"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+    </droppedBy>
   </item>
   <item looktype="5216" name="Nudelishroom" type="none">
-    <sources>
-      <source name="Kapami" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6409" name="Kapami"/>
+    </droppedBy>
   </item>
   <item looktype="6532" name="Nuna filet" type="none">
-    <sources>
-      <source name="Nunaquatch" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5385" name="Nunaquatch"/>
+    </droppedBy>
   </item>
   <item looktype="6448" name="Nunchaku" sell="13" type="weapon" vocation="warrior">
     <attacks hit_attack="2-23" ice_attack="1-10" level="14"/>
-    <sources>
-      <source name="Kappa" type="mob"/>
-      <source name="Kreppan" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6409" name="Kappa"/>
+      <monster looktype="6409" name="Kreppan"/>
+    </droppedBy>
   </item>
   <item looktype="5555" name="Onset of winter" type="weapon" vocation="wizard">
     <attacks ice_attack="60-233" level="99" mana="23"/>
-    <sources>
-      <source name="Hell Guard" type="mob"/>
-      <source name="Shellborn" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster looktype="6154" name="Hell Guard"/>
+    </droppedBy>
   </item>
   <item looktype="6405" name="Onyx" sell="450" type="none">
-    <sources>
-      <source name="Angrax" type="mob"/>
-      <source name="Bantinel" type="mob"/>
-      <source name="Cleptoman" type="mob"/>
-      <source name="Cultist" type="mob"/>
-      <source name="Cultix" type="mob"/>
-      <source name="Skonkey" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster looktype="5130" name="Angrax"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+      <monster looktype="5385" name="Cleptoman"/>
+      <monster looktype="5385" name="Skonkey"/>
+      <monster looktype="5385" name="Bantinel"/>
+    </droppedBy>
   </item>
   <item looktype="6460" name="Orange belt" sell="34" type="legs" vocation="wizard">
     <defences energy_def="10" hit_def="7" level="22"/>
-    <sources>
-      <source name="Bloodfly" type="mob"/>
-      <source name="Buzzy" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6408" name="Bloodfly"/>
+      <monster looktype="6408" name="Buzzy"/>
+    </droppedBy>
   </item>
   <item looktype="5491" name="Orange hardbelt" sell="20" type="legs" vocation="warrior">
     <defences energy_def="9" hit_def="7" level="22"/>
-    <sources>
-      <source name="Bloodfly" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6408" name="Bloodfly"/>
+    </droppedBy>
   </item>
   <item looktype="6520" name="Ornate battle stick" sell="36" type="weapon" vocation="wizard">
     <attacks hit_attack="1-92" level="30" mana="9"/>
-    <sources>
-      <source name="Farmzombie" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6401" name="Farmzombie"/>
+    </droppedBy>
   </item>
   <item looktype="5502" name="Phoenix breastplate" sell="2000" type="armour" vocation="warrior">
     <defences fire_def="30" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5508" name="Phoenix cloak" sell="2000" type="armour" vocation="wizard">
     <defences fire_def="35" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5670" name="Piece of Ethereal Shards" sell="2000" type="none">
-    <sources>
-      <source name="Myst" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+    </droppedBy>
   </item>
   <item looktype="5236" name="Pirate headband" sell="45" type="helmet" vocation="wizard">
     <defences energy_def="15" ice_def="15" level="44"/>
-    <sources>
-      <source name="Capitain" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6148" name="Capitain"/>
+    </droppedBy>
   </item>
   <item looktype="2583" name="Power ring" sell="29" type="ring">
     <defences hit_def="5" level="15"/>
-    <sources>
-      <source name="Bragnak" type="mob"/>
-      <source name="Orc" type="mob"/>
-      <source name="Orc Raider" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+    </droppedBy>
   </item>
   <item looktype="5182" name="Priest ring" sell="29" type="ring">
     <defences holy_def="5" level="15"/>
-    <sources>
-      <source name="Bear" type="mob"/>
-      <source name="Rabid Bear" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="2572" name="Bear"/>
+      <monster looktype="2572" name="Rabid Bear"/>
+    </droppedBy>
   </item>
   <item looktype="5259" name="Purple dragon egg" type="egg">
     <heals hp="50" mp="50"/>
-    <sources>
-      <source name="Eggosaurus" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="8452" name="Eggosaurus"/>
+    </droppedBy>
   </item>
   <item looktype="2587" name="Red defroster" type="none">
-    <sources>
-      <source name="Frostcat" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5380" name="Frostcat"/>
+    </droppedBy>
   </item>
   <item looktype="5252" name="Red dragon egg" type="egg">
     <heals hp="100"/>
-    <sources>
-      <source name="Eggosaurus" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="8452" name="Eggosaurus"/>
+    </droppedBy>
   </item>
   <item looktype="2599" name="Ritual Candle" type="none">
-    <sources>
-      <source name="AcidWorm" type="mob"/>
-      <source name="BioGhoul" type="mob"/>
-      <source name="Ninjany" type="mob"/>
-      <source name="ProtoFang" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5388" name="Ninjany"/>
+      <monster isBoss="true" looktype="6915" name="AcidWorm"/>
+      <monster isBoss="true" looktype="5126" name="BioGhoul"/>
+      <monster isBoss="true" looktype="5384" name="ProtoFang"/>
+    </droppedBy>
   </item>
   <item looktype="2603" name="Ritual Stone" type="none">
-    <sources>
-      <source name="Dreadtide" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6151" name="Dreadtide"/>
+    </droppedBy>
   </item>
   <item looktype="2579" name="Robes" sell="46" type="armour" vocation="wizard">
     <defences hit_def="5" ice_def="24" level="41"/>
-    <sources>
-      <source name="Stormey" type="mob"/>
-      <source name="Thunderey" type="mob"/>
-      <source name="Witch" type="mob"/>
-      <source name="Gaspar" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+      <monster looktype="5125" name="Thunderey"/>
+      <monster looktype="5125" name="Witch"/>
+      <monster looktype="5125" name="Stormey"/>
+    </droppedBy>
   </item>
   <item looktype="6437" name="Royal neck cooler" sell="64" type="chain">
     <defences fire_def="25" hit_def="5" level="79"/>
-    <sources>
-      <source name="Cerberus" type="mob"/>
-      <source name="The Fouldrake" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster looktype="5642" name="Cerberus"/>
+    </droppedBy>
   </item>
   <item looktype="2597" name="Ruby" sell="450" type="none">
-    <sources>
-      <source name="Blaze Master" type="mob"/>
-      <source name="Bragnak" type="mob"/>
-      <source name="Dwarf" type="mob"/>
-      <source name="Goldminer" type="mob"/>
-      <source name="Orc" type="mob"/>
-      <source name="Orc Leader" type="mob"/>
-      <source name="Orc Raider" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="5895" name="Dwarf"/>
+      <monster looktype="5895" name="Goldminer"/>
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Leader"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="5894" name="Blaze Master"/>
+    </droppedBy>
   </item>
   <item looktype="5169" name="Ruby ring" sell="58" type="ring">
     <defences fire_def="15" level="56"/>
-    <sources>
-      <source name="Archvampir" type="mob"/>
-      <source name="Vampire" type="mob"/>
-      <source name="Vampmaster" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5636" name="Vampire"/>
+      <monster looktype="5636" name="Vampmaster"/>
+      <monster looktype="5636" name="Archvampir"/>
+    </droppedBy>
   </item>
   <item looktype="6538" name="Ruby staff" type="weapon" vocation="wizard">
     <attacks fire_attack="18-175" level="74" mana="18"/>
-    <sources>
-      <source name="Ghoranus" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6913" name="Ghoranus"/>
+    </droppedBy>
   </item>
   <item looktype="5142" name="Rune of winter" sell="38" type="weapon" vocation="wizard">
     <attacks ice_attack="1-98" level="34" mana="9"/>
-    <sources>
-      <source name="Berseclops" type="mob"/>
-      <source name="Cyclops" type="mob"/>
-      <source name="Forofnat" type="mob"/>
-      <source name="Treant" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5637" name="Cyclops"/>
+      <monster looktype="5637" name="Berseclops"/>
+      <monster looktype="5893" name="Treant"/>
+      <monster looktype="5893" name="Forofnat"/>
+    </droppedBy>
   </item>
   <item looktype="6537" name="Sabre tooth" type="none">
-    <sources>
-      <source name="Hissy" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5380" name="Hissy"/>
+    </droppedBy>
   </item>
   <item looktype="6447" name="Sai" type="weapon" vocation="wizard">
     <attacks hit_attack="1-80" level="26" mana="8"/>
-    <sources>
-      <source name="Monk" type="mob"/>
-      <source name="Monky" type="mob"/>
-      <source name="Nimon" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="6406" name="Nimon"/>
+      <monster looktype="6406" name="Monk"/>
+      <monster looktype="6406" name="Monky"/>
+    </droppedBy>
   </item>
   <item looktype="5486" name="Sailor armour" sell="32" type="armour" vocation="warrior">
     <defences holy_def="15" ice_def="15" level="29"/>
-    <sources>
-      <source name="Bratty" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6149" name="Bratty"/>
+    </droppedBy>
   </item>
   <item looktype="5243" name="Sailor cap" sell="79" type="helmet" vocation="wizard">
     <defences holy_def="15" ice_def="15" level="44"/>
-    <sources>
-      <source name="Petty" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6146" name="Petty"/>
+    </droppedBy>
   </item>
   <item looktype="5485" name="Sailor helmet" sell="42" type="helmet" vocation="warrior">
     <defences holy_def="12" ice_def="12" level="41"/>
-    <sources>
-      <source name="Petty" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6146" name="Petty"/>
+    </droppedBy>
   </item>
   <item looktype="5244" name="Sailor jacket" sell="37" type="armour" vocation="wizard">
     <defences holy_def="19" ice_def="19" level="33"/>
-    <sources>
-      <source name="Bratty" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6149" name="Bratty"/>
+    </droppedBy>
   </item>
   <item looktype="5487" name="Sailor legs" sell="32" type="legs" vocation="warrior">
     <defences holy_def="10" ice_def="10" level="26"/>
-    <sources>
-      <source name="Swabby" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6147" name="Swabby"/>
+    </droppedBy>
   </item>
   <item looktype="5245" name="Sailor pants" sell="27" type="legs" vocation="wizard">
     <defences holy_def="12" ice_def="12" level="26"/>
-    <sources>
-      <source name="Swabby" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6147" name="Swabby"/>
+    </droppedBy>
   </item>
   <item looktype="6449" name="Sanchaku" sell="33" type="weapon" vocation="warrior">
     <attacks hit_attack="1-58" level="26"/>
-    <sources>
-      <source name="Monk" type="mob"/>
-      <source name="Monky" type="mob"/>
-      <source name="Nimon" type="mob"/>
-      <source name="Shogun" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="6406" name="Nimon"/>
+      <monster looktype="6405" name="Shogun"/>
+      <monster looktype="6406" name="Monk"/>
+      <monster looktype="6406" name="Monky"/>
+    </droppedBy>
   </item>
   <item looktype="2598" name="Sapphire" sell="450" type="none">
-    <sources>
-      <source name="Frostily" type="mob"/>
-      <source name="Iceguard" type="mob"/>
-      <source name="Lich" type="mob"/>
-      <source name="Lich King" type="mob"/>
-      <source name="Lich Lord" type="mob"/>
-      <source name="Smeliot" type="mob"/>
-      <source name="Yeti" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+      <monster looktype="5379" name="Frostily"/>
+      <monster looktype="5379" name="Smeliot"/>
+      <monster looktype="5379" name="Yeti"/>
+      <monster isBoss="true" looktype="5379" name="Iceguard"/>
+    </droppedBy>
   </item>
   <item looktype="6515" name="Scepter of damn" type="weapon" vocation="wizard">
     <attacks hit_attack="4-34" holy_attack="75-215" level="111" mana="25"/>
-    <sources>
-      <source name="Kul'Krak'u" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+    </droppedBy>
   </item>
   <item looktype="6417" name="Scepter of fire" sell="223" type="weapon" vocation="wizard">
     <attacks fire_attack="35-135" hit_attack="10-25" level="74" mana="18"/>
-    <sources>
-      <source name="Aural" type="mob"/>
-      <source name="Blaze Master" type="mob"/>
-      <source name="Demon" type="mob"/>
-      <source name="GM-Doro" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster looktype="5892" name="Aural"/>
+      <monster looktype="5894" name="Blaze Master"/>
+      <monster looktype="5639" name="Demon"/>
+    </droppedBy>
   </item>
   <item looktype="5560" name="Shagdurn" sell="1000" type="weapon" vocation="wizard">
     <attacks fire_attack="19-185" level="79" mana="19"/>
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="NanoWasp" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5892" name="NanoWasp"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="6457" name="Shaolin headbelt" sell="43" type="helmet" vocation="wizard">
     <defences energy_def="15" hit_def="10" level="44"/>
-    <sources>
-      <source name="Rishombie" type="mob"/>
-      <source name="Bragnak" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="6401" name="Rishombie"/>
+    </droppedBy>
   </item>
   <item looktype="6459" name="Shaolin pants" sell="53" type="legs" vocation="wizard">
     <defences energy_def="10" hit_def="15" level="35"/>
-    <sources>
-      <source name="Assasin" type="mob"/>
-      <source name="Rishombie" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6403" name="Assasin"/>
+      <monster looktype="6401" name="Rishombie"/>
+    </droppedBy>
   </item>
   <item looktype="6458" name="Shaolin robe" sell="63" type="armour" vocation="wizard">
     <defences energy_def="10" hit_def="20" level="34"/>
-    <sources>
-      <source name="Rishombie" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6401" name="Rishombie"/>
+    </droppedBy>
   </item>
   <item looktype="6463" name="Shaoshield mill" sell="38" type="shield" vocation="wizard">
     <defences holy_def="5" ice_def="10" level="24"/>
-    <sources>
-      <source name="Wiashi" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6405" name="Wiashi"/>
+    </droppedBy>
   </item>
   <item looktype="6439" name="Shield ring" sell="106" type="ring">
     <defences hit_def="20" level="76"/>
-    <sources>
-      <source name="Alligator" type="mob"/>
-      <source name="Crocodile" type="mob"/>
-      <source name="Dragon" type="mob"/>
-      <source name="The Fouldrake" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster looktype="5386" name="Alligator"/>
+      <monster looktype="5386" name="Crocodile"/>
+      <monster looktype="5638" name="Dragon"/>
+    </droppedBy>
   </item>
   <item looktype="6405" name="Shimmering onyx" type="none">
-    <sources>
-      <source name="Forofnat" type="mob"/>
-      <source name="Goblin" type="mob"/>
-      <source name="Gremlin" type="mob"/>
-      <source name="Treant" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5890" name="Goblin"/>
+      <monster looktype="5890" name="Gremlin"/>
+      <monster looktype="5893" name="Treant"/>
+      <monster looktype="5893" name="Forofnat"/>
+    </droppedBy>
   </item>
   <item looktype="5180" name="Shiver rune" sell="75" type="weapon" vocation="wizard">
     <attacks ice_attack="1-72" level="24" mana="7"/>
-    <sources>
-      <source name="Haunter" type="mob"/>
-      <source name="Killer Bear" type="mob"/>
-      <source name="Minosol" type="mob"/>
-      <source name="Minotaur" type="mob"/>
-      <source name="Shadow" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster looktype="2572" name="Killer Bear"/>
+      <monster looktype="5635" name="Minosol"/>
+      <monster looktype="5635" name="Minotaur"/>
+      <monster looktype="5640" name="Haunter"/>
+      <monster looktype="5640" name="Shadow"/>
+    </droppedBy>
   </item>
   <item looktype="6454" name="Shogun armour" sell="53" type="armour" vocation="warrior">
     <defences energy_def="10" hit_def="20" level="39"/>
-    <sources>
-      <source name="Rishombie" type="mob"/>
-      <source name="Chilong" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster looktype="6401" name="Rishombie"/>
+    </droppedBy>
   </item>
   <item looktype="6453" name="Shogun helmet" sell="63" type="helmet" vocation="warrior">
     <defences energy_def="15" hit_def="7" level="52"/>
-    <sources>
-      <source name="Rishombie" type="mob"/>
-      <source name="Chilong" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster looktype="6401" name="Rishombie"/>
+    </droppedBy>
   </item>
   <item looktype="6455" name="Shogun legs" sell="63" type="legs" vocation="warrior">
     <defences energy_def="10" hit_def="15" level="40"/>
-    <sources>
-      <source name="Assasin" type="mob"/>
-      <source name="Chilong" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster looktype="6403" name="Assasin"/>
+    </droppedBy>
   </item>
   <item looktype="6456" name="Shogun shield" sell="43" type="shield" vocation="warrior">
     <defences hit_def="5" ice_def="10" level="36"/>
-    <sources>
-      <source name="Chilong" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+    </droppedBy>
   </item>
   <item looktype="5123" name="Short sword" sell="18" type="weapon" vocation="warrior">
     <attacks hit_attack="1-16" level="5"/>
-    <sources>
-      <source name="Acid slime" type="mob"/>
-      <source name="Ooze" type="mob"/>
-      <source name="Slime" type="mob"/>
-      <source name="Wolf" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="2569" name="Wolf"/>
+      <monster looktype="2570" name="Slime"/>
+      <monster looktype="2570" name="Ooze"/>
+      <monster looktype="2570" name="Acid slime"/>
+    </droppedBy>
   </item>
   <item looktype="6450" name="Shuriken" sell="13" type="weapon" vocation="wizard">
     <attacks hit_attack="1-28" holy_attack="1-20" level="14" mana="5"/>
-    <sources>
-      <source name="Kappa" type="mob"/>
-      <source name="Kreppan" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="6409" name="Kappa"/>
+      <monster looktype="6409" name="Kreppan"/>
+    </droppedBy>
   </item>
   <item looktype="5137" name="Silver mace" sell="18" type="weapon" vocation="warrior">
     <attacks hit_attack="1-5" holy_attack="1-30" level="13"/>
-    <sources>
-      <source name="Lich" type="mob"/>
-      <source name="Lich King" type="mob"/>
-      <source name="Lich Lord" type="mob"/>
-      <source name="Vamp Bat" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5124" name="Vamp Bat"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+    </droppedBy>
   </item>
   <item looktype="8475" name="Silver Stone" sell="1000" type="none">
-    <sources>
-      <source name="Silver Stone" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6914" name="Silver Stone"/>
+    </droppedBy>
   </item>
   <item looktype="5248" name="Skull ring" sell="78" type="ring">
     <defences fire_def="10" hit_def="10" ice_def="10" level="34"/>
-    <sources>
-      <source name="Cleptoman" type="mob"/>
-      <source name="Skonkey" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5385" name="Cleptoman"/>
+      <monster looktype="5385" name="Skonkey"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Slime mask" sell="550" type="mask">
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="5562" name="Small health potion" sell="90" type="potion">
     <heals hp="450"/>
-    <sources>
-      <source name="Alligator" type="mob"/>
-      <source name="Aural" type="mob"/>
-      <source name="Bantinel" type="mob"/>
-      <source name="Banuconda" type="mob"/>
-      <source name="Berseclops" type="mob"/>
-      <source name="Bokk" type="mob"/>
-      <source name="Bratty" type="mob"/>
-      <source name="Buzzy" type="mob"/>
-      <source name="Capitain" type="mob"/>
-      <source name="Chicken" type="mob"/>
-      <source name="Cleptoman" type="mob"/>
-      <source name="Construct" type="mob"/>
-      <source name="Creationis" type="mob"/>
-      <source name="Crocodile" type="mob"/>
-      <source name="Cyclops" type="mob"/>
-      <source name="Dragon" type="mob"/>
-      <source name="Dwarf" type="mob"/>
-      <source name="Flappy" type="mob"/>
-      <source name="Flutt" type="mob"/>
-      <source name="Flutto" type="mob"/>
-      <source name="Flutty" type="mob"/>
-      <source name="Forofnat" type="mob"/>
-      <source name="Frostily" type="mob"/>
-      <source name="Goldminer" type="mob"/>
-      <source name="Gremlin" type="mob"/>
-      <source name="Haunter" type="mob"/>
-      <source name="Ibex" type="mob"/>
-      <source name="Kreppan" type="mob"/>
-      <source name="Locusas" type="mob"/>
-      <source name="Locuwar" type="mob"/>
-      <source name="Long" type="mob"/>
-      <source name="Mantis" type="mob"/>
-      <source name="Markhor" type="mob"/>
-      <source name="Miomantis" type="mob"/>
-      <source name="Monk" type="mob"/>
-      <source name="Monky" type="mob"/>
-      <source name="Mummy" type="mob"/>
-      <source name="Musco" type="mob"/>
-      <source name="Muscolant" type="mob"/>
-      <source name="Nimon" type="mob"/>
-      <source name="Ninjaman" type="mob"/>
-      <source name="Petty" type="mob"/>
-      <source name="Phorus" type="mob"/>
-      <source name="Raider" type="mob"/>
-      <source name="Scorpiant" type="mob"/>
-      <source name="Shadow" type="mob"/>
-      <source name="Shogun" type="mob"/>
-      <source name="Skonkey" type="mob"/>
-      <source name="Smeliot" type="mob"/>
-      <source name="Solahmari" type="mob"/>
-      <source name="Stormey" type="mob"/>
-      <source name="Swabby" type="mob"/>
-      <source name="Taumantis" type="mob"/>
-      <source name="Tentacle" type="mob"/>
-      <source name="Terrorbird" type="mob"/>
-      <source name="Thunderey" type="mob"/>
-      <source name="Trangler" type="mob"/>
-      <source name="Treant" type="mob"/>
-      <source name="Troll" type="mob"/>
-      <source name="Trollsmash" type="mob"/>
-      <source name="Twombie" type="mob"/>
-      <source name="Vampire" type="mob"/>
-      <source name="Werewolf" type="mob"/>
-      <source name="Werewolf Master" type="mob"/>
-      <source name="Wiashi" type="mob"/>
-      <source name="Witch" type="mob"/>
-      <source name="Wudan" type="mob"/>
-      <source name="Wudu" type="mob"/>
-      <source name="Yeti" type="mob"/>
-    </sources>
+    <droppedBy count="69">
+      <monster looktype="5377" name="Twombie"/>
+      <monster looktype="5386" name="Alligator"/>
+      <monster looktype="2568" name="Banuconda"/>
+      <monster looktype="5386" name="Crocodile"/>
+      <monster looktype="5637" name="Cyclops"/>
+      <monster looktype="5895" name="Dwarf"/>
+      <monster looktype="5895" name="Goldminer"/>
+      <monster looktype="5378" name="Mantis"/>
+      <monster looktype="5378" name="Miomantis"/>
+      <monster looktype="6406" name="Nimon"/>
+      <monster looktype="6405" name="Shogun"/>
+      <monster looktype="5378" name="Taumantis"/>
+      <monster looktype="5125" name="Thunderey"/>
+      <monster looktype="6405" name="Wiashi"/>
+      <monster looktype="5125" name="Witch"/>
+      <monster looktype="6408" name="Buzzy"/>
+      <monster looktype="6407" name="Flutt"/>
+      <monster looktype="6407" name="Flutto"/>
+      <monster looktype="6407" name="Flutty"/>
+      <monster looktype="5379" name="Frostily"/>
+      <monster looktype="6409" name="Kreppan"/>
+      <monster looktype="5378" name="Locusas"/>
+      <monster looktype="6407" name="Long"/>
+      <monster looktype="6403" name="Ninjaman"/>
+      <monster looktype="5379" name="Smeliot"/>
+      <monster looktype="5379" name="Yeti"/>
+      <monster looktype="5385" name="Cleptoman"/>
+      <monster looktype="6406" name="Creationis"/>
+      <monster looktype="5384" name="Musco"/>
+      <monster looktype="5384" name="Muscolant"/>
+      <monster looktype="5385" name="Skonkey"/>
+      <monster looktype="5634" name="Troll"/>
+      <monster looktype="5634" name="Trollsmash"/>
+      <monster looktype="5130" name="Wudan"/>
+      <monster looktype="5130" name="Wudu"/>
+      <monster looktype="5890" name="Gremlin"/>
+      <monster looktype="5892" name="Aural"/>
+      <monster looktype="5637" name="Berseclops"/>
+      <monster looktype="5891" name="Bokk"/>
+      <monster looktype="6149" name="Bratty"/>
+      <monster looktype="6148" name="Capitain"/>
+      <monster looktype="6154" name="Construct"/>
+      <monster looktype="5638" name="Dragon"/>
+      <monster looktype="5891" name="Ibex"/>
+      <monster looktype="5378" name="Locuwar"/>
+      <monster looktype="5891" name="Markhor"/>
+      <monster looktype="5123" name="Mummy"/>
+      <monster looktype="2571" name="Scorpiant"/>
+      <monster looktype="5125" name="Stormey"/>
+      <monster looktype="6147" name="Swabby"/>
+      <monster looktype="6151" name="Tentacle"/>
+      <monster looktype="5634" name="Trangler"/>
+      <monster looktype="5893" name="Treant"/>
+      <monster looktype="5893" name="Forofnat"/>
+      <monster looktype="5385" name="Bantinel"/>
+      <monster looktype="6407" name="Flappy"/>
+      <monster looktype="5640" name="Haunter"/>
+      <monster looktype="6146" name="Petty"/>
+      <monster looktype="5387" name="Phorus"/>
+      <monster looktype="6146" name="Raider"/>
+      <monster looktype="5640" name="Shadow"/>
+      <monster looktype="6146" name="Solahmari"/>
+      <monster looktype="5387" name="Terrorbird"/>
+      <monster looktype="5636" name="Vampire"/>
+      <monster looktype="2569" name="Werewolf"/>
+      <monster looktype="5387" name="Chicken"/>
+      <monster looktype="6406" name="Monk"/>
+      <monster looktype="6664" name="Werewolf Master"/>
+      <monster looktype="6406" name="Monky"/>
+    </droppedBy>
   </item>
   <item looktype="5569" name="Small mana potion" sell="68" type="potion">
     <heals mp="450"/>
-    <sources>
-      <source name="Alligator" type="mob"/>
-      <source name="Aural" type="mob"/>
-      <source name="Bantinel" type="mob"/>
-      <source name="Banuconda" type="mob"/>
-      <source name="Berseclops" type="mob"/>
-      <source name="Bokk" type="mob"/>
-      <source name="Bratty" type="mob"/>
-      <source name="Buzzy" type="mob"/>
-      <source name="Capitain" type="mob"/>
-      <source name="Chicken" type="mob"/>
-      <source name="Cleptoman" type="mob"/>
-      <source name="Construct" type="mob"/>
-      <source name="Creationis" type="mob"/>
-      <source name="Crocodile" type="mob"/>
-      <source name="Cyclops" type="mob"/>
-      <source name="Dragon" type="mob"/>
-      <source name="Dwarf" type="mob"/>
-      <source name="Flappy" type="mob"/>
-      <source name="Flutt" type="mob"/>
-      <source name="Flutto" type="mob"/>
-      <source name="Flutty" type="mob"/>
-      <source name="Forofnat" type="mob"/>
-      <source name="Frostily" type="mob"/>
-      <source name="Goldminer" type="mob"/>
-      <source name="Gremlin" type="mob"/>
-      <source name="Haunter" type="mob"/>
-      <source name="Ibex" type="mob"/>
-      <source name="Kreppan" type="mob"/>
-      <source name="Locusas" type="mob"/>
-      <source name="Locuwar" type="mob"/>
-      <source name="Long" type="mob"/>
-      <source name="Mantis" type="mob"/>
-      <source name="Markhor" type="mob"/>
-      <source name="Miomantis" type="mob"/>
-      <source name="Monk" type="mob"/>
-      <source name="Monky" type="mob"/>
-      <source name="Mummy" type="mob"/>
-      <source name="Musco" type="mob"/>
-      <source name="Muscolant" type="mob"/>
-      <source name="Nimon" type="mob"/>
-      <source name="Ninjaman" type="mob"/>
-      <source name="Petty" type="mob"/>
-      <source name="Phorus" type="mob"/>
-      <source name="Raider" type="mob"/>
-      <source name="Scorpiant" type="mob"/>
-      <source name="Shadow" type="mob"/>
-      <source name="Shogun" type="mob"/>
-      <source name="Skonkey" type="mob"/>
-      <source name="Smeliot" type="mob"/>
-      <source name="Solahmari" type="mob"/>
-      <source name="Stormey" type="mob"/>
-      <source name="Swabby" type="mob"/>
-      <source name="Taumantis" type="mob"/>
-      <source name="Tentacle" type="mob"/>
-      <source name="Terrorbird" type="mob"/>
-      <source name="Thunderey" type="mob"/>
-      <source name="Trangler" type="mob"/>
-      <source name="Treant" type="mob"/>
-      <source name="Troll" type="mob"/>
-      <source name="Trollsmash" type="mob"/>
-      <source name="Twombie" type="mob"/>
-      <source name="Vampire" type="mob"/>
-      <source name="Vampmaster" type="mob"/>
-      <source name="Werewolf" type="mob"/>
-      <source name="Werewolf Master" type="mob"/>
-      <source name="Wiashi" type="mob"/>
-      <source name="Witch" type="mob"/>
-      <source name="Wudan" type="mob"/>
-      <source name="Wudu" type="mob"/>
-      <source name="Yeti" type="mob"/>
-    </sources>
+    <droppedBy count="70">
+      <monster looktype="5377" name="Twombie"/>
+      <monster looktype="5386" name="Alligator"/>
+      <monster looktype="2568" name="Banuconda"/>
+      <monster looktype="5386" name="Crocodile"/>
+      <monster looktype="5637" name="Cyclops"/>
+      <monster looktype="5895" name="Dwarf"/>
+      <monster looktype="5895" name="Goldminer"/>
+      <monster looktype="5378" name="Mantis"/>
+      <monster looktype="5378" name="Miomantis"/>
+      <monster looktype="6406" name="Nimon"/>
+      <monster looktype="6405" name="Shogun"/>
+      <monster looktype="5378" name="Taumantis"/>
+      <monster looktype="5125" name="Thunderey"/>
+      <monster looktype="6405" name="Wiashi"/>
+      <monster looktype="5125" name="Witch"/>
+      <monster looktype="6408" name="Buzzy"/>
+      <monster looktype="6407" name="Flutt"/>
+      <monster looktype="6407" name="Flutto"/>
+      <monster looktype="6407" name="Flutty"/>
+      <monster looktype="5379" name="Frostily"/>
+      <monster looktype="6409" name="Kreppan"/>
+      <monster looktype="5378" name="Locusas"/>
+      <monster looktype="6407" name="Long"/>
+      <monster looktype="6403" name="Ninjaman"/>
+      <monster looktype="5379" name="Smeliot"/>
+      <monster looktype="5379" name="Yeti"/>
+      <monster looktype="5385" name="Cleptoman"/>
+      <monster looktype="6406" name="Creationis"/>
+      <monster looktype="5384" name="Musco"/>
+      <monster looktype="5384" name="Muscolant"/>
+      <monster looktype="5385" name="Skonkey"/>
+      <monster looktype="5634" name="Troll"/>
+      <monster looktype="5634" name="Trollsmash"/>
+      <monster looktype="5130" name="Wudan"/>
+      <monster looktype="5130" name="Wudu"/>
+      <monster looktype="5890" name="Gremlin"/>
+      <monster looktype="5892" name="Aural"/>
+      <monster looktype="5637" name="Berseclops"/>
+      <monster looktype="5891" name="Bokk"/>
+      <monster looktype="6149" name="Bratty"/>
+      <monster looktype="6148" name="Capitain"/>
+      <monster looktype="6154" name="Construct"/>
+      <monster looktype="5638" name="Dragon"/>
+      <monster looktype="5891" name="Ibex"/>
+      <monster looktype="5378" name="Locuwar"/>
+      <monster looktype="5891" name="Markhor"/>
+      <monster looktype="5123" name="Mummy"/>
+      <monster looktype="2571" name="Scorpiant"/>
+      <monster looktype="5125" name="Stormey"/>
+      <monster looktype="6147" name="Swabby"/>
+      <monster looktype="6151" name="Tentacle"/>
+      <monster looktype="5634" name="Trangler"/>
+      <monster looktype="5893" name="Treant"/>
+      <monster looktype="5893" name="Forofnat"/>
+      <monster looktype="5385" name="Bantinel"/>
+      <monster looktype="6407" name="Flappy"/>
+      <monster looktype="5640" name="Haunter"/>
+      <monster looktype="6146" name="Petty"/>
+      <monster looktype="5387" name="Phorus"/>
+      <monster looktype="6146" name="Raider"/>
+      <monster looktype="5640" name="Shadow"/>
+      <monster looktype="6146" name="Solahmari"/>
+      <monster looktype="5387" name="Terrorbird"/>
+      <monster looktype="5636" name="Vampire"/>
+      <monster looktype="2569" name="Werewolf"/>
+      <monster looktype="5387" name="Chicken"/>
+      <monster looktype="6406" name="Monk"/>
+      <monster looktype="6664" name="Werewolf Master"/>
+      <monster looktype="5636" name="Vampmaster"/>
+      <monster looktype="6406" name="Monky"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Snake mask" sell="550" type="mask">
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="5141" name="Soul rod" sell="38" type="weapon" vocation="wizard">
     <attacks holy_attack="1-90" level="31" mana="9"/>
-    <sources>
-      <source name="Banthera" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5380" name="Banthera"/>
+    </droppedBy>
   </item>
   <item looktype="5261" name="Soulcleaver" sell="55" type="weapon" vocation="warrior">
     <attacks hit_attack="12-26" holy_attack="10-70" level="50"/>
-    <sources>
-      <source name="Tutankhamn" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5123" name="Tutankhamn"/>
+    </droppedBy>
   </item>
   <item looktype="5200" name="Soulfire ring" sell="34" type="ring">
     <defences fire_def="10" holy_def="10" level="34"/>
-    <sources>
-      <source name="Musco" type="mob"/>
-      <source name="Muscolant" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5384" name="Musco"/>
+      <monster looktype="5384" name="Muscolant"/>
+    </droppedBy>
   </item>
   <item looktype="6546" name="Soulkeeper" type="weapon" vocation="wizard">
     <attacks holy_attack="60-233" level="99" mana="23"/>
-    <sources>
-      <source name="Blackdrake" type="mob"/>
-      <source name="Chaodrake" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="6412" name="Blackdrake"/>
+      <monster looktype="6412" name="Chaodrake"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="5165" name="Spark chain" sell="48" type="chain">
     <defences energy_def="10" fire_def="10" level="49"/>
-    <sources>
-      <source name="Berseclops" type="mob"/>
-      <source name="Cyclops" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5637" name="Cyclops"/>
+      <monster looktype="5637" name="Berseclops"/>
+    </droppedBy>
   </item>
   <item looktype="5223" name="Spark stick" sell="42" type="weapon" vocation="wizard">
     <attacks energy_attack="1-30" level="9" mana="3"/>
-    <sources>
-      <source name="Skeleton" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5121" name="Skeleton"/>
+    </droppedBy>
   </item>
   <item looktype="6525" name="Sparking plug" sell="85" type="weapon" vocation="wizard">
     <attacks energy_attack="1-89" level="29" mana="9"/>
-    <sources>
-      <source name="Ninjaman" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6403" name="Ninjaman"/>
+    </droppedBy>
   </item>
   <item looktype="5385" name="Spell student hood" sell="28" type="helmet" vocation="wizard">
     <defences hit_def="5" level="10"/>
-    <sources>
-      <source name="Lizardman" type="mob"/>
-      <source name="Lizarogue" type="mob"/>
-      <source name="Lizazzin" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="2566" name="Lizardman"/>
+      <monster looktype="2566" name="Lizarogue"/>
+      <monster looktype="2566" name="Lizazzin"/>
+    </droppedBy>
   </item>
   <item looktype="5394" name="Spellwielder hat" sell="32" type="helmet" vocation="wizard">
     <defences hit_def="10" level="25"/>
-    <sources>
-      <source name="Angrax" type="mob"/>
-      <source name="Cultist" type="mob"/>
-      <source name="Cultix" type="mob"/>
-      <source name="Baby Drake" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+      <monster looktype="5130" name="Angrax"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+    </droppedBy>
   </item>
   <item looktype="5392" name="Spellwielder shirt" sell="35" type="armour" vocation="wizard">
     <defences fire_def="6" hit_def="16" level="24"/>
-    <sources>
-      <source name="Sabrerus" type="mob"/>
-      <source name="Walrull" type="mob"/>
-      <source name="Walrus" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+    </droppedBy>
   </item>
   <item looktype="5273" name="Sphinx eye talisman" sell="65" type="chain">
     <defences holy_def="10" level="51"/>
-    <sources>
-      <source name="Orc General" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6663" name="Orc General"/>
+    </droppedBy>
   </item>
   <item looktype="6584" name="Spider crystal" type="none">
-    <sources>
-      <source name="Gigantula" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2567" name="Gigantula"/>
+    </droppedBy>
   </item>
   <item looktype="5699" name="Spirit might potion" sell="400" type="potion">
     <heals hp="4800" mp="3600"/>
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="NanoWasp" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="6">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5892" name="NanoWasp"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="6531" name="Spiritbane" type="weapon" vocation="warrior">
     <attacks holy_attack="20-205" level="99"/>
-    <sources>
-      <source name="Blackdrake" type="mob"/>
-      <source name="Chaodrake" type="mob"/>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Kul'Krak'u" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+      <monster looktype="6412" name="Blackdrake"/>
+      <monster looktype="6412" name="Chaodrake"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="5183" name="Spiritual amulet" sell="33" type="chain">
     <defences holy_def="10" level="49"/>
-    <sources>
-      <source name="Big Zombie" type="mob"/>
-      <source name="King Bat" type="mob"/>
-      <source name="Apprentice" type="boss"/>
-      <source name="The Miner" type="boss"/>
-    </sources>
+    <droppedBy count="4">
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster isBoss="true" looktype="5124" name="King Bat"/>
+      <monster isBoss="true" looktype="5377" name="Big Zombie"/>
+    </droppedBy>
   </item>
   <item looktype="6479" name="Splatter helmet" sell="40" type="helmet" vocation="warrior">
     <defences hit_def="4" holy_def="11" level="40"/>
-    <sources>
-      <source name="Mantis" type="mob"/>
-      <source name="Miomantis" type="mob"/>
-      <source name="Taumantis" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5378" name="Mantis"/>
+      <monster looktype="5378" name="Miomantis"/>
+      <monster looktype="5378" name="Taumantis"/>
+    </droppedBy>
   </item>
   <item looktype="6480" name="Splatter hood" sell="39" type="helmet" vocation="wizard">
     <defences hit_def="5" holy_def="14" level="40"/>
-    <sources>
-      <source name="Mantis" type="mob"/>
-      <source name="Miomantis" type="mob"/>
-      <source name="Taumantis" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5378" name="Mantis"/>
+      <monster looktype="5378" name="Miomantis"/>
+      <monster looktype="5378" name="Taumantis"/>
+    </droppedBy>
   </item>
   <item looktype="6478" name="Splatter stick" sell="60" type="weapon" vocation="wizard">
     <attacks fire_attack="1-127" level="43" mana="12"/>
-    <sources>
-      <source name="Werewolf" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="2569" name="Werewolf"/>
+    </droppedBy>
   </item>
   <item looktype="6522" name="Staff of pain" type="weapon" vocation="wizard">
     <attacks hit_attack="60-233" level="99" mana="23"/>
-    <sources>
-      <source name="Kul'Krak'u" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
+    </droppedBy>
   </item>
   <item looktype="5198" name="Static shield" sell="76" type="shield" vocation="wizard">
     <defences energy_def="15" hit_def="10" level="42"/>
-    <sources>
-      <source name="Dwarf" type="mob"/>
-      <source name="Goldminer" type="mob"/>
-      <source name="Orc General" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5895" name="Dwarf"/>
+      <monster looktype="5895" name="Goldminer"/>
+      <monster isBoss="true" looktype="6663" name="Orc General"/>
+    </droppedBy>
   </item>
   <item looktype="5199" name="Steel chain" sell="43" type="chain">
     <defences hit_def="25" level="79"/>
-    <sources>
-      <source name="Fouldrake" type="mob"/>
-      <source name="Krakomin" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5644" name="Krakomin"/>
+      <monster looktype="6412" name="Fouldrake"/>
+    </droppedBy>
   </item>
   <item looktype="6545" name="Storm singer" sell="169" type="weapon" vocation="wizard">
     <attacks energy_attack="18-175" level="74" mana="18"/>
-    <sources>
-      <source name="Crystally" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5641" name="Crystally"/>
+    </droppedBy>
   </item>
   <item looktype="6589" name="Storming ore" sell="370" type="none">
-    <sources>
-      <source name="Abominatio" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6659" name="Abominatio"/>
+    </droppedBy>
   </item>
   <item looktype="5142" name="Strange energy" type="script">
-    <sources>
-      <source name="Mutant" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6913" name="Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="2561" name="Sword" sell="56" type="weapon" vocation="warrior">
     <attacks hit_attack="1-35" level="15"/>
-    <sources>
-      <source name="Bear" type="mob"/>
-      <source name="Rabid Bear" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="2572" name="Bear"/>
+      <monster looktype="2572" name="Rabid Bear"/>
+    </droppedBy>
   </item>
   <item looktype="5187" name="Sword of legend" sell="154" type="weapon" vocation="warrior">
     <attacks hit_attack="1-20" holy_attack="1-20" ice_attack="15-100" level="69"/>
-    <sources>
-      <source name="Dragon" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5638" name="Dragon"/>
+    </droppedBy>
   </item>
   <item looktype="6405" name="Syorta ore" type="none">
-    <sources>
-      <source name="Minorrior" type="mob"/>
-      <source name="Minosol" type="mob"/>
-      <source name="Minotaur" type="mob"/>
-      <source name="The Miner" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5635" name="Minosol"/>
+      <monster looktype="5635" name="Minotaur"/>
+      <monster looktype="5635" name="Minorrior"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+    </droppedBy>
   </item>
   <item looktype="5544" name="Tempest cape" sell="2000" type="armour" vocation="wizard">
     <defences energy_def="35" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5538" name="Tempest harness" sell="2000" type="armour" vocation="warrior">
     <defences energy_def="30" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5179" name="Tempest rod" sell="112" type="weapon" vocation="wizard">
     <attacks energy_attack="1-150" hit_attack="1-5" level="44" mana="14"/>
-    <sources>
-      <source name="Bragnak" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+    </droppedBy>
   </item>
   <item looktype="5556" name="Thunder clap mace" type="weapon" vocation="warrior">
     <attacks energy_attack="20-205" level="99"/>
-    <sources>
-      <source name="Behemoth" type="mob"/>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-      <source name="Wisper" type="mob"/>
-      <source name="Shellborn" type="boss"/>
-    </sources>
+    <droppedBy count="8">
+      <monster isBoss="true" looktype="6150" name="Shellborn"/>
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster looktype="6155" name="Behemoth"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+      <monster looktype="5892" name="Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5197" name="Thunder shield" sell="93" type="shield" vocation="warrior">
     <defences energy_def="15" hit_def="5" level="55"/>
-    <sources>
-      <source name="Dwarf" type="mob"/>
-      <source name="Goldminer" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5895" name="Dwarf"/>
+      <monster looktype="5895" name="Goldminer"/>
+    </droppedBy>
   </item>
   <item looktype="5247" name="Tide evoker" sell="45" type="weapon" vocation="wizard">
     <attacks energy_attack="1-25" ice_attack="1-120" level="49" mana="13"/>
-    <sources>
-      <source name="Gryllo" type="mob"/>
-      <source name="Tutankhamn" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="5123" name="Tutankhamn"/>
+      <monster isBoss="true" looktype="5378" name="Gryllo"/>
+    </droppedBy>
   </item>
   <item looktype="2586" name="Tiger oil" type="none">
-    <sources>
-      <source name="Shogun" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6405" name="Shogun"/>
+    </droppedBy>
   </item>
   <item looktype="5542" name="To-sabaki Ring" sell="77" type="ring">
     <defences energy_def="22" ice_def="7" level="79"/>
-    <sources>
-      <source name="Elite Mutan" type="mob"/>
-      <source name="Elite Mutant" type="mob"/>
-      <source name="Mutan" type="mob"/>
-      <source name="Mutant" type="mob"/>
-    </sources>
+    <droppedBy count="4">
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+      <monster looktype="5384" name="Mutan"/>
+      <monster looktype="6913" name="Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="2603" name="Topaz" sell="450" type="none">
-    <sources>
-      <source name="Acid slime" type="mob"/>
-      <source name="Berseclops" type="mob"/>
-      <source name="Cyclops" type="mob"/>
-      <source name="Flappy" type="mob"/>
-      <source name="Flutt" type="mob"/>
-      <source name="Flutto" type="mob"/>
-      <source name="Flutty" type="mob"/>
-      <source name="Long" type="mob"/>
-      <source name="Ooze" type="mob"/>
-    </sources>
+    <droppedBy count="9">
+      <monster looktype="2570" name="Ooze"/>
+      <monster looktype="2570" name="Acid slime"/>
+      <monster looktype="5637" name="Cyclops"/>
+      <monster looktype="6407" name="Flutt"/>
+      <monster looktype="6407" name="Flutto"/>
+      <monster looktype="6407" name="Flutty"/>
+      <monster looktype="6407" name="Long"/>
+      <monster looktype="5637" name="Berseclops"/>
+      <monster looktype="6407" name="Flappy"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Treant mask" sell="550" type="mask">
-    <sources>
-      <source name="AcidWorm" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6915" name="AcidWorm"/>
+    </droppedBy>
   </item>
   <item looktype="6584" name="Twinkling emerald" type="none">
-    <sources>
-      <source name="Haunter" type="mob"/>
-      <source name="Shadow" type="mob"/>
-      <source name="Stormey" type="mob"/>
-      <source name="Tarmonted" type="mob"/>
-      <source name="Thunderey" type="mob"/>
-      <source name="Tormonted" type="mob"/>
-      <source name="Witch" type="mob"/>
-    </sources>
+    <droppedBy count="7">
+      <monster looktype="5126" name="Tarmonted"/>
+      <monster looktype="5125" name="Thunderey"/>
+      <monster looktype="5126" name="Tormonted"/>
+      <monster looktype="5125" name="Witch"/>
+      <monster looktype="5125" name="Stormey"/>
+      <monster looktype="5640" name="Haunter"/>
+      <monster looktype="5640" name="Shadow"/>
+    </droppedBy>
   </item>
   <item looktype="2598" name="Twinkling sapphire" type="none">
-    <sources>
-      <source name="Angrax" type="mob"/>
-      <source name="Cultist" type="mob"/>
-      <source name="Cultix" type="mob"/>
-      <source name="Frost Bear" type="mob"/>
-      <source name="Frostily" type="mob"/>
-      <source name="Icy Bear" type="mob"/>
-      <source name="Polar Bear" type="mob"/>
-      <source name="Sabrerus" type="mob"/>
-      <source name="Smeliot" type="mob"/>
-      <source name="Walrull" type="mob"/>
-      <source name="Walrus" type="mob"/>
-      <source name="Yeti" type="mob"/>
-    </sources>
+    <droppedBy count="12">
+      <monster looktype="5130" name="Angrax"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+      <monster looktype="5382" name="Frost Bear"/>
+      <monster looktype="5382" name="Icy Bear"/>
+      <monster looktype="5382" name="Polar Bear"/>
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+      <monster looktype="5379" name="Frostily"/>
+      <monster looktype="5379" name="Smeliot"/>
+      <monster looktype="5379" name="Yeti"/>
+    </droppedBy>
   </item>
   <item looktype="5419" name="unknown_ring_heart3" type="none">
-    <sources>
-      <source name="Polar Bear" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="5382" name="Polar Bear"/>
+    </droppedBy>
   </item>
   <item looktype="5552" name="Voidcutter" type="weapon" vocation="warrior">
     <attacks holy_attack="14-161" level="74"/>
-    <sources>
-      <source name="Chilong" type="boss"/>
-      <source name="Ghostnon" type="boss"/>
-    </sources>
+    <droppedBy count="2">
+      <monster isBoss="true" looktype="6407" name="Chilong"/>
+      <monster isBoss="true" looktype="5126" name="Ghostnon"/>
+    </droppedBy>
   </item>
   <item looktype="5175" name="Volcanic axe" sell="45" type="weapon" vocation="warrior">
     <attacks fire_attack="1-65" hit_attack="1-20" level="37"/>
-    <sources>
-      <source name="The Bug" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="2565" name="The Bug"/>
+    </droppedBy>
   </item>
   <item looktype="5135" name="War hammer" sell="28" type="weapon" vocation="warrior">
     <attacks hit_attack="1-40" level="17"/>
-    <sources>
-      <source name="Tarmonted" type="mob"/>
-      <source name="Tormonted" type="mob"/>
-    </sources>
+    <droppedBy count="2">
+      <monster looktype="5126" name="Tarmonted"/>
+      <monster looktype="5126" name="Tormonted"/>
+    </droppedBy>
   </item>
   <item looktype="5532" name="Warden cloak" sell="2000" type="armour" vocation="wizard">
     <defences holy_def="35" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Fouldrake" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="5526" name="Warden cuirass" sell="2000" type="armour" vocation="warrior">
     <defences holy_def="30" level="65"/>
-    <sources>
-      <source name="Crepper" type="boss"/>
-      <source name="The Fouldrake" type="boss"/>
-      <source name="The Wisper" type="boss"/>
-    </sources>
+    <droppedBy count="3">
+      <monster isBoss="true" looktype="6409" name="Crepper"/>
+      <monster isBoss="true" looktype="6412" name="The Fouldrake"/>
+      <monster isBoss="true" looktype="5892" name="The Wisper"/>
+    </droppedBy>
   </item>
   <item looktype="2595" name="Warwood" type="none">
-    <sources>
-      <source name="King Warlord" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6405" name="King Warlord"/>
+    </droppedBy>
   </item>
   <item looktype="5672" name="Weapon Shard" sell="7000" type="none">
-    <sources>
-      <source name="Myst" type="boss"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6411" name="Myst"/>
+    </droppedBy>
   </item>
   <item looktype="5231" name="White pearl" sell="55" type="none">
-    <sources>
-      <source name="Elite Borc" type="mob"/>
-      <source name="Elite Mutan" type="mob"/>
-      <source name="Elite Mutant" type="mob"/>
-      <source name="Elite Worc" type="mob"/>
-      <source name="Leviatacle" type="mob"/>
-      <source name="Levitacle" type="mob"/>
-      <source name="Orc Hunter" type="mob"/>
-      <source name="Worc" type="mob"/>
-    </sources>
+    <droppedBy count="8">
+      <monster looktype="6151" name="Leviatacle"/>
+      <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="6663" name="Elite Worc"/>
+      <monster looktype="6663" name="Worc"/>
+      <monster looktype="6662" name="Orc Hunter"/>
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+    </droppedBy>
   </item>
   <item looktype="5158" name="Winter legs" sell="78" type="legs" vocation="wizard">
     <defences hit_def="16" ice_def="5" level="57"/>
-    <sources>
-      <source name="Trangler" type="mob"/>
-      <source name="Troll" type="mob"/>
-      <source name="Trollsmash" type="mob"/>
-    </sources>
+    <droppedBy count="3">
+      <monster looktype="5634" name="Troll"/>
+      <monster looktype="5634" name="Trollsmash"/>
+      <monster looktype="5634" name="Trangler"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Wisp mask" sell="550" type="mask">
-    <sources>
-      <source name="AcidWorm" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster isBoss="true" looktype="6915" name="AcidWorm"/>
+    </droppedBy>
   </item>
   <item looktype="5558" name="Wolf mask" sell="550" type="mask">
-    <sources>
-      <source name="Creature" type="mob"/>
-      <source name="FluxGolem" type="mob"/>
-      <source name="Taxader" type="mob"/>
-      <source name="VoltHound" type="mob"/>
-      <source name="Warer" type="mob"/>
-    </sources>
+    <droppedBy count="5">
+      <monster isBoss="true" looktype="6659" name="Creature"/>
+      <monster isBoss="true" looktype="6913" name="Taxader"/>
+      <monster isBoss="true" looktype="6660" name="Warer"/>
+      <monster isBoss="true" looktype="6154" name="FluxGolem"/>
+      <monster isBoss="true" looktype="5642" name="VoltHound"/>
+    </droppedBy>
   </item>
   <item looktype="5254" name="Yellow dragon egg" type="egg">
     <heals regen="2"/>
-    <sources>
-      <source name="Eggosaurus" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="8452" name="Eggosaurus"/>
+    </droppedBy>
   </item>
   <item looktype="6495" name="Zombie shreds" type="none">
-    <sources>
-      <source name="Farmzombie" type="mob"/>
-    </sources>
+    <droppedBy count="1">
+      <monster looktype="6401" name="Farmzombie"/>
+    </droppedBy>
   </item>
 </items>
