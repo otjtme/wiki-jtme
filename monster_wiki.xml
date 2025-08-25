@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<monsters count="111" expRate="35" generatedAt="2025-08-25T01:57:38.307Z">
+  <monster element="hit" hp="29" looktype="2565" name="Bug" xp="35">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <drops>
+      <item looktype="5224" name="Chili stick"/>
+      <item looktype="5217" name="Little sword"/>
+      <item looktype="2587" name="Minor health potion"/>
+      <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="65" looktype="5889" name="Frog" xp="105">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2566" name="Blazing crystal"/>
+      <item looktype="5218" name="Melee mallet"/>
+      <item looktype="5138" name="Glowing hammer"/>
+      <item looktype="2587" name="Minor health potion"/>
+      <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="44" looktype="2568" name="Snake" xp="35">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5220" name="Feathered stick"/>
+      <item looktype="5138" name="Glowing hammer"/>
+      <item looktype="2587" name="Minor health potion"/>
+      <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="79" looktype="2567" name="Spider" xp="140">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2566" name="Blazing crystal"/>
+      <item looktype="5218" name="Melee mallet"/>
+      <item looktype="2587" name="Minor health potion"/>
+      <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="92" looktype="2569" name="Wolf" xp="175">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5221" name="Magic spoon"/>
+      <item looktype="5123" name="Short sword"/>
+      <item looktype="2587" name="Minor health potion"/>
+      <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="198" looktype="5124" name="Bat" xp="735">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>holy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6495" name="Bat skin"/>
+      <item looktype="5500" name="Freezer planks"/>
+      <item looktype="2564" name="Mace"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5429" name="Nivalian ring"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="214" looktype="2572" name="Bear" xp="875">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6475" name="Flogging rune"/>
+      <item looktype="2561" name="Sword"/>
+      <item looktype="5182" name="Priest ring"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="214" looktype="5126" name="Ghost" xp="875">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5388" name="Fur-lined cap"/>
+      <item looktype="5470" name="Fur-lined legs"/>
+      <item looktype="5222" name="Magic root"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+      <item looktype="6584" name="Emerald"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="173" looktype="2571" name="Scorpion" xp="630">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>holy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2564" name="Mace"/>
+      <item looktype="5222" name="Magic root"/>
+      <item looktype="2587" name="Minor health potion"/>
+      <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="198" looktype="5121" name="Skeleton" xp="735">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5219" name="Flash hacker"/>
+      <item looktype="5500" name="Freezer planks"/>
+      <item looktype="5223" name="Spark stick"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="475" looktype="6408" name="Bloodfly" xp="3640">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5441" name="Enlighted necklace"/>
+      <item looktype="6460" name="Orange belt"/>
+      <item looktype="5491" name="Orange hardbelt"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="600" looktype="5386" name="Crocodile" xp="4480">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="6439" name="Shield ring"/>
+      <item looktype="5194" name="Holy legs"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="656" looktype="5637" name="Cyclops" xp="4795">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="5142" name="Rune of winter"/>
+      <item looktype="2603" name="Topaz"/>
+      <item looktype="5165" name="Spark chain"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="386" looktype="5898" name="Fire Drake" xp="2485">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5232" name="Dragon pearl"/>
+      <item looktype="6495" name="Drake skin"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="496" looktype="6409" name="Kappa" xp="3780">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6450" name="Shuriken"/>
+      <item looktype="2586" name="Kappa ichor"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+      <item looktype="6448" name="Nunchaku"/>
+      <item looktype="5441" name="Enlighted necklace"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="540" looktype="5378" name="Mantis" xp="4480">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="6479" name="Splatter helmet"/>
+      <item looktype="6480" name="Splatter hood"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="353" looktype="5635" name="Minotaur" xp="2345">
+    <attacks>
+      <e>fire</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6471" name="Frozarium"/>
+      <item looktype="5180" name="Shiver rune"/>
+      <item looktype="6405" name="Syorta ore"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="302" looktype="5122" name="Orc" xp="1750">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6477" name="Freezer rune"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="2583" name="Power ring"/>
+      <item looktype="2597" name="Ruby"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="496" looktype="5122" name="Orc Leader" xp="3640">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6477" name="Freezer rune"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="2597" name="Ruby"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="386" looktype="5122" name="Orc Raider" xp="2485">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6477" name="Freezer rune"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="2583" name="Power ring"/>
+      <item looktype="2597" name="Ruby"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="496" looktype="6402" name="Peasant" xp="3640">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6554" name="Faraday skirt"/>
+      <item looktype="6549" name="Mithril helmet"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="289" looktype="2572" name="Rabid Bear" xp="1575">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2561" name="Sword"/>
+      <item looktype="6475" name="Flogging rune"/>
+      <item looktype="5182" name="Priest ring"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="525" looktype="6405" name="Shogun" xp="3955">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2572" name="Brass helmet"/>
+      <item looktype="5395" name="Enlighted shirt"/>
+      <item looktype="6449" name="Sanchaku"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="2586" name="Tiger oil"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="318" looktype="6152" name="Skeleguard" xp="1995">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>hit</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2568" name="Fire rune"/>
+      <item looktype="5147" name="Fire discus"/>
+      <item looktype="5499" name="Freezer shield"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="255" looktype="5121" name="Skelenary" xp="1365">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2562" name="Axe"/>
+      <item looktype="6488" name="Incensor"/>
+      <item looktype="5499" name="Freezer shield"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="293" looktype="5633" name="Small Eye" xp="2170">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2569" name="Holy discus"/>
+      <item looktype="5124" name="Holy lance"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="372" looktype="2567" name="Tarantula" xp="2485">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6488" name="Incensor"/>
+      <item looktype="2568" name="Fire rune"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="387" looktype="5379" name="Young Yeti" xp="2485">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2584" name="Girtonyclerine"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="2144" looktype="6407" name="Flutt" xp="13650">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5127" name="Energy blade"/>
+      <item looktype="5148" name="Energy discus"/>
+      <item looktype="2603" name="Topaz"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="535" looktype="6409" name="Kreppan" xp="4095">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5442" name="Enlighted ring"/>
+      <item looktype="6448" name="Nunchaku"/>
+      <item looktype="6450" name="Shuriken"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="544" looktype="6407" name="Long" xp="4095">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5127" name="Energy blade"/>
+      <item looktype="5148" name="Energy discus"/>
+      <item looktype="2603" name="Topaz"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="567" looktype="6403" name="Ninjaman" xp="4200">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6525" name="Sparking plug"/>
+      <item looktype="6529" name="Mind crusher"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="850" looktype="6405" name="Warden" xp="5250">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6451" name="Fan"/>
+      <item looktype="5440" name="Focus shield"/>
+      <item looktype="6444" name="Bommelsword"/>
+      <item looktype="6536" name="Cell key"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="600" looktype="5635" name="Minorrior" xp="4480">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5494" name="Angelic armour"/>
+      <item looktype="5185" name="Angelic mantle"/>
+      <item looktype="6405" name="Syorta ore"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="547" looktype="5634" name="Troll" xp="4585">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5445" name="Chain helmet"/>
+      <item looktype="5158" name="Winter legs"/>
+      <item looktype="6584" name="Emerald"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="699" looktype="5890" name="Goblin" xp="5110">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>holy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5449" name="Armoured legs"/>
+      <item looktype="5159" name="Armoured trousers"/>
+      <item looktype="6405" name="Shimmering onyx"/>
+      <item looktype="5561" name="Lesser health potion"/>
+      <item looktype="5568" name="Lesser mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="777" looktype="5637" name="Berseclops" xp="6300">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="5142" name="Rune of winter"/>
+      <item looktype="2603" name="Topaz"/>
+      <item looktype="5165" name="Spark chain"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="799" looktype="5891" name="Bokk" xp="6580">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="2572" name="Brass helmet"/>
+      <item looktype="6475" name="Flogging rune"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="833" looktype="5638" name="Dragon" xp="7105">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="5232" name="Dragon pearl"/>
+      <item looktype="5168" name="Fire ring"/>
+      <item looktype="2574" name="Gold ring"/>
+      <item looktype="6439" name="Shield ring"/>
+      <item looktype="5188" name="Glove of eternity"/>
+      <item looktype="5187" name="Sword of legend"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="777" looktype="2571" name="Scorpiant" xp="7385">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="5458" name="Battle ring"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="726" looktype="5893" name="Treant" xp="5425">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="6584" name="Emerald"/>
+      <item looktype="6405" name="Shimmering onyx"/>
+      <item looktype="5163" name="Crystal chain"/>
+      <item looktype="5142" name="Rune of winter"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="762" looktype="5385" name="Bantinel" xp="6020">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="6484" name="Chastity legs"/>
+      <item looktype="6483" name="Chastity pants"/>
+      <item looktype="6405" name="Onyx"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="819" looktype="6407" name="Flappy" xp="6860">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5127" name="Energy blade"/>
+      <item looktype="5148" name="Energy discus"/>
+      <item looktype="2603" name="Topaz"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="777" looktype="5387" name="Terrorbird" xp="6300">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="5399" name="Armoured cap"/>
+      <item looktype="5451" name="Armoured shield"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="753" looktype="2569" name="Werewolf" xp="6300">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="6469" name="Fugazor"/>
+      <item looktype="6478" name="Splatter stick"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="912" looktype="6403" name="Assasin" xp="8050">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6459" name="Shaolin pants"/>
+      <item looktype="6455" name="Shogun legs"/>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="625" looktype="6406" name="Monk" xp="7000">
+    <attacks>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5478" name="Enlighted shield"/>
+      <item looktype="6447" name="Sai"/>
+      <item looktype="6449" name="Sanchaku"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="912" looktype="5123" name="Rottummy" xp="7385">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="5193" name="Magma crown"/>
+      <item looktype="5497" name="Magma headpiece"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="953" looktype="6664" name="Werewolf Master" xp="7000">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="6517" name="Inflamer"/>
+      <item looktype="6518" name="Burning blade"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="979" looktype="5380" name="Redeath" xp="13230">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="1364" looktype="5636" name="Vampmaster" xp="8050">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6438" name="Cozy warmring"/>
+      <item looktype="5569" name="Small mana potion"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="5149" name="Ice discus"/>
+      <item looktype="5169" name="Ruby ring"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="921" looktype="6410" name="Djinn" xp="8260">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>holy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5272" name="Crystal shard ring"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="1264" looktype="6401" name="Rishombie" xp="8470">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6459" name="Shaolin pants"/>
+      <item looktype="6457" name="Shaolin headbelt"/>
+      <item looktype="6453" name="Shogun helmet"/>
+      <item looktype="6458" name="Shaolin robe"/>
+      <item looktype="6454" name="Shogun armour"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1095" looktype="5898" name="Foresdrake" xp="14525">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1051" looktype="5385" name="Nunaquatch" xp="14105">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="6532" name="Nuna filet"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1036" looktype="5387" name="Bloodbeak" xp="13685">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="1927" looktype="5635" name="Bullwar" xp="12740">
+    <attacks>
+      <e>fire</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+      <item looktype="5579" name="Fine might potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="1837" looktype="2566" name="Saurial" xp="12740">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+      <item looktype="5579" name="Fine might potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1169" looktype="5378" name="Crysmantis" xp="15890">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="2598" name="Crystal eye"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1147" looktype="2567" name="Gigantula" xp="15050">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="6584" name="Spider crystal"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1205" looktype="2573" name="Horrornet" xp="15540">
+    <attacks>
+      <e>hit</e>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="6406" name="Crystal stinger"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="1500" looktype="6406" name="Monky" xp="8225">
+    <attacks>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5478" name="Enlighted shield"/>
+      <item looktype="6447" name="Sai"/>
+      <item looktype="6449" name="Sanchaku"/>
+      <item looktype="5562" name="Small health potion"/>
+      <item looktype="5569" name="Small mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1344" looktype="6409" name="Kapami" xp="16520">
+    <attacks>
+      <e>hit</e>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="5216" name="Nudelishroom"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1452" looktype="5387" name="Tyrannix" xp="12075">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>hit</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5144" name="Energy Stone"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5211" name="Crown legs"/>
+      <item looktype="5208" name="King's trousers"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="1519" looktype="5388" name="Ninjana" xp="13825">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6467" name="Ninja ring"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5570" name="Great mana potion"/>
+      <item looktype="5209" name="Crown helmet"/>
+      <item looktype="5206" name="King's hood"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1874" looktype="8451" name="Chaleton" xp="19250">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6438" name="Cozy warmring"/>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+      <item looktype="5578" name="Major might potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1364" looktype="6411" name="Bastinx" xp="16625">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="4571" isBoss="true" looktype="5379" name="Iceguard" xp="24500">
+    <attacks>
+      <e>ice</e>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2598" name="Sapphire"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1417" looktype="6410" name="Ifrit" xp="16940">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="2745" looktype="6411" name="Mystinx" xp="12285">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="1600" looktype="5894" name="Blaze Master" xp="16205">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6419" name="Magma axe"/>
+      <item looktype="6417" name="Scepter of fire"/>
+      <item looktype="2597" name="Ruby"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1895" looktype="6401" name="Chaombie" xp="19355">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+      <item looktype="5578" name="Major might potion"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="1706" looktype="6155" name="Behemoth" xp="12565">
+    <attacks>
+      <e>holy</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5557" name="Lightning conductor"/>
+      <item looktype="5556" name="Thunder clap mace"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5570" name="Great mana potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1307" looktype="6150" name="Crustea" xp="16275">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="2000" looktype="6401" name="Chaomby" xp="19600">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+      <item looktype="5578" name="Major might potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1220" looktype="6151" name="Leechacle" xp="15645">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5567" name="Health potion"/>
+      <item looktype="5574" name="Mana potion"/>
+      <item looktype="5186" name="Leechacles heart"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="3072" looktype="5636" name="Archvampir" xp="18550">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6438" name="Cozy warmring"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+      <item looktype="5121" name="Frostbringer"/>
+      <item looktype="5149" name="Ice discus"/>
+      <item looktype="5169" name="Ruby ring"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="1896" looktype="5122" name="Orc Master" xp="17500">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5450" name="Armoured helmet"/>
+      <item looktype="5399" name="Armoured cap"/>
+      <item looktype="5170" name="Crystal ring"/>
+      <item looktype="5448" name="Armoured mail"/>
+      <item looktype="5398" name="Armoured shirt"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1896" looktype="5643" name="Scarapy Master" xp="18900">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="hit" hp="1996" looktype="6405" name="Wardy" xp="17850">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6451" name="Fan"/>
+      <item looktype="5440" name="Focus shield"/>
+      <item looktype="6444" name="Bommelsword"/>
+      <item looktype="6536" name="Cell key"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="1582" looktype="6412" name="Blackdrake" xp="14000">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6546" name="Soulkeeper"/>
+      <item looktype="6531" name="Spiritbane"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5566" name="Divine health potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="1721" looktype="6150" name="Brinefiend" xp="12845">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5467" name="Master amulet"/>
+      <item looktype="5468" name="Master ring"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+      <item looktype="5316" name="Brinefiend Roots"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="1982" looktype="6412" name="Chaodrake" xp="17500">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6546" name="Soulkeeper"/>
+      <item looktype="6531" name="Spiritbane"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="1997" looktype="5639" name="Demon" xp="13265">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>hit</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6419" name="Magma axe"/>
+      <item looktype="6417" name="Scepter of fire"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="2612" looktype="6410" name="ElderDjinn" xp="15155">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>hit</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5272" name="Crystal shard ring"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="2782" looktype="6154" name="Hell Guard" xp="17500">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5554" name="Crystal cutter"/>
+      <item looktype="5555" name="Onset of winter"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5570" name="Great mana potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+      <item looktype="5579" name="Fine might potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="1721" looktype="5644" name="Krakomin" xp="16345">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="5199" name="Steel chain"/>
+      <item looktype="5467" name="Master Amulet"/>
+      <item looktype="6485" name="Hardwater ring"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="2511" looktype="6151" name="Leviatacle" xp="14910">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5210" name="Crown armour"/>
+      <item looktype="5207" name="King's cloak"/>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="4706" looktype="5892" name="Wisper" xp="23310">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5557" name="Lightning conductor"/>
+      <item looktype="5556" name="Thunder clap mace"/>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="4706" looktype="6918" name="Wisperfire" xp="23310">
+    <attacks>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="4000" looktype="6151" name="Levitacle" xp="17500">
+    <attacks>
+      <e>hit</e>
+      <e>ice</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="2300" looktype="5637" name="Warclop" xp="19250">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="2300" looktype="2566" name="Warlizard" xp="19250">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="hit" hp="5000" looktype="6659" name="Abominatio" xp="27195">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6589" name="Storming ore"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+      <item looktype="6495" name="Abominatio's Skin"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="7000" looktype="8449" name="Abominy" xp="23905">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+      <item looktype="6495" name="Abominy's Skin"/>
+      <item looktype="6587" name="Etheric ore"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="30000" isBoss="true" looktype="5892" name="Ancient" xp="23310">
+    <attacks>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5316" name="Ancient Skin"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="2482" looktype="6412" name="Fouldrake" xp="19250">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6546" name="Soulkeeper"/>
+      <item looktype="6531" name="Spiritbane"/>
+      <item looktype="5199" name="Steel chain"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5570" name="Great mana potion"/>
+      <item looktype="5571" name="Major mana potion"/>
+      <item looktype="5572" name="Fine mana potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+      <item looktype="5579" name="Fine might potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="8500" looktype="6662" name="Elite Borc" xp="38500">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="8000" looktype="6663" name="Elite Worc" xp="31500">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+      <item looktype="6573" name="Forcebender ring"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="6000" looktype="6663" name="Worc" xp="24500">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="1482" looktype="5642" name="Cerberus" xp="15750">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6437" name="Royal neck cooler"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="2682" looktype="5639" name="Demon Lord" xp="19250">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5588" name="Fiery nexus"/>
+      <item looktype="5590" name="Conflagrator"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5564" name="Major health potion"/>
+      <item looktype="5565" name="Fine health potion"/>
+      <item looktype="5566" name="Divine health potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="7000" looktype="6662" name="Orc Hunter" xp="31500">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="10000" looktype="5384" name="Elite Mutan" xp="45500">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+      <item looktype="5542" name="To-sabaki Ring"/>
+      <item looktype="5518" name="Frostscale Ring"/>
+      <item looktype="6573" name="Forcebender ring"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="10000" looktype="6913" name="Elite Mutant" xp="45500">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5231" name="White pearl"/>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="6587" name="Etheric ore"/>
+      <item looktype="5542" name="To-sabaki Ring"/>
+      <item looktype="5518" name="Frostscale Ring"/>
+      <item looktype="6573" name="Forcebender ring"/>
+    </drops>
+  </monster>
+  <monster element="ice" hp="8500" looktype="5384" name="Mutan" xp="38500">
+    <attacks>
+      <e>ice</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5542" name="To-sabaki Ring"/>
+      <item looktype="5518" name="Frostscale Ring"/>
+      <item looktype="6573" name="Forcebender ring"/>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="8500" looktype="6913" name="Mutant" xp="38500">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5142" name="Strange energy"/>
+      <item looktype="5542" name="To-sabaki Ring"/>
+      <item looktype="5518" name="Frostscale Ring"/>
+      <item looktype="6573" name="Forcebender ring"/>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="10000" looktype="5132" name="Viper" xp="52500">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+      <item looktype="5597" name="Elder might potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="11000" looktype="6658" name="Darktaur" xp="59500">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+      <item looktype="5597" name="Elder might potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="12000" looktype="5131" name="Gorgon" xp="63000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+      <item looktype="5597" name="Elder might potion"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="11000" looktype="6657" name="Petraclops" xp="59500">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5596" name="Elder health potion"/>
+      <item looktype="5598" name="Elder mana potion"/>
+      <item looktype="5597" name="Elder might potion"/>
+    </drops>
+  </monster>
+</monsters>
