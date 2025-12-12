@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="359" generatedAt="2025-12-12T18:18:04.389Z">
+<items count="360" generatedAt="2025-12-12T22:54:02.010Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy count="1">
       <monster looktype="6659" name="Abominatio"/>
@@ -442,10 +442,9 @@
   </item>
   <item looktype="5590" name="Conflagrator" type="weapon" vocation="wizard">
     <attacks fire_attack="60-233" level="99" mana="23"/>
-    <droppedBy count="3">
+    <droppedBy count="2">
       <monster isBoss="true" looktype="5635" name="The Miner"/>
       <monster looktype="5639" name="Demon Lord"/>
-      <monster looktype="5899" name="Bonevolcan"/>
     </droppedBy>
   </item>
   <item looktype="5239" name="Corsair tricorn" sell="44" type="helmet" vocation="warrior">
@@ -609,6 +608,12 @@
     <defences hit_def="13" ice_def="27" level="79"/>
     <droppedBy count="1">
       <monster isBoss="true" looktype="5636" name="Odon"/>
+    </droppedBy>
+  </item>
+  <item looktype="5512" name="Demonic Ring" sell="77" type="ring">
+    <defences fire_def="22" holy_def="7" level="79"/>
+    <droppedBy count="1">
+      <monster looktype="5899" name="Bonevolcan"/>
     </droppedBy>
   </item>
   <item looktype="5566" name="Divine health potion" type="potion">
@@ -952,10 +957,9 @@
   </item>
   <item looktype="5588" name="Fiery nexus" type="weapon" vocation="warrior">
     <attacks fire_attack="20-205" level="99"/>
-    <droppedBy count="3">
+    <droppedBy count="2">
       <monster isBoss="true" looktype="5635" name="The Miner"/>
       <monster looktype="5639" name="Demon Lord"/>
-      <monster looktype="5899" name="Bonevolcan"/>
     </droppedBy>
   </item>
   <item looktype="5565" name="Fine health potion" type="potion">

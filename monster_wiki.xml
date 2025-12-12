@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<monsters count="247" expRate="35" generatedAt="2025-12-12T18:18:04.268Z">
+<monsters count="247" expRate="35" generatedAt="2025-12-12T22:54:01.890Z">
   <monster element="hit" hp="29" looktype="2565" name="Bug" xp="35">
     <attacks>
       <e>hit</e>
@@ -3590,8 +3590,7 @@
     </weaknesses>
     <drops>
       <item looktype="6587" name="Etheric ore"/>
-      <item looktype="5588" name="Fiery nexus"/>
-      <item looktype="5590" name="Conflagrator"/>
+      <item looktype="5512" name="Demonic Ring"/>
     </drops>
   </monster>
   <monster element="hit" hp="11000" looktype="6658" name="Darktaur" xp="59500">
