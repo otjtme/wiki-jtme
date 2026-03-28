@@ -3621,6 +3621,17 @@
       <monster looktype="6403" name="Ninjaman"/>
     </droppedBy>
   </item>
+  
+  <item looktype="8495" name="????" sell="0" type="weapon" vocation="warrior">
+    <attacks fire_attack="00-000" level="169"/>
+    <droppedBy>
+    </droppedBy>
+  </item>
+  <item looktype="8495" name="????" sell="0" type="weapon" vocation="wizard">
+    <attacks fire_attack="00-000" level="169" mana="0" />
+    <droppedBy>
+    </droppedBy>
+  </item>
   <item looktype="2587" name="Minor health potion" sell="24" type="potion">
     <consumable hp="150"/>
     <droppedBy>
