@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="604" generatedAt="2026-02-14T17:47:16.026Z">
+<items count="621" generatedAt="2026-03-28T16:51:36.095Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -8,6 +8,11 @@
   <item looktype="6495" name="Abominy's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="8449" name="Abominy"/>
+    </droppedBy>
+  </item>
+  <item looktype="5685" name="Acid Gland" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="2570" name="Acid Slime"/>
     </droppedBy>
   </item>
   <item looktype="6490" name="Acolyte hood" sell="1" type="helmet">
@@ -101,10 +106,44 @@
       <quest>NPC Lizcolect</quest>
     </questReward>
   </item>
+  <item looktype="5701" name="Ancient Health Potion" sell="400" type="potion">
+    <consumable hp="7200"/>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (2925 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (2925 gp) [31935,31853,7]</shop>
+      <shop>Castle Rock Potions (2925 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (2925 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (2925 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (2925 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (2925 gp) [32689,31736,7]</shop>
+      <shop>Melbano Potions (2925 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (2925 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (2925 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (2925 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (2925 gp) [31968,32254,13]</shop>
+    </soldBy>
+  </item>
   <item looktype="5280" name="Ancient Lizard Writings" sell="2000" type="none">
     <questReward>
       <quest>NPC Cycolect</quest>
     </questReward>
+  </item>
+  <item looktype="5703" name="Ancient Mana Potion" sell="300" type="potion">
+    <consumable mp="5400"/>
+    <soldBy>
+      <shop>Aurea Laboratory Potions (2250 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (2250 gp) [31935,31853,7]</shop>
+      <shop>Castle Rock Potions (2250 gp) [31939,32108,7]</shop>
+      <shop>Colossea Potions (2250 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (2250 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (2250 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (2250 gp) [32689,31736,7]</shop>
+      <shop>Melbano Potions (2250 gp) [32041,32291,7]</shop>
+      <shop>Orthoma Potions (2250 gp) [32008,32456,7]</shop>
+      <shop>PvP Potions (2250 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (2250 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (2250 gp) [31968,32254,13]</shop>
+    </soldBy>
   </item>
   <item looktype="5316" name="Ancient Skin" sell="1000" type="none">
     <droppedBy>
@@ -180,6 +219,21 @@
     </soldBy>
     <questReward>
       <quest>NPC Lupy</quest>
+    </questReward>
+  </item>
+  <item looktype="2584" name="Arcane Energy Flask" type="script">
+    <questReward>
+      <quest>NPC Arcano</quest>
+    </questReward>
+  </item>
+  <item looktype="5230" name="Arcane Flask" type="script">
+    <questReward>
+      <quest>NPC Zyrus</quest>
+    </questReward>
+  </item>
+  <item looktype="5230" name="Arcane Flask Glued" type="none">
+    <questReward>
+      <quest>NPC Borak</quest>
     </questReward>
   </item>
   <item looktype="5285" name="Archon ring" type="ring">
@@ -737,6 +791,16 @@
       <monster looktype="6405" name="Wardy"/>
     </droppedBy>
   </item>
+  <item looktype="6536" name="Cell Krakomin Key" type="none">
+    <questReward>
+      <quest>NPC Whis</quest>
+    </questReward>
+  </item>
+  <item looktype="6536" name="Cell Yeti Key" type="none">
+    <questReward>
+      <quest>NPC Arcano</quest>
+    </questReward>
+  </item>
   <item looktype="5558" name="Cerberus mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Halloween</container>
@@ -910,12 +974,19 @@
   </item>
   <item looktype="5278" name="Common feed" sell="10" type="petfeed">
     <soldBy>
-      <shop>Buzz Potions (70 gp) [31904,31823,7]</shop>
+      <shop>Aurea Laboratory Potions (70 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (70 gp) [31935,31853,7]</shop>
+      <shop>Castle Rock Potions (70 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (70 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (70 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (70 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (70 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (70 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (70 gp) [32008,32456,7]</shop>
       <shop>Pets Arinar (70 gp) [32142,32073,7]</shop>
-      <shop>Rur's Tazmania (70 gp) [32496,32505,7]</shop>
+      <shop>PvP Potions (70 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (70 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (70 gp) [31968,32254,13]</shop>
       <shop>Whizpets (70 gp) [31946,32024,7]</shop>
     </soldBy>
   </item>
@@ -1223,6 +1294,7 @@
     <defences fire_def="22" holy_def="7" level="79"/>
     <droppedBy>
       <monster looktype="5899" name="Bonevolcan"/>
+      <monster looktype="8454" name="Fireblack"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Coliseum Master</container>
@@ -1318,15 +1390,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (1400 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (1400 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (1400 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (1400 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1400 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1400 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (1400 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (1400 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1400 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (1400 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (1400 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (1800 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (1400 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (1400 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -1356,15 +1429,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (900 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (900 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (900 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (900 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (900 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (900 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (900 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (900 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (900 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (900 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (900 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (1200 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (900 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (900 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -1492,7 +1566,7 @@
   <item looktype="5679" name="Eggs" sell="8" type="potion">
     <consumable hp="50"/>
     <soldBy>
-      <shop>Essential Supplies (50 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (35 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (35 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -1500,30 +1574,27 @@
     <consumable hp="3200"/>
     <droppedBy>
       <monster looktype="6658" name="Darktaur"/>
-      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+      <monster looktype="8454" name="Fireblack"/>
       <monster looktype="5131" name="Gorgon"/>
-      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
-      <monster isBoss="true" looktype="5131" name="Medusa"/>
-      <monster looktype="5384" name="Mutan"/>
-      <monster looktype="6913" name="Mutant"/>
       <monster looktype="6657" name="Petraclops"/>
-      <monster isBoss="true" looktype="6658" name="Tauragor"/>
       <monster looktype="5132" name="Viper"/>
       <monster looktype="5899" name="Volcan"/>
       <monster looktype="5899" name="Volcanus"/>
-      <monster looktype="6663" name="Worc"/>
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (1560 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (1560 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (1560 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (1560 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1560 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1560 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (1560 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (1560 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1560 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (1560 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (1560 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (2000 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (1560 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (1560 gp) [31968,32254,13]</shop>
     </soldBy>
     <containedIn>
@@ -1536,30 +1607,27 @@
     <consumable mp="2400"/>
     <droppedBy>
       <monster looktype="6658" name="Darktaur"/>
-      <monster looktype="6662" name="Elite Borc"/>
+      <monster looktype="5384" name="Elite Mutan"/>
+      <monster looktype="6913" name="Elite Mutant"/>
+      <monster looktype="8454" name="Fireblack"/>
       <monster looktype="5131" name="Gorgon"/>
-      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
-      <monster isBoss="true" looktype="5131" name="Medusa"/>
-      <monster looktype="5384" name="Mutan"/>
-      <monster looktype="6913" name="Mutant"/>
       <monster looktype="6657" name="Petraclops"/>
-      <monster isBoss="true" looktype="6658" name="Tauragor"/>
       <monster looktype="5132" name="Viper"/>
       <monster looktype="5899" name="Volcan"/>
       <monster looktype="5899" name="Volcanus"/>
-      <monster looktype="6663" name="Worc"/>
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (1120 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (1120 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (1120 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (1120 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1120 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1120 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (1120 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (1120 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1120 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (1120 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (1120 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (1500 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (1120 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (1120 gp) [31968,32254,13]</shop>
     </soldBy>
     <containedIn>
@@ -1569,17 +1637,6 @@
   </item>
   <item looktype="5597" name="Elder might potion" type="potion">
     <consumable hp="3200" mp="2400"/>
-    <droppedBy>
-      <monster looktype="6658" name="Darktaur"/>
-      <monster looktype="5131" name="Gorgon"/>
-      <monster isBoss="true" looktype="6657" name="Kyklopes"/>
-      <monster isBoss="true" looktype="5131" name="Medusa"/>
-      <monster looktype="6657" name="Petraclops"/>
-      <monster isBoss="true" looktype="6658" name="Tauragor"/>
-      <monster looktype="5132" name="Viper"/>
-      <monster looktype="5899" name="Volcan"/>
-      <monster looktype="5899" name="Volcanus"/>
-    </droppedBy>
     <containedIn>
       <container>Bag of Dragon Rutting</container>
       <container>Bag of Valentine's Day</container>
@@ -1854,17 +1911,25 @@
   </item>
   <item looktype="5276" name="Excellent feed" sell="10" type="petfeed">
     <soldBy>
-      <shop>Buzz Potions (250 gp) [31904,31823,7]</shop>
+      <shop>Aurea Laboratory Potions (250 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (250 gp) [31935,31853,7]</shop>
+      <shop>Castle Rock Potions (250 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (250 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (250 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (250 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (250 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (250 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (250 gp) [32008,32456,7]</shop>
       <shop>Pets Arinar (250 gp) [32142,32073,7]</shop>
-      <shop>Rur's Tazmania (250 gp) [32496,32505,7]</shop>
+      <shop>PvP Potions (250 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (250 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (250 gp) [31968,32254,13]</shop>
       <shop>Whizpets (250 gp) [31946,32024,7]</shop>
     </soldBy>
   </item>
   <item looktype="2596" name="Eye of Dragon" type="script">
     <droppedBy>
+      <monster looktype="8454" name="Kthas"/>
       <monster looktype="5897" name="Licher"/>
     </droppedBy>
   </item>
@@ -1965,15 +2030,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (1090 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (1090 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (1090 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (1090 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1090 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1090 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (1090 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (1090 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1090 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (1090 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (1090 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (1400 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (1090 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (1090 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -1993,15 +2059,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (720 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (720 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (720 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (720 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (720 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (720 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (720 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (720 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (720 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (720 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (720 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (960 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (720 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (720 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -2522,12 +2589,19 @@
   </item>
   <item looktype="5279" name="Good feed" sell="10" type="petfeed">
     <soldBy>
-      <shop>Buzz Potions (150 gp) [31904,31823,7]</shop>
+      <shop>Aurea Laboratory Potions (150 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (150 gp) [31935,31853,7]</shop>
+      <shop>Castle Rock Potions (150 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (150 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (150 gp) [32124,32069,7]</shop>
+      <shop>Ghulmor Potions (150 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (150 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (150 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (150 gp) [32008,32456,7]</shop>
       <shop>Pets Arinar (150 gp) [32142,32073,7]</shop>
-      <shop>Rur's Tazmania (150 gp) [32496,32505,7]</shop>
+      <shop>PvP Potions (150 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (150 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (150 gp) [31968,32254,13]</shop>
       <shop>Whizpets (150 gp) [31946,32024,7]</shop>
     </soldBy>
   </item>
@@ -2552,19 +2626,19 @@
       <monster looktype="5639" name="Demon Lord"/>
       <monster looktype="6412" name="Fouldrake"/>
       <monster looktype="5388" name="Ninjana"/>
-      <monster looktype="5387" name="Tyrannix"/>
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (590 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (590 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (590 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (590 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (590 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (590 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (590 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (590 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (590 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (590 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (590 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (760 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (590 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (590 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -2578,15 +2652,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (430 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (430 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (430 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (430 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (430 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (430 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (430 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (430 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (430 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (430 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (430 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (570 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (430 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (430 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -2657,7 +2732,7 @@
       <monster looktype="5123" name="Rottummy"/>
     </droppedBy>
     <soldBy>
-      <shop>Essential Supplies (575 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (400 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (400 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -2828,6 +2903,11 @@
       <variant ice_attack="77-310" type="gold"/>
     </variants>
   </item>
+  <item looktype="5140" name="Ice Crystal" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="5379" name="Kargoth"/>
+    </droppedBy>
+  </item>
   <item looktype="5149" name="Ice discus" sell="38" type="weapon" vocation="wizard">
     <attacks ice_attack="1-114" level="40" mana="11"/>
     <droppedBy>
@@ -2942,7 +3022,6 @@
   </item>
   <item looktype="2596" name="Jewel of EP" type="script">
     <containedIn>
-      <container>Bag of Gorgoros</container>
       <container>Bag of Halloween</container>
       <container>Christmas Gift</container>
       <container>Especial Bag of Halloween</container>
@@ -3025,7 +3104,6 @@
   <item looktype="5561" name="Lesser health potion" sell="54" type="potion">
     <consumable hp="300"/>
     <droppedBy>
-      <monster looktype="2570" name="Acid slime"/>
       <monster looktype="6152" name="Acolyte"/>
       <monster looktype="5130" name="Angrax"/>
       <monster isBoss="true" looktype="2561" name="Apprentice"/>
@@ -3063,84 +3141,7 @@
       <monster looktype="5124" name="Little Bat"/>
       <monster looktype="2566" name="Lizarogue"/>
       <monster looktype="2566" name="Lizazzin"/>
-      <monster looktype="5381" name="Mammoth"/>
-      <monster looktype="5635" name="Minorrior"/>
-      <monster looktype="5635" name="Minosol"/>
-      <monster looktype="5635" name="Minotaur"/>
-      <monster looktype="2570" name="Ooze"/>
-      <monster looktype="5122" name="Orc"/>
-      <monster looktype="5122" name="Orc Leader"/>
-      <monster looktype="5122" name="Orc Raider"/>
-      <monster looktype="6402" name="Peasant"/>
-      <monster looktype="6404" name="Primeguard"/>
-      <monster looktype="2572" name="Rabid Bear"/>
-      <monster looktype="5126" name="Restless"/>
-      <monster looktype="5380" name="Sabrecat"/>
-      <monster looktype="5383" name="Sabrerus"/>
-      <monster looktype="5380" name="Scratchy"/>
-      <monster looktype="5377" name="Shombie"/>
-      <monster looktype="6152" name="Skeleguard"/>
-      <monster looktype="5121" name="Skelenary"/>
-      <monster looktype="5121" name="Skeleton"/>
-      <monster looktype="2567" name="Tarantula"/>
-      <monster looktype="6404" name="Tempguard"/>
-      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
-      <monster isBoss="true" looktype="5635" name="The Miner"/>
-      <monster looktype="5126" name="Tormonted"/>
-      <monster looktype="5124" name="Vamp Bat"/>
-      <monster looktype="5383" name="Walrull"/>
-      <monster looktype="5383" name="Walrus"/>
-      <monster looktype="2567" name="Widow"/>
-      <monster looktype="5377" name="Zombie"/>
-      <monster looktype="5381" name="Zottel"/>
-      <monster looktype="5381" name="Zuppel"/>
-    </droppedBy>
-    <soldBy>
-      <shop>Essential Supplies (215 gp) [32842,32026,7]</shop>
-      <shop>Isa's Potions (150 gp) [31957,31984,7]</shop>
-    </soldBy>
-  </item>
-  <item looktype="5568" name="Lesser mana potion" sell="38" type="potion">
-    <consumable mp="300"/>
-    <droppedBy>
-      <monster looktype="2570" name="Acid slime"/>
-      <monster looktype="6152" name="Acolyte"/>
-      <monster looktype="5130" name="Angrax"/>
-      <monster isBoss="true" looktype="2561" name="Apprentice"/>
-      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
-      <monster looktype="5380" name="Banthera"/>
-      <monster looktype="5124" name="Bat"/>
-      <monster looktype="2572" name="Bear"/>
-      <monster looktype="6408" name="Bloodfly"/>
-      <monster isBoss="true" looktype="5122" name="Bragnak"/>
-      <monster looktype="6153" name="Cult Tutor"/>
-      <monster looktype="5130" name="Cultist"/>
-      <monster looktype="5130" name="Cultix"/>
-      <monster looktype="2568" name="Dessnake"/>
-      <monster looktype="5896" name="Evil Sheep"/>
-      <monster looktype="5633" name="Eye"/>
-      <monster looktype="6152" name="Fanatic"/>
-      <monster looktype="6401" name="Farmzombie"/>
-      <monster looktype="5898" name="Fire Drake"/>
-      <monster looktype="5382" name="Frost Bear"/>
-      <monster isBoss="true" looktype="5126" name="Gaspar"/>
-      <monster looktype="5126" name="Ghost"/>
-      <monster looktype="5124" name="Giant Bat"/>
-      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
-      <monster looktype="5890" name="Goblin"/>
-      <monster looktype="5890" name="Grinch"/>
-      <monster looktype="5633" name="Half Gazer"/>
-      <monster looktype="5380" name="Hissy"/>
-      <monster looktype="5382" name="Icy Bear"/>
-      <monster looktype="6409" name="Kappa"/>
-      <monster looktype="2572" name="Killer Bear"/>
-      <monster looktype="5897" name="King Lich"/>
-      <monster looktype="5897" name="Lich"/>
-      <monster looktype="5897" name="Lich King"/>
-      <monster looktype="5897" name="Lich Lord"/>
-      <monster looktype="5124" name="Little Bat"/>
-      <monster looktype="2566" name="Lizarogue"/>
-      <monster looktype="2566" name="Lizazzin"/>
+      <monster looktype="5378" name="Locusas"/>
       <monster looktype="5381" name="Mammoth"/>
       <monster looktype="5635" name="Minorrior"/>
       <monster looktype="5635" name="Minosol"/>
@@ -3175,6 +3176,84 @@
     </droppedBy>
     <soldBy>
       <shop>Essential Supplies (150 gp) [32842,32026,7]</shop>
+      <shop>Isa's Potions (150 gp) [31957,31984,7]</shop>
+    </soldBy>
+  </item>
+  <item looktype="5568" name="Lesser mana potion" sell="38" type="potion">
+    <consumable mp="300"/>
+    <droppedBy>
+      <monster looktype="6152" name="Acolyte"/>
+      <monster looktype="5130" name="Angrax"/>
+      <monster isBoss="true" looktype="2561" name="Apprentice"/>
+      <monster isBoss="true" looktype="5898" name="Baby Drake"/>
+      <monster looktype="5380" name="Banthera"/>
+      <monster looktype="5124" name="Bat"/>
+      <monster looktype="2572" name="Bear"/>
+      <monster looktype="6408" name="Bloodfly"/>
+      <monster isBoss="true" looktype="5122" name="Bragnak"/>
+      <monster looktype="6153" name="Cult Tutor"/>
+      <monster looktype="5130" name="Cultist"/>
+      <monster looktype="5130" name="Cultix"/>
+      <monster looktype="2568" name="Dessnake"/>
+      <monster looktype="5896" name="Evil Sheep"/>
+      <monster looktype="5633" name="Eye"/>
+      <monster looktype="6152" name="Fanatic"/>
+      <monster looktype="6401" name="Farmzombie"/>
+      <monster looktype="5898" name="Fire Drake"/>
+      <monster looktype="5382" name="Frost Bear"/>
+      <monster isBoss="true" looktype="5126" name="Gaspar"/>
+      <monster looktype="5126" name="Ghost"/>
+      <monster looktype="5124" name="Giant Bat"/>
+      <monster isBoss="true" looktype="2561" name="GM-Doro"/>
+      <monster looktype="5890" name="Goblin"/>
+      <monster looktype="5890" name="Grinch"/>
+      <monster looktype="5633" name="Half Gazer"/>
+      <monster looktype="5380" name="Hissy"/>
+      <monster looktype="5382" name="Icy Bear"/>
+      <monster looktype="6409" name="Kappa"/>
+      <monster looktype="2572" name="Killer Bear"/>
+      <monster looktype="5897" name="King Lich"/>
+      <monster looktype="5897" name="Lich"/>
+      <monster looktype="5897" name="Lich King"/>
+      <monster looktype="5897" name="Lich Lord"/>
+      <monster looktype="5124" name="Little Bat"/>
+      <monster looktype="2566" name="Lizarogue"/>
+      <monster looktype="2566" name="Lizazzin"/>
+      <monster looktype="5378" name="Locusas"/>
+      <monster looktype="5381" name="Mammoth"/>
+      <monster looktype="5635" name="Minorrior"/>
+      <monster looktype="5635" name="Minosol"/>
+      <monster looktype="5635" name="Minotaur"/>
+      <monster looktype="2570" name="Ooze"/>
+      <monster looktype="5122" name="Orc"/>
+      <monster looktype="5122" name="Orc Leader"/>
+      <monster looktype="5122" name="Orc Raider"/>
+      <monster looktype="6402" name="Peasant"/>
+      <monster looktype="6404" name="Primeguard"/>
+      <monster looktype="2572" name="Rabid Bear"/>
+      <monster looktype="5126" name="Restless"/>
+      <monster looktype="5380" name="Sabrecat"/>
+      <monster looktype="5383" name="Sabrerus"/>
+      <monster looktype="5380" name="Scratchy"/>
+      <monster looktype="5377" name="Shombie"/>
+      <monster looktype="6152" name="Skeleguard"/>
+      <monster looktype="5121" name="Skelenary"/>
+      <monster looktype="5121" name="Skeleton"/>
+      <monster looktype="2567" name="Tarantula"/>
+      <monster looktype="6404" name="Tempguard"/>
+      <monster isBoss="true" looktype="6152" name="The Fanatic"/>
+      <monster isBoss="true" looktype="5635" name="The Miner"/>
+      <monster looktype="5126" name="Tormonted"/>
+      <monster looktype="5124" name="Vamp Bat"/>
+      <monster looktype="5383" name="Walrull"/>
+      <monster looktype="5383" name="Walrus"/>
+      <monster looktype="2567" name="Widow"/>
+      <monster looktype="5377" name="Zombie"/>
+      <monster looktype="5381" name="Zottel"/>
+      <monster looktype="5381" name="Zuppel"/>
+    </droppedBy>
+    <soldBy>
+      <shop>Essential Supplies (100 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (100 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -3337,7 +3416,6 @@
   <item looktype="5221" name="Magic spoon" sell="23" type="weapon" vocation="wizard">
     <attacks hit_attack="1-24" level="6" mana="3"/>
     <droppedBy>
-      <monster looktype="2570" name="Acid slime"/>
       <monster looktype="2570" name="Slime"/>
       <monster looktype="2569" name="Wolf"/>
     </droppedBy>
@@ -3387,15 +3465,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (820 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (820 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (820 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (820 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (820 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (820 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (820 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (820 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (820 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (820 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (820 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (1050 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (820 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (820 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -3413,15 +3492,16 @@
     </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (560 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (560 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (560 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (560 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (560 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (560 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (560 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (560 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (560 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (560 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (560 gp) [31987,32082,7]</shop>
-      <shop>Rur's Tazmania (750 gp) [32496,32505,7]</shop>
+      <shop>Tazmania Potions (560 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (560 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
@@ -3459,7 +3539,7 @@
       <monster looktype="5121" name="Skelenary"/>
     </droppedBy>
     <soldBy>
-      <shop>Essential Supplies (400 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (260 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (260 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -3530,7 +3610,7 @@
   <item looktype="2600" name="Milk" sell="5" type="potion">
     <consumable mp="50"/>
     <soldBy>
-      <shop>Essential Supplies (20 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (15 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (15 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -3565,7 +3645,7 @@
       <monster looktype="2569" name="Wolf"/>
     </droppedBy>
     <soldBy>
-      <shop>Essential Supplies (95 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (65 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (65 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -3594,7 +3674,7 @@
       <monster looktype="5377" name="Zompforp"/>
     </droppedBy>
     <soldBy>
-      <shop>Essential Supplies (65 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (45 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (45 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -3877,6 +3957,21 @@
       <monster isBoss="true" looktype="6913" name="Bugs of 2025"/>
     </droppedBy>
   </item>
+  <item looktype="2590" name="Parchment" type="scroll">
+    <questReward>
+      <quest>NPC Golzan</quest>
+    </questReward>
+  </item>
+  <item looktype="2590" name="Parchment" type="scroll">
+    <questReward>
+      <quest>NPC Itzewitz</quest>
+    </questReward>
+  </item>
+  <item looktype="2590" name="Parchment" type="scroll">
+    <questReward>
+      <quest>NPC Gerwald</quest>
+    </questReward>
+  </item>
   <item looktype="2590" name="Parchment to Ratovir" type="scroll">
     <questReward>
       <quest>NPC Rick</quest>
@@ -3985,14 +4080,21 @@
   </item>
   <item looktype="5277" name="Poor feed" sell="10" type="petfeed">
     <soldBy>
-      <shop>Buzz Potions (30 gp) [31904,31823,7]</shop>
+      <shop>Aurea Laboratory Potions (30 gp) [32010,31855,8]</shop>
+      <shop>Buzz Potions (30 gp) [31935,31853,7]</shop>
+      <shop>Castle Rock Potions (30 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (30 gp) [32067,32135,7]</shop>
+      <shop>Coroca Potions (30 gp) [32124,32069,7]</shop>
       <shop>Essential Supplies (30 gp) [32842,32026,7]</shop>
+      <shop>Ghulmor Potions (30 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (30 gp) [32689,31736,7]</shop>
       <shop>Isa's Potions (30 gp) [31957,31984,7]</shop>
       <shop>Melbano Potions (30 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (30 gp) [32008,32456,7]</shop>
       <shop>Pets Arinar (30 gp) [32142,32073,7]</shop>
-      <shop>Rur's Tazmania (30 gp) [32496,32505,7]</shop>
+      <shop>PvP Potions (30 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (30 gp) [32496,32505,7]</shop>
+      <shop>Underground Potions (30 gp) [31968,32254,13]</shop>
       <shop>Whizpets (30 gp) [31946,32024,7]</shop>
     </soldBy>
   </item>
@@ -4026,6 +4128,16 @@
     <soldBy>
       <shop>Sam's Armoury (160 gp) [31954,31984,7]</shop>
     </soldBy>
+  </item>
+  <item looktype="8492" name="Primordial Dragon Fragment" sell="15000" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="8453" name="Kaelthas"/>
+    </droppedBy>
+  </item>
+  <item looktype="6406" name="Protective Stone" type="script">
+    <droppedBy>
+      <monster looktype="5128" name="Protek"/>
+    </droppedBy>
   </item>
   <item looktype="2602" name="Pumpkin" sell="5" type="potion">
     <consumable hp="50" mp="50"/>
@@ -4599,7 +4711,6 @@
   <item looktype="5123" name="Short sword" sell="18" type="weapon" vocation="warrior">
     <attacks hit_attack="1-16" level="5"/>
     <droppedBy>
-      <monster looktype="2570" name="Acid slime"/>
       <monster looktype="2570" name="Ooze"/>
       <monster looktype="2570" name="Slime"/>
       <monster looktype="2569" name="Wolf"/>
@@ -4745,7 +4856,6 @@
       <monster looktype="5640" name="Haunter"/>
       <monster looktype="5891" name="Ibex"/>
       <monster looktype="6409" name="Kreppan"/>
-      <monster looktype="5378" name="Locusas"/>
       <monster looktype="5378" name="Locuwar"/>
       <monster looktype="6407" name="Long"/>
       <monster looktype="5378" name="Mantis"/>
@@ -4788,7 +4898,7 @@
       <monster looktype="5379" name="Yeti"/>
     </droppedBy>
     <soldBy>
-      <shop>Essential Supplies (360 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (250 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (250 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -4824,7 +4934,6 @@
       <monster looktype="5640" name="Haunter"/>
       <monster looktype="5891" name="Ibex"/>
       <monster looktype="6409" name="Kreppan"/>
-      <monster looktype="5378" name="Locusas"/>
       <monster looktype="5378" name="Locuwar"/>
       <monster looktype="6407" name="Long"/>
       <monster looktype="5378" name="Mantis"/>
@@ -4868,7 +4977,7 @@
       <monster looktype="5379" name="Yeti"/>
     </droppedBy>
     <soldBy>
-      <shop>Essential Supplies (270 gp) [32842,32026,7]</shop>
+      <shop>Essential Supplies (180 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (180 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
@@ -5084,37 +5193,51 @@
       <monster looktype="2567" name="Gigantula"/>
     </droppedBy>
   </item>
-  <item looktype="5698" name="Spirit health potion" sell="300" type="potion">
+  <item looktype="5698" name="Spirit Health Potion" sell="300" type="potion">
     <consumable hp="4800"/>
+    <droppedBy>
+      <monster looktype="5899" name="Bonevolcan"/>
+      <monster looktype="8453" name="Bonevolk"/>
+      <monster looktype="5900" name="Phoenux"/>
+    </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (1950 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (1950 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (1950 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (1950 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1950 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1950 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (1950 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (1950 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1950 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (1950 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (1950 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (1950 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (1950 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
-  <item looktype="5700" name="Spirit mana potion" sell="200" type="potion">
+  <item looktype="5700" name="Spirit Mana Potion" sell="200" type="potion">
     <consumable mp="3600"/>
+    <droppedBy>
+      <monster looktype="5899" name="Bonevolcan"/>
+      <monster looktype="8453" name="Bonevolk"/>
+      <monster looktype="5900" name="Phoenux"/>
+    </droppedBy>
     <soldBy>
       <shop>Aurea Laboratory Potions (1500 gp) [32010,31855,8]</shop>
-      <shop>Buzz Potions (1500 gp) [31904,31823,7]</shop>
+      <shop>Buzz Potions (1500 gp) [31935,31853,7]</shop>
       <shop>Castle Rock Potions (1500 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1500 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1500 gp) [32124,32069,7]</shop>
       <shop>Ghulmor Potions (1500 gp) [32280,32205,7]</shop>
+      <shop>Gorgoros Potions (1500 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1500 gp) [32041,32291,7]</shop>
       <shop>Orthoma Potions (1500 gp) [32008,32456,7]</shop>
       <shop>PvP Potions (1500 gp) [31987,32082,7]</shop>
+      <shop>Tazmania Potions (1500 gp) [32496,32505,7]</shop>
       <shop>Underground Potions (1500 gp) [31968,32254,13]</shop>
     </soldBy>
   </item>
-  <item looktype="5699" name="Spirit might potion" sell="400" type="potion">
+  <item looktype="5699" name="Spirit Might Potion" sell="400" type="potion">
     <consumable hp="4800" mp="3600"/>
     <droppedBy>
       <monster isBoss="true" looktype="6659" name="Creature"/>
@@ -5240,6 +5363,36 @@
     <droppedBy>
       <monster isBoss="true" looktype="5641" name="Crystally"/>
     </droppedBy>
+  </item>
+  <item looktype="8494" name="Stormbreaker" type="weapon" vocation="wizard">
+    <attacks energy_attack="188-688" level="169" mana="62"/>
+    <questReward>
+      <quest>NPC Sidna</quest>
+    </questReward>
+    <variants>
+      <variant energy_attack="188-688" type="silver"/>
+      <variant energy_attack="188-691" type="silver"/>
+      <variant energy_attack="189-694" type="silver"/>
+      <variant energy_attack="189-697" type="silver"/>
+      <variant energy_attack="190-700" type="silver"/>
+      <variant energy_attack="190-703" type="silver"/>
+      <variant energy_attack="191-706" type="silver"/>
+      <variant energy_attack="191-709" type="silver"/>
+      <variant energy_attack="192-712" type="silver"/>
+      <variant energy_attack="192-715" type="silver"/>
+      <variant energy_attack="193-718" type="silver"/>
+      <variant energy_attack="193-721" type="silver"/>
+      <variant energy_attack="194-724" type="silver"/>
+      <variant energy_attack="195-728" type="blue"/>
+      <variant energy_attack="195-732" type="blue"/>
+      <variant energy_attack="197-736" type="blue"/>
+      <variant energy_attack="197-740" type="blue"/>
+      <variant energy_attack="199-744" type="blue"/>
+      <variant energy_attack="200-749" type="gold"/>
+      <variant energy_attack="200-754" type="gold"/>
+      <variant energy_attack="202-759" type="gold"/>
+      <variant energy_attack="202-764" type="gold"/>
+    </variants>
   </item>
   <item looktype="6589" name="Storming ore" sell="370" type="none">
     <droppedBy>
@@ -5370,6 +5523,12 @@
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
   </item>
+  <item looktype="6414" name="Thermal Helmet" sell="100" type="helmet">
+    <defences fire_def="5" level="0"/>
+    <questReward>
+      <quest>NPC Ignarius</quest>
+    </questReward>
+  </item>
   <item looktype="5556" name="Thunder clap mace" type="weapon" vocation="warrior">
     <attacks energy_attack="20-205" level="99"/>
     <droppedBy>
@@ -5393,6 +5552,36 @@
     <containedIn>
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
+  </item>
+  <item looktype="8493" name="Thunderous Wrath" type="weapon" vocation="warrior">
+    <attacks energy_attack="149-558" level="169"/>
+    <questReward>
+      <quest>NPC Sidna</quest>
+    </questReward>
+    <variants>
+      <variant energy_attack="149-558" type="silver"/>
+      <variant energy_attack="149-561" type="silver"/>
+      <variant energy_attack="150-564" type="silver"/>
+      <variant energy_attack="150-567" type="silver"/>
+      <variant energy_attack="151-570" type="silver"/>
+      <variant energy_attack="151-573" type="silver"/>
+      <variant energy_attack="152-576" type="silver"/>
+      <variant energy_attack="152-579" type="silver"/>
+      <variant energy_attack="153-582" type="silver"/>
+      <variant energy_attack="153-585" type="silver"/>
+      <variant energy_attack="154-588" type="silver"/>
+      <variant energy_attack="154-591" type="silver"/>
+      <variant energy_attack="155-594" type="silver"/>
+      <variant energy_attack="156-598" type="blue"/>
+      <variant energy_attack="156-602" type="blue"/>
+      <variant energy_attack="158-606" type="blue"/>
+      <variant energy_attack="158-610" type="blue"/>
+      <variant energy_attack="160-614" type="blue"/>
+      <variant energy_attack="161-619" type="gold"/>
+      <variant energy_attack="161-624" type="gold"/>
+      <variant energy_attack="163-629" type="gold"/>
+      <variant energy_attack="163-634" type="gold"/>
+    </variants>
   </item>
   <item looktype="5302" name="Thunderstorm" type="weapon" vocation="warrior">
     <attacks energy_attack="61-320" level="149"/>
@@ -5512,7 +5701,6 @@
   </item>
   <item looktype="2603" name="Topaz" sell="450" type="none">
     <droppedBy>
-      <monster looktype="2570" name="Acid slime"/>
       <monster looktype="5637" name="Berseclops"/>
       <monster looktype="5637" name="Cyclops"/>
       <monster looktype="6407" name="Flappy"/>
