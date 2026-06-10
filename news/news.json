@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "active": true,
+    "category": "update",
+    "title": "PC Client Update — PvP Click Fix",
+    "date": "2026-05-18",
+    "image": "news_base.png",
+    "summary": "The PC Client has been updated with a fix for internal click errors on characters in PvP. Update via the button on your client's home screen.",
+    "text": "The PC Client has been updated; we fixed some internal click errors on characters in PvP.\nClick the update option on your client's home screen to update yours.\nJTME Team."
+  },
+  {
+    "id": 1,
+    "active": true,
+    "category": "announcement",
+    "title": "Our Website Has Been Updated!",
+    "date": "2026-04-24",
+    "image": "",
+    "summary": "The site has been completely revamped with a new interface, native translation system, rule adjustments, and a new donation method for Brazil.",
+    "text": "Hello everyone! We are constantly working to improve your experience, and today we are excited to announce that our website has undergone a major update. Check out what's new:\n\n• New Interface: The look has been completely revamped! The site is now more modern, intuitive, and faster, making it easier to navigate and access the information you need.\n\n• Native Translation System: We've implemented a translation system directly on the website. Now, you can easily switch between languages, ensuring our entire community stays up to date with news and rules.\n\n• Rule Adjustments: We have reviewed and adjusted some of our system guidelines to ensure a fairer and more organized environment for everyone. We recommend reviewing them in the terms/rules section.\n\n• New Donation System (Brazil Exclusive): We've launched a new contribution method, currently available only for Brazil. This system has been optimized to be faster and more secure for our Brazilian players.\n\nWe are very happy with the direction the project is taking and thank you all for your ongoing support!\n\nVisit now and check out the changes: https://otjtme.com/\n\nBest regards, JTME Team"
+  }
+]
