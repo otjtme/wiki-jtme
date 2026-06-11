@@ -1,5 +1,15 @@
 [
   {
+    "id": 3,
+    "active": true,
+    "category": "event",
+    "title": "💘 Love is in the Air at JTME!",
+    "date": "2026-06-12",
+    "image": "news_valentines_day.png",
+    "summary": "Brazilian Valentine's Day has arrived at JTME! Face themed creatures, earn exclusive rewards, and maybe even pop the big question to your hunt partner. The event starts TODAY after Server Save!",
+    "text": "Love is in the air at JTME! 💘\n\nIt might not be February 14th, but the romance is in full swing! In Brazil, Valentine's Day is celebrated on June 12th, and we couldn't let this date go unnoticed.\n\nIt's time to call that special someone to celebrate by spreading lots of love and arrows across the server! It starts TODAY, right after the Server Save. Gear up, grab your \"duo\", and come celebrate with us!\n\n• Challenges & Rewards: Get ready to face themed creatures and secure exclusive items and bonuses that we've specially prepared for you.\n\n• The question everyone is waiting for... You know that partner who helps you on hunts and never lets you die to bosses? Maybe it's time to ask the big question: \"Will you marry me?\"\n\nDon't miss out! Love is beautiful, but the event drops are even better. ❤️\n\nHappy hunting and Happy Valentine's Day!\nJTME Team"
+  },
+  {
     "id": 2,
     "active": true,
     "category": "update",
