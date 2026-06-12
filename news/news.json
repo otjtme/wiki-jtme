@@ -1,5 +1,15 @@
 [
   {
+    "id": 4,
+    "active": true,
+    "category": "maintenance",
+    "title": "Server Maintenance",
+    "date": "2026-06-13",
+    "image": "news_maintenance.png",
+    "summary": "Maintenance on June 13th for bug fixes, a new web client, and update preparations.",
+    "text": "Hello everyone!\n\nOn Saturday, June 13th at 10:00 AM BRT, the JTME login server will undergo maintenance, concluding on the same day and lasting approximately 1 hour. A new web client will also be available after the maintenance. During the maintenance process, it will not be possible to access Mundo 200 or make purchases on our website! Thank you for your understanding, and stay tuned for more news soon at:"
+  },
+  {
     "id": 3,
     "active": true,
     "category": "event",
