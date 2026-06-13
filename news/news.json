@@ -41,7 +41,7 @@
   },
   {
     "id": 1,
-    "active": true,
+    "active": false,
     "category": "announcement",
     "title": "Our Website Has Been Updated!",
     "date": "2026-04-24",
