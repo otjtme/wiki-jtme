@@ -1,5 +1,15 @@
 [
   {
+    "id": 5,
+    "active": true,
+    "category": "announcement",
+    "title": "Second Update of JTME 2026!",
+    "date": "2026-06-13",
+    "image": "news_teaser_ynfernal.png",
+    "summary": "The long-awaited moment has arrived! This is the teaser for our second update of 2026.",
+    "text": "Check out the link below for a sneak peek of what's to come, and get ready: we are still in the testing phase, which means changes and fixes can happen at any moment and yes, some incredible surprises are still very well hidden! 🤫 👉 https://otjtme.com/teaserynfernal"
+  },
+  {
     "id": 4,
     "active": true,
     "category": "maintenance",
