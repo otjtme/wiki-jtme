@@ -1,5 +1,15 @@
 [
   {
+  "id": 6,
+  "active": true,
+  "category": "update",
+  "title": "JTME Server Update — Ynfernal Isle Has Arrived!",
+  "date": "2026-06-20",
+  "image": "",
+  "summary": "The JTME update has arrived! Explore Ynfernal Isle, discover new systems, face new bosses, enjoy PvP improvements, and experience many gameplay adjustments.",
+  "text": "Hello everyone!\n\nThe JTME update has arrived! Check out everything that has changed:\n\n• Ynfernal Isle — New Region\nA volcanic island guarded by lava and fire creatures! Explore level 200+ areas, featuring reports of unexplored caves beyond the known lands. There you will discover a new local trade for ores extracted from lava rocks.\n\n4 New Bosses: Face long dungeons and earn the level 139 weapon fragment. There is also a level 500+ Boss in the center of the volcano that drops the level 169 weapon fragment.\n\n• Vocations and Adjustments\nNew Attribute: Focus — Each point increases a small percentage of your bonuses: spell damage, critical strike chance, duration of received buffs, and healing power. Check it out in your attributes menu!\n\nCritical Damage System: Your character, pets, and NPCs can now deal critical damage, featuring a new visual effect upon landing a critical hit.\n\nAttack & Defense System Reworked.\n\n• New Raids\nDanger no longer runs on a schedule! Raids now happen at completely random times after each server save. Stay alert — the Dragon Salmur, Queen Gorgona, and Abominath can appear at any moment.\n\n• Fair Play Improvements\nNew Report System accessible directly from the in-game menu.\n\nProfanity filter added against inappropriate language in chat.\n\nEnhanced Anti-Macro System — the use of macros can now result in automatic character jail.\n\nLogin bug fixed: The \"character is already online\" error is gone. You can now log in normally and continue playing.\n\n• Fixes and Adjustments\nArinar Pet Arena adjusted for fairer battles.\n\nPK System fixed: Your skull will now only increase when killing a player within a valid PK level range.\n\nPet Buff bugs fixed: Your character will no longer mistake their pet for an enemy.\n\nWar Island Cage 2 adjusted: High-level monsters now respawn slower.\n\nInitial game tutorial revamped for new players.\n\nNew translations added to menus and interfaces.\n\nInternal optimizations implemented for better overall performance.\n\n• New PVP Rank: Hall of Honor\nThe PVP rank has been reset and adjusted; now, only valid kills are counted.\n\nEach kill grants Honor Points (these are not lost upon death) which can be used to buy buffs, items, and outfits in the store.\n\nDying to another player resets your kill streak and sends you back to the \"Newbie\" rank.\n\nScoring 5 consecutive kills makes you \"Hunted\" for 30 minutes, leaving you vulnerable to attacks even inside a PZ (Protection Zone).\n\nEnjoy the update and good luck exploring Ynfernal Isle!\n\nJTME Team"
+  },
+  {
     "id": 5,
     "active": true,
     "category": "announcement",
