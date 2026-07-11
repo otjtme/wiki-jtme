@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<monsters count="422" expRate="35" generatedAt="2026-03-28T16:51:35.926Z">
+<monsters count="448" expRate="35" generatedAt="2026-07-11T13:17:02.990Z">
   <monster element="hit" hp="29" looktype="2565" name="Bug" xp="35">
     <attacks>
       <e>hit</e>
@@ -1881,6 +1881,20 @@
       <item looktype="5217" name="Little sword"/>
       <item looktype="2587" name="Minor health potion"/>
       <item looktype="2584" name="Minor mana potion"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="5000" isBoss="true" looktype="6407" name="Three" xp="13650">
+    <attacks>
+      <e>energy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>fire</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5250" name="Mysterious item"/>
     </drops>
   </monster>
   <monster element="hit" hp="850" looktype="6405" name="Warden" xp="5250">
@@ -4318,6 +4332,17 @@
       <item looktype="5578" name="Major might potion"/>
     </drops>
   </monster>
+  <monster element="fire" hp="1600" looktype="5894" name="Volcanid" xp="12250">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
   <monster element="holy" hp="23000" isBoss="true" looktype="5123" name="Master Gorm" xp="19250">
     <attacks>
       <e>holy</e>
@@ -4357,6 +4382,17 @@
       <e>fire</e>
       <e>holy</e>
       <e>ice</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="1800" looktype="5128" name="Baylock" xp="0">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
     </weaknesses>
   </monster>
   <monster dropsStone="true" element="holy" hp="1706" looktype="6155" name="Behemoth" xp="12565">
@@ -5025,6 +5061,21 @@
       <e>ice</e>
     </weaknesses>
   </monster>
+  <monster dropsStone="true" element="fire" hp="2300" looktype="5894" name="Magma Blaze" xp="19250">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2568" name="Magma Guardian Embers"/>
+      <item looktype="2597" name="Ruby"/>
+    </drops>
+  </monster>
   <monster element="hit" hp="150000" isBoss="true" looktype="5124" name="MagneBat" xp="350000">
     <attacks>
       <e>hit</e>
@@ -5353,6 +5404,45 @@
       <item looktype="5256" name="Dragon Egg - Eolo"/>
     </drops>
   </monster>
+  <monster dropsStone="true" element="fire" hp="2700" looktype="5894" name="Flamexis" xp="21000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5588" name="Fiery nexus"/>
+      <item looktype="5590" name="Conflagrator"/>
+      <item looktype="5563" name="Great health potion"/>
+      <item looktype="5570" name="Great mana potion"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="45000" isBoss="true" looktype="5642" name="Lord Doomfire" xp="52500">
+    <attacks>
+      <e>holy</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
+  <monster element="holy" hp="45000" isBoss="true" looktype="5642" name="Lord Dreadmor" xp="52500">
+    <attacks>
+      <e>holy</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="100000" isBoss="true" looktype="6411" name="Myst" xp="12285">
     <attacks>
       <e>hit</e>
@@ -5421,6 +5511,17 @@
       <e>energy</e>
     </weaknesses>
   </monster>
+  <monster element="fire" hp="25000" isBoss="true" looktype="5894" name="Flamefang" xp="52500">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
   <monster element="ice" hp="40000" isBoss="true" looktype="5379" name="Kargoth" xp="0">
     <attacks>
       <e>ice</e>
@@ -5479,6 +5580,50 @@
       <item looktype="2596" name="Eye of Dragon"/>
     </drops>
   </monster>
+  <monster element="holy" hp="65000" isBoss="true" looktype="6154" name="Lord Cindrath" xp="70000">
+    <attacks>
+      <e>holy</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
+  <monster element="holy" hp="65000" isBoss="true" looktype="6154" name="Lord Pyreus" xp="70000">
+    <attacks>
+      <e>holy</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
+  <monster element="holy" hp="65000" isBoss="true" looktype="6154" name="Lord Vulkor" xp="70000">
+    <attacks>
+      <e>holy</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="25000" isBoss="true" looktype="5894" name="Magmorth" xp="52500">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="300000" isBoss="true" looktype="6153" name="Mutabour" xp="35000">
     <attacks>
       <e>hit</e>
@@ -5497,6 +5642,17 @@
     <weaknesses>
       <e>holy</e>
       <e>fire</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="25000" isBoss="true" looktype="5894" name="Vulkar" xp="52500">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
       <e>hit</e>
     </weaknesses>
   </monster>
@@ -5567,6 +5723,38 @@
     </weaknesses>
     <drops>
       <item looktype="5316" name="Ancient Skin"/>
+    </drops>
+  </monster>
+  <monster dropsStone="true" element="fire" hp="3500" looktype="5128" name="Burning Orb" xp="22750">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6437" name="Royal neck cooler"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
+  <monster dropsStone="true" element="hit" hp="1482" looktype="5642" name="Cerberus" xp="15750">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6437" name="Royal neck cooler"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
     </drops>
   </monster>
   <monster element="holy" hp="3000" looktype="6412" name="Chaodrake" xp="22050">
@@ -5739,6 +5927,20 @@
       <item looktype="6573" name="Forcebender ring"/>
     </drops>
   </monster>
+  <monster element="fire" hp="4000" looktype="5642" name="Shadowbite" xp="22750">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2597" name="Crystal Stone"/>
+    </drops>
+  </monster>
   <monster element="hit" hp="200000" isBoss="true" looktype="6659" name="Tazmania" xp="28000">
     <attacks>
       <e>hit</e>
@@ -5767,6 +5969,44 @@
     <drops>
       <item looktype="5186" name="Twishade's Heart"/>
     </drops>
+  </monster>
+  <monster element="hit" hp="75000" isBoss="true" looktype="5642" name="Tricephalos" xp="22750">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+  </monster>
+  <monster dropsStone="true" element="fire" hp="2700" looktype="5642" name="Triferus" xp="22750">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6437" name="Royal neck cooler"/>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="8000" looktype="6154" name="Volcahell" xp="35000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
   </monster>
   <monster element="hit" hp="8000" looktype="5899" name="Volcanus" xp="35000">
     <attacks>
@@ -5823,22 +6063,6 @@
     </weaknesses>
     <drops>
       <item looktype="5280" name="Outfit Scroll"/>
-    </drops>
-  </monster>
-  <monster dropsStone="true" element="hit" hp="1482" looktype="5642" name="Cerberus" xp="15750">
-    <attacks>
-      <e>hit</e>
-      <e>fire</e>
-    </attacks>
-    <weaknesses>
-      <e>energy</e>
-      <e>ice</e>
-      <e>fire</e>
-    </weaknesses>
-    <drops>
-      <item looktype="6437" name="Royal neck cooler"/>
-      <item looktype="5566" name="Divine health potion"/>
-      <item looktype="5573" name="Divine mana potion"/>
     </drops>
   </monster>
   <monster element="fire" hp="2682" looktype="5639" name="Demon Lord" xp="19250">
@@ -5898,6 +6122,35 @@
       <item looktype="6587" name="Etheric ore"/>
     </drops>
   </monster>
+  <monster element="hit" hp="150000" isBoss="true" looktype="6659" name="Abominath" xp="315000">
+    <attacks>
+      <e>hit</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>energy</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5694" name="Tazmania Fragment"/>
+      <item looktype="5536" name="Sanctification Ring"/>
+      <item looktype="6576" name="Forcebreak barrier"/>
+      <item looktype="6575" name="Forcedeflect glove"/>
+      <item looktype="6573" name="Forcebender ring"/>
+    </drops>
+  </monster>
+  <monster element="hit" hp="600000" isBoss="true" looktype="5642" name="Abyssal" xp="22750">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+  </monster>
   <monster element="ice" hp="10000" looktype="5384" name="Elite Mutan" xp="45500">
     <attacks>
       <e>ice</e>
@@ -5939,6 +6192,17 @@
       <item looktype="5596" name="Elder health potion"/>
       <item looktype="5598" name="Elder mana potion"/>
     </drops>
+  </monster>
+  <monster element="fire" hp="10000" looktype="5894" name="Flameguard" xp="49000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>ice</e>
+      <e>energy</e>
+      <e>holy</e>
+    </weaknesses>
   </monster>
   <monster element="ice" hp="8500" looktype="5384" name="Mutan" xp="38500">
     <attacks>
@@ -6049,6 +6313,22 @@
       <e>ice</e>
       <e>energy</e>
     </weaknesses>
+  </monster>
+  <monster element="hit" hp="11000" looktype="6154" name="Volcanguard" xp="59500">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>holy</e>
+      <e>energy</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6585" name="Blazing ore"/>
+      <item looktype="5588" name="Fiery nexus"/>
+      <item looktype="5590" name="Conflagrator"/>
+    </drops>
   </monster>
   <monster element="energy" hp="350000" isBoss="true" looktype="5131" name="Medusa" xp="66500">
     <attacks>
@@ -6174,6 +6454,25 @@
     <drops>
       <item looktype="5596" name="Elder health potion"/>
       <item looktype="5598" name="Elder mana potion"/>
+      <item looktype="2596" name="Gorgon's Eye"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="200000" isBoss="true" looktype="5131" name="Gorgon Queen" xp="420000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>hit</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5538" name="To-sabaki harness"/>
+      <item looktype="5544" name="To-maga cape"/>
+      <item looktype="5541" name="To-sabaki deflector"/>
+      <item looktype="5547" name="To-maga aegis"/>
+      <item looktype="6441" name="Piece of Relic"/>
     </drops>
   </monster>
   <monster element="fire" hp="500000" isBoss="true" looktype="8453" name="Kaelthas" xp="0">
@@ -6213,6 +6512,36 @@
       <e>energy</e>
     </weaknesses>
   </monster>
+  <monster element="fire" hp="200000" isBoss="true" looktype="8453" name="Salmur" xp="420000">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5685" name="Fragment of Mutabour"/>
+      <item looktype="5694" name="Tazmania Fragment"/>
+      <item looktype="5509" name="Demonic trousers"/>
+      <item looktype="5503" name="Hellfire legplates"/>
+      <item looktype="5510" name="Demonic hood"/>
+      <item looktype="5504" name="Hellfire helmet"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="13500" looktype="6918" name="Volcanic Wisp" xp="73500">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="400000" isBoss="true" looktype="2561" name="Lucifero" xp="3150">
     <attacks>
       <e>hit</e>
@@ -6237,5 +6566,16 @@
       <item looktype="5698" name="Spirit Health Potion"/>
       <item looktype="5700" name="Spirit Mana Potion"/>
     </drops>
+  </monster>
+  <monster element="fire" hp="14500" looktype="6913" name="Hellreaver" xp="80500">
+    <attacks>
+      <e>fire</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
   </monster>
 </monsters>
