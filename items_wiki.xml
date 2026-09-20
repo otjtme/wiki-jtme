@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<items count="643" generatedAt="2026-07-11T13:17:03.140Z">
+<items count="639" generatedAt="2026-09-20T20:21:22.592Z">
   <item looktype="6495" name="Abominatio's Skin" sell="70" type="none">
     <droppedBy>
       <monster looktype="6659" name="Abominatio"/>
@@ -115,6 +115,7 @@
       <shop>Castle Rock Potions (2925 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (2925 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (2925 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (2925 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (2925 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (2925 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (2925 gp) [32041,32291,7]</shop>
@@ -138,6 +139,7 @@
       <shop>Castle Rock Potions (2250 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (2250 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (2250 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (2250 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (2250 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (2250 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (2250 gp) [32041,32291,7]</shop>
@@ -241,6 +243,9 @@
   </item>
   <item looktype="5285" name="Archon ring" type="ring">
     <defences energy_def="14" fire_def="14" hit_def="14" holy_def="14" ice_def="14" level="99"/>
+    <questReward>
+      <quest>NPC Progressor</quest>
+    </questReward>
     <containedIn>
       <container>Bag of Gorgoros</container>
     </containedIn>
@@ -513,6 +518,7 @@
   </item>
   <item looktype="5280" name="Bat Pet" type="addpet">
     <soldBy>
+      <shop>Aurea - Pets (25000 gp) [31942,32020,7]</shop>
       <shop>Wharpets (25000 gp) [31947,32019,7]</shop>
     </soldBy>
   </item>
@@ -521,11 +527,6 @@
       <monster looktype="5124" name="Bat"/>
       <monster looktype="5124" name="Little Bat"/>
     </droppedBy>
-  </item>
-  <item looktype="5143" name="Bat stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
-    </soldBy>
   </item>
   <item looktype="5457" name="Battle amulet" sell="34" type="chain">
     <defences hit_def="10" level="49"/>
@@ -558,11 +559,6 @@
       <quest>NPC Progressor</quest>
     </questReward>
   </item>
-  <item looktype="5147" name="Behemoth stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="6462" name="Black belt" sell="44" type="legs" vocation="wizard">
     <defences energy_def="5" hit_def="5" holy_def="14" level="34"/>
     <containedIn>
@@ -575,10 +571,10 @@
       <quest>NPC Progressor</quest>
     </questReward>
   </item>
-  <item looktype="5147" name="Blackdemon stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (500 gp) [31942,32020,7]</shop>
-    </soldBy>
+  <item looktype="5280" name="Blaze Master Pet" type="addpet">
+    <questReward>
+      <quest>NPC Progressor</quest>
+    </questReward>
   </item>
   <item looktype="2566" name="Blazing crystal" sell="4" type="weapon" vocation="wizard">
     <attacks fire_attack="1-18" level="4" mana="2"/>
@@ -620,7 +616,6 @@
   <item looktype="5314" name="Blood of Cain" sell="666" type="script">
     <droppedBy>
       <monster isBoss="true" looktype="5126" name="BioGhoul"/>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
       <monster isBoss="true" looktype="5384" name="ProtoFang"/>
     </droppedBy>
     <soldBy>
@@ -634,12 +629,8 @@
   </item>
   <item looktype="5280" name="Bloodfly Pet" type="addpet">
     <soldBy>
+      <shop>Aurea - Pets (55000 gp) [31942,32020,7]</shop>
       <shop>Wharpets (55000 gp) [31947,32019,7]</shop>
-    </soldBy>
-  </item>
-  <item looktype="5144" name="Bloodfly stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
     </soldBy>
   </item>
   <item looktype="2584" name="Blue defroster" type="none">
@@ -738,7 +729,6 @@
   <item looktype="5316" name="Brinefiend Roots" sell="250" type="none">
     <droppedBy>
       <monster looktype="6150" name="Brinefiend"/>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <containedIn>
       <container>Dungeon Bag - Orthoma</container>
@@ -760,6 +750,7 @@
   <item looktype="8498" name="Bucket" type="none">
     <questReward>
       <quest>NPC Gobber</quest>
+      <quest>NPC Vaelith</quest>
     </questReward>
   </item>
   <item looktype="2585" name="Burn Ointment" type="buff">
@@ -1006,6 +997,7 @@
       <shop>Castle Rock Potions (70 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (70 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (70 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (70 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (70 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (70 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (70 gp) [32041,32291,7]</shop>
@@ -1023,6 +1015,7 @@
     <droppedBy>
       <monster looktype="5639" name="Demon Lord"/>
       <monster looktype="5894" name="Flamexis"/>
+      <monster looktype="6663" name="Orc Hold"/>
       <monster isBoss="true" looktype="5635" name="The Miner"/>
       <monster looktype="6154" name="Volcanguard"/>
     </droppedBy>
@@ -1044,9 +1037,6 @@
     </droppedBy>
   </item>
   <item looktype="6500" name="Creature Tracker" sell="300" type="script">
-    <droppedBy>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
-    </droppedBy>
     <questReward>
       <quest>NPC Warking</quest>
     </questReward>
@@ -1222,11 +1212,6 @@
       <monster looktype="5637" name="Pillarclop"/>
     </droppedBy>
   </item>
-  <item looktype="5142" name="Cyclops stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="5558" name="Dark mage mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Coliseum</container>
@@ -1305,11 +1290,6 @@
       <container>Dungeon Bag - Orthoma</container>
     </containedIn>
   </item>
-  <item looktype="5147" name="Demon stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="5508" name="Demonic cloak" type="armour" vocation="wizard">
     <defences fire_def="43" holy_def="21" level="79"/>
     <questReward>
@@ -1323,6 +1303,7 @@
   <item looktype="5510" name="Demonic hood" type="helmet" vocation="wizard">
     <defences fire_def="27" holy_def="13" level="79"/>
     <droppedBy>
+      <monster isBoss="true" looktype="6663" name="Orc Warchief"/>
       <monster isBoss="true" looktype="8453" name="Salmur"/>
     </droppedBy>
     <questReward>
@@ -1357,6 +1338,7 @@
   <item looktype="5509" name="Demonic trousers" type="legs" vocation="wizard">
     <defences fire_def="32" holy_def="16" level="79"/>
     <droppedBy>
+      <monster isBoss="true" looktype="6663" name="Orc Warchief"/>
       <monster isBoss="true" looktype="8453" name="Salmur"/>
     </droppedBy>
     <questReward>
@@ -1407,12 +1389,18 @@
   </item>
   <item looktype="5526" name="Divine cuirass" type="armour" vocation="warrior">
     <defences energy_def="18" holy_def="37" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
   </item>
   <item looktype="5527" name="Divine greaves" type="legs" vocation="warrior">
     <defences energy_def="13" holy_def="27" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
@@ -1433,8 +1421,10 @@
       <monster looktype="5642" name="Cerberus"/>
       <monster looktype="5639" name="Demon Lord"/>
       <monster looktype="6412" name="Fouldrake"/>
+      <monster looktype="6921" name="Hunter Elf"/>
       <monster looktype="6151" name="Leviatacle"/>
       <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="6663" name="Mist Scout"/>
       <monster isBoss="true" looktype="6659" name="Tazmania"/>
       <monster looktype="5642" name="Triferus"/>
     </droppedBy>
@@ -1444,6 +1434,7 @@
       <shop>Castle Rock Potions (1400 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1400 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1400 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (1400 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (1400 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (1400 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1400 gp) [32041,32291,7]</shop>
@@ -1456,6 +1447,9 @@
   </item>
   <item looktype="5528" name="Divine helmet" type="helmet" vocation="warrior">
     <defences energy_def="10" holy_def="21" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
@@ -1475,8 +1469,10 @@
       <monster looktype="5128" name="Burning Orb"/>
       <monster looktype="5642" name="Cerberus"/>
       <monster looktype="6412" name="Fouldrake"/>
+      <monster looktype="6921" name="Hunter Elf"/>
       <monster looktype="6151" name="Leviatacle"/>
       <monster looktype="6151" name="Levitacle"/>
+      <monster looktype="6663" name="Mist Scout"/>
       <monster isBoss="true" looktype="6659" name="Tazmania"/>
       <monster looktype="5642" name="Triferus"/>
     </droppedBy>
@@ -1486,6 +1482,7 @@
       <shop>Castle Rock Potions (900 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (900 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (900 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (900 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (900 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (900 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (900 gp) [32041,32291,7]</shop>
@@ -1498,6 +1495,9 @@
   </item>
   <item looktype="5529" name="Divine protector" type="shield" vocation="warrior">
     <defences energy_def="10" holy_def="21" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
@@ -1574,11 +1574,6 @@
       <quest>NPC Hazel</quest>
     </questReward>
   </item>
-  <item looktype="2569" name="Drakewhelp stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (500 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="5156" name="Dress" sell="28" type="armour" vocation="wizard">
     <defences energy_def="15" hit_def="5" level="22"/>
     <soldBy>
@@ -1613,6 +1608,66 @@
       <shop>Isa's Potions (35 gp) [31957,31984,7]</shop>
     </soldBy>
   </item>
+  <item looktype="8504" name="Elarin Reaper" type="weapon" vocation="warrior">
+    <attacks holy_attack="81-319" level="139"/>
+    <questReward>
+      <quest>NPC Vaelith</quest>
+    </questReward>
+    <variants>
+      <variant holy_attack="81-319" type="silver"/>
+      <variant holy_attack="81-322" type="silver"/>
+      <variant holy_attack="82-325" type="silver"/>
+      <variant holy_attack="82-328" type="silver"/>
+      <variant holy_attack="83-331" type="silver"/>
+      <variant holy_attack="83-334" type="silver"/>
+      <variant holy_attack="84-337" type="silver"/>
+      <variant holy_attack="84-340" type="silver"/>
+      <variant holy_attack="85-343" type="silver"/>
+      <variant holy_attack="85-346" type="silver"/>
+      <variant holy_attack="86-349" type="silver"/>
+      <variant holy_attack="86-352" type="silver"/>
+      <variant holy_attack="87-355" type="silver"/>
+      <variant holy_attack="88-359" type="blue"/>
+      <variant holy_attack="88-363" type="blue"/>
+      <variant holy_attack="90-367" type="blue"/>
+      <variant holy_attack="90-371" type="blue"/>
+      <variant holy_attack="92-375" type="blue"/>
+      <variant holy_attack="93-380" type="gold"/>
+      <variant holy_attack="93-385" type="gold"/>
+      <variant holy_attack="95-390" type="gold"/>
+      <variant holy_attack="95-395" type="gold"/>
+    </variants>
+  </item>
+  <item looktype="8505" name="Elarin Scepter" type="weapon" vocation="wizard">
+    <attacks holy_attack="91-379" level="139" mana="33"/>
+    <questReward>
+      <quest>NPC Vaelith</quest>
+    </questReward>
+    <variants>
+      <variant holy_attack="91-379" type="silver"/>
+      <variant holy_attack="91-382" type="silver"/>
+      <variant holy_attack="92-385" type="silver"/>
+      <variant holy_attack="92-388" type="silver"/>
+      <variant holy_attack="93-391" type="silver"/>
+      <variant holy_attack="93-394" type="silver"/>
+      <variant holy_attack="94-397" type="silver"/>
+      <variant holy_attack="94-400" type="silver"/>
+      <variant holy_attack="95-403" type="silver"/>
+      <variant holy_attack="95-406" type="silver"/>
+      <variant holy_attack="96-409" type="silver"/>
+      <variant holy_attack="96-412" type="silver"/>
+      <variant holy_attack="97-415" type="silver"/>
+      <variant holy_attack="98-419" type="blue"/>
+      <variant holy_attack="98-423" type="blue"/>
+      <variant holy_attack="100-427" type="blue"/>
+      <variant holy_attack="100-431" type="blue"/>
+      <variant holy_attack="102-435" type="blue"/>
+      <variant holy_attack="103-440" type="gold"/>
+      <variant holy_attack="103-445" type="gold"/>
+      <variant holy_attack="105-450" type="gold"/>
+      <variant holy_attack="105-455" type="gold"/>
+    </variants>
+  </item>
   <item looktype="5596" name="Elder health potion" type="potion">
     <consumable hp="3200"/>
     <droppedBy>
@@ -1632,6 +1687,7 @@
       <shop>Castle Rock Potions (1560 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1560 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1560 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (1560 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (1560 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (1560 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1560 gp) [32041,32291,7]</shop>
@@ -1666,6 +1722,7 @@
       <shop>Castle Rock Potions (1120 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1120 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1120 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (1120 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (1120 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (1120 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1120 gp) [32041,32291,7]</shop>
@@ -1816,7 +1873,7 @@
       <shop>Jhon's Others (270 gp) [31985,31990,7]</shop>
     </soldBy>
   </item>
-  <item looktype="5144" name="Energy Stone" type="script">
+  <item looktype="5144" name="Energy Stone" type="none">
     <droppedBy>
       <monster looktype="5387" name="Tyrannix"/>
     </droppedBy>
@@ -1898,9 +1955,6 @@
     </droppedBy>
   </item>
   <item looktype="5675" name="Ethereal Shards" sell="5000" type="none">
-    <droppedBy>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
-    </droppedBy>
     <questReward>
       <quest>NPC Rajahao</quest>
     </questReward>
@@ -1966,6 +2020,7 @@
       <shop>Castle Rock Potions (250 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (250 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (250 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (250 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (250 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (250 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (250 gp) [32041,32291,7]</shop>
@@ -2060,6 +2115,7 @@
     <droppedBy>
       <monster looktype="5639" name="Demon Lord"/>
       <monster looktype="5894" name="Flamexis"/>
+      <monster looktype="6663" name="Orc Hold"/>
       <monster isBoss="true" looktype="5635" name="The Miner"/>
       <monster looktype="6154" name="Volcanguard"/>
     </droppedBy>
@@ -2087,6 +2143,7 @@
       <shop>Castle Rock Potions (1090 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1090 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1090 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (1090 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (1090 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (1090 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1090 gp) [32041,32291,7]</shop>
@@ -2117,6 +2174,7 @@
       <shop>Castle Rock Potions (720 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (720 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (720 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (720 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (720 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (720 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (720 gp) [32041,32291,7]</shop>
@@ -2184,6 +2242,12 @@
   <item looktype="5678" name="Fire Torch" type="none">
     <questReward>
       <quest>NPC Krazath</quest>
+    </questReward>
+  </item>
+  <item looktype="5678" name="Fire Torch" type="none">
+    <questReward>
+      <quest>NPC Aelthir</quest>
+      <quest>NPC Finrod</quest>
     </questReward>
   </item>
   <item looktype="6534" name="Fishing rod" type="fishing">
@@ -2398,11 +2462,6 @@
       <container>Christmas Gift</container>
     </containedIn>
   </item>
-  <item looktype="5150" name="Frog stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="6433" name="Frost helmet" sell="34" type="helmet" vocation="warrior">
     <defences hit_def="5" ice_def="20" level="70"/>
     <droppedBy>
@@ -2554,17 +2613,13 @@
   </item>
   <item looktype="5280" name="Ghost Pet" type="addpet">
     <soldBy>
+      <shop>Aurea - Pets (45000 gp) [31942,32020,7]</shop>
       <shop>Wharpets (45000 gp) [31947,32019,7]</shop>
     </soldBy>
     <containedIn>
       <container>Bag of Halloween</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
-  </item>
-  <item looktype="5150" name="Ghost stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
-    </soldBy>
   </item>
   <item looktype="5551" name="Gift of Nivalis" type="weapon" vocation="wizard">
     <attacks ice_attack="18-175" level="74" mana="18"/>
@@ -2683,6 +2738,7 @@
       <shop>Castle Rock Potions (150 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (150 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (150 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (150 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (150 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (150 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (150 gp) [32041,32291,7]</shop>
@@ -2698,6 +2754,11 @@
   <item looktype="2596" name="Gorgon's Eye" type="none">
     <droppedBy>
       <monster looktype="5131" name="Gorgon"/>
+    </droppedBy>
+  </item>
+  <item looktype="8510" name="Gothrak's Corrupted Crystal" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="6928" name="Gothrak"/>
     </droppedBy>
   </item>
   <item looktype="5481" name="Governor armour" sell="32" type="armour" vocation="warrior">
@@ -2729,6 +2790,7 @@
       <shop>Castle Rock Potions (590 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (590 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (590 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (590 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (590 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (590 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (590 gp) [32041,32291,7]</shop>
@@ -2754,6 +2816,7 @@
       <shop>Castle Rock Potions (430 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (430 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (430 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (430 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (430 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (430 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (430 gp) [32041,32291,7]</shop>
@@ -2789,6 +2852,66 @@
     <containedIn>
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
+  </item>
+  <item looktype="8507" name="Guardian's Light" type="weapon" vocation="wizard">
+    <attacks holy_attack="188-688" level="169" mana="62"/>
+    <questReward>
+      <quest>NPC Nimrothil</quest>
+    </questReward>
+    <variants>
+      <variant holy_attack="188-688" type="silver"/>
+      <variant holy_attack="188-691" type="silver"/>
+      <variant holy_attack="189-694" type="silver"/>
+      <variant holy_attack="189-697" type="silver"/>
+      <variant holy_attack="190-700" type="silver"/>
+      <variant holy_attack="190-703" type="silver"/>
+      <variant holy_attack="191-706" type="silver"/>
+      <variant holy_attack="191-709" type="silver"/>
+      <variant holy_attack="192-712" type="silver"/>
+      <variant holy_attack="192-715" type="silver"/>
+      <variant holy_attack="193-718" type="silver"/>
+      <variant holy_attack="193-721" type="silver"/>
+      <variant holy_attack="194-724" type="silver"/>
+      <variant holy_attack="195-728" type="blue"/>
+      <variant holy_attack="195-732" type="blue"/>
+      <variant holy_attack="197-736" type="blue"/>
+      <variant holy_attack="197-740" type="blue"/>
+      <variant holy_attack="199-744" type="blue"/>
+      <variant holy_attack="200-749" type="gold"/>
+      <variant holy_attack="200-754" type="gold"/>
+      <variant holy_attack="202-759" type="gold"/>
+      <variant holy_attack="202-764" type="gold"/>
+    </variants>
+  </item>
+  <item looktype="8506" name="Guardian's Wrath" type="weapon" vocation="warrior">
+    <attacks holy_attack="149-558" level="169"/>
+    <questReward>
+      <quest>NPC Nimrothil</quest>
+    </questReward>
+    <variants>
+      <variant holy_attack="149-558" type="silver"/>
+      <variant holy_attack="149-561" type="silver"/>
+      <variant holy_attack="150-564" type="silver"/>
+      <variant holy_attack="150-567" type="silver"/>
+      <variant holy_attack="151-570" type="silver"/>
+      <variant holy_attack="151-573" type="silver"/>
+      <variant holy_attack="152-576" type="silver"/>
+      <variant holy_attack="152-579" type="silver"/>
+      <variant holy_attack="153-582" type="silver"/>
+      <variant holy_attack="153-585" type="silver"/>
+      <variant holy_attack="154-588" type="silver"/>
+      <variant holy_attack="154-591" type="silver"/>
+      <variant holy_attack="155-594" type="silver"/>
+      <variant holy_attack="156-598" type="blue"/>
+      <variant holy_attack="156-602" type="blue"/>
+      <variant holy_attack="158-606" type="blue"/>
+      <variant holy_attack="158-610" type="blue"/>
+      <variant holy_attack="160-614" type="blue"/>
+      <variant holy_attack="161-619" type="gold"/>
+      <variant holy_attack="161-624" type="gold"/>
+      <variant holy_attack="163-629" type="gold"/>
+      <variant holy_attack="163-634" type="gold"/>
+    </variants>
   </item>
   <item looktype="6468" name="Gurumistick" sell="67" type="weapon" vocation="warrior">
     <attacks holy_attack="1-36" level="20"/>
@@ -2833,11 +2956,6 @@
     <soldBy>
       <shop>Essential Supplies (400 gp) [32842,32026,7]</shop>
       <shop>Isa's Potions (400 gp) [31957,31984,7]</shop>
-    </soldBy>
-  </item>
-  <item looktype="5147" name="Hell Guard stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
     </soldBy>
   </item>
   <item looktype="5296" name="Hellblade" type="weapon" vocation="warrior">
@@ -2894,6 +3012,7 @@
   <item looktype="5504" name="Hellfire helmet" type="helmet" vocation="warrior">
     <defences fire_def="21" holy_def="10" level="79"/>
     <droppedBy>
+      <monster isBoss="true" looktype="6663" name="Orc Warchief"/>
       <monster isBoss="true" looktype="8453" name="Salmur"/>
     </droppedBy>
     <questReward>
@@ -2906,6 +3025,7 @@
   <item looktype="5503" name="Hellfire legplates" type="legs" vocation="warrior">
     <defences fire_def="27" holy_def="13" level="79"/>
     <droppedBy>
+      <monster isBoss="true" looktype="6663" name="Orc Warchief"/>
       <monster isBoss="true" looktype="8453" name="Salmur"/>
     </droppedBy>
     <questReward>
@@ -2968,12 +3088,8 @@
   </item>
   <item looktype="5280" name="Hornet Pet" type="addpet">
     <soldBy>
+      <shop>Aurea - Pets (25000 gp) [31942,32020,7]</shop>
       <shop>Wharpets (25000 gp) [31947,32019,7]</shop>
-    </soldBy>
-  </item>
-  <item looktype="5181" name="Hornet stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
     </soldBy>
   </item>
   <item looktype="5226" name="Hunter Tracker" type="script">
@@ -3118,7 +3234,6 @@
     <droppedBy>
       <monster isBoss="true" looktype="5644" name="Demunus"/>
       <monster isBoss="true" looktype="5644" name="Kul'Krak'u"/>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
     </droppedBy>
     <containedIn>
       <container>Bag of Coliseum</container>
@@ -3144,6 +3259,11 @@
     <droppedBy>
       <monster looktype="2573" name="Hornet"/>
     </droppedBy>
+  </item>
+  <item looktype="5280" name="Kaelthas Pet" type="addpet">
+    <questReward>
+      <quest>NPC Progressor</quest>
+    </questReward>
   </item>
   <item looktype="2586" name="Kappa ichor" type="none">
     <droppedBy>
@@ -3174,11 +3294,6 @@
     <droppedBy>
       <monster looktype="5387" name="Tyrannix"/>
     </droppedBy>
-  </item>
-  <item looktype="5148" name="Krakomin stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (300 gp) [31942,32020,7]</shop>
-    </soldBy>
   </item>
   <item looktype="6467" name="Large Dungeon Ring" type="ring">
     <containedIn>
@@ -3582,6 +3697,7 @@
       <shop>Castle Rock Potions (820 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (820 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (820 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (820 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (820 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (820 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (820 gp) [32041,32291,7]</shop>
@@ -3610,6 +3726,7 @@
       <shop>Castle Rock Potions (560 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (560 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (560 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (560 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (560 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (560 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (560 gp) [32041,32291,7]</shop>
@@ -3928,6 +4045,11 @@
       <variant energy_attack="105-455" type="gold"/>
     </variants>
   </item>
+  <item looktype="5280" name="Mutan Pet" type="addpet">
+    <questReward>
+      <quest>NPC Progressor</quest>
+    </questReward>
+  </item>
   <item looktype="6519" name="Mutilator" type="weapon" vocation="warrior">
     <attacks hit_attack="20-205" level="99"/>
     <droppedBy>
@@ -4039,10 +4161,20 @@
       <monster looktype="6408" name="Bloodfly"/>
     </droppedBy>
   </item>
+  <item looktype="2564" name="Orc mace" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="5122" name="The Orc Spy"/>
+    </droppedBy>
+  </item>
   <item looktype="5558" name="Orc mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Valentine's Day</container>
     </containedIn>
+  </item>
+  <item looktype="5196" name="Orc Route" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="6663" name="Ghurzak"/>
+    </droppedBy>
   </item>
   <item looktype="6520" name="Ornate battle stick" sell="36" type="weapon" vocation="wizard">
     <attacks hit_attack="1-92" level="30" mana="9"/>
@@ -4076,6 +4208,9 @@
     <droppedBy>
       <monster isBoss="true" looktype="6913" name="Bugs of 2025"/>
     </droppedBy>
+    <questReward>
+      <quest>NPC Progressor</quest>
+    </questReward>
   </item>
   <item looktype="2590" name="Parchment" type="scroll">
     <questReward>
@@ -4155,11 +4290,6 @@
       <quest>NPC Progressor</quest>
     </questReward>
   </item>
-  <item looktype="5147" name="Phoenix stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (500 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="6402" name="Pickaxe" sell="13" type="pickaxe">
     <soldBy>
       <shop>Mine Shop (50 gp) [31891,31968,8]</shop>
@@ -4170,9 +4300,6 @@
     </questReward>
   </item>
   <item looktype="5670" name="Piece of Ethereal Shards" sell="2000" type="none">
-    <droppedBy>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
-    </droppedBy>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Yabura</container>
@@ -4214,6 +4341,7 @@
       <shop>Castle Rock Potions (30 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (30 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (30 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (30 gp) [32775,31845,7]</shop>
       <shop>Essential Supplies (30 gp) [32842,32026,7]</shop>
       <shop>Ghulmor Potions (30 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (30 gp) [32689,31736,7]</shop>
@@ -4332,6 +4460,11 @@
     <droppedBy>
       <monster looktype="8452" name="Eggosaurus"/>
     </droppedBy>
+  </item>
+  <item looktype="5280" name="Pyrozilla Pet" type="addpet">
+    <questReward>
+      <quest>NPC Progressor</quest>
+    </questReward>
   </item>
   <item looktype="6527" name="Raging thunder" type="weapon" vocation="wizard">
     <attacks energy_attack="70-281" level="119" mana="28"/>
@@ -4604,12 +4737,18 @@
   </item>
   <item looktype="5532" name="Sanctification cloak" type="armour" vocation="wizard">
     <defences energy_def="21" holy_def="43" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
   </item>
   <item looktype="5534" name="Sanctification hood" type="helmet" vocation="wizard">
     <defences energy_def="13" holy_def="27" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
@@ -4620,6 +4759,9 @@
   </item>
   <item looktype="5533" name="Sanctification legs" type="legs" vocation="wizard">
     <defences energy_def="16" holy_def="32" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
@@ -4642,6 +4784,9 @@
   </item>
   <item looktype="5535" name="Sanctification ward" type="shield" vocation="wizard">
     <defences energy_def="13" holy_def="27" level="79"/>
+    <droppedBy>
+      <monster isBoss="true" looktype="6925" name="Elf Ashen"/>
+    </droppedBy>
     <questReward>
       <quest>NPC Dugysoul</quest>
     </questReward>
@@ -4691,12 +4836,8 @@
   </item>
   <item looktype="5280" name="Scorpion Pet" type="addpet">
     <soldBy>
+      <shop>Aurea - Pets (30000 gp) [31942,32020,7]</shop>
       <shop>Wharpets (30000 gp) [31947,32019,7]</shop>
-    </soldBy>
-  </item>
-  <item looktype="5144" name="Scorpion stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
     </soldBy>
   </item>
   <item looktype="5589" name="Searing inferno" type="weapon" vocation="warrior">
@@ -4733,11 +4874,6 @@
     <containedIn>
       <container>Bag of Halloween</container>
     </containedIn>
-  </item>
-  <item looktype="2569" name="Shadow stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
-    </soldBy>
   </item>
   <item looktype="5250" name="Shadow's Bones" type="none">
     <droppedBy>
@@ -4863,6 +4999,9 @@
       <shop>Mine Shop (50 gp) [31891,31968,8]</shop>
       <shop>Orcish Goods (50 gp) [31982,31863,7]</shop>
     </soldBy>
+    <questReward>
+      <quest>NPC Vaelith</quest>
+    </questReward>
   </item>
   <item looktype="6450" name="Shuriken" sell="13" type="weapon" vocation="wizard">
     <attacks hit_attack="1-28" holy_attack="1-20" level="14" mana="5"/>
@@ -4894,11 +5033,6 @@
       <container>Bag of Coliseum</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
-  </item>
-  <item looktype="5148" name="Skelpirate stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
-    </soldBy>
   </item>
   <item looktype="5248" name="Skull ring" sell="78" type="ring">
     <defences fire_def="10" hit_def="10" ice_def="10" level="34"/>
@@ -5348,6 +5482,7 @@
       <shop>Castle Rock Potions (1950 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1950 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1950 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (1950 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (1950 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (1950 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1950 gp) [32041,32291,7]</shop>
@@ -5371,6 +5506,7 @@
       <shop>Castle Rock Potions (1500 gp) [31939,32108,7]</shop>
       <shop>Colossea Potions (1500 gp) [32067,32135,7]</shop>
       <shop>Coroca Potions (1500 gp) [32124,32069,7]</shop>
+      <shop>Elaria Potions (1500 gp) [32775,31845,7]</shop>
       <shop>Ghulmor Potions (1500 gp) [32280,32205,7]</shop>
       <shop>Gorgoros Potions (1500 gp) [32689,31736,7]</shop>
       <shop>Melbano Potions (1500 gp) [32041,32291,7]</shop>
@@ -5545,7 +5681,7 @@
       <monster looktype="6659" name="Abominatio"/>
     </droppedBy>
   </item>
-  <item looktype="5142" name="Strange energy" type="script">
+  <item looktype="5142" name="Strange energy" type="none">
     <droppedBy>
       <monster looktype="6913" name="Mutant"/>
     </droppedBy>
@@ -5674,6 +5810,11 @@
     <containedIn>
       <container>Dungeon Bag - Aurea</container>
     </containedIn>
+  </item>
+  <item looktype="6536" name="The Orc Mountain Key" type="none">
+    <droppedBy>
+      <monster isBoss="true" looktype="6663" name="Draugmar"/>
+    </droppedBy>
   </item>
   <item looktype="6414" name="Thermal Helmet" sell="100" type="helmet">
     <defences fire_def="5" level="0"/>
@@ -5880,11 +6021,6 @@
       <quest>NPC Asmund</quest>
     </questReward>
   </item>
-  <item looktype="5147" name="Toothless stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (1000 gp) [31942,32020,7]</shop>
-    </soldBy>
-  </item>
   <item looktype="2603" name="Topaz" sell="450" type="none">
     <droppedBy>
       <monster looktype="5637" name="Berseclops"/>
@@ -5899,6 +6035,11 @@
     <soldBy>
       <shop>Mine Shop (2250 gp) [31891,31968,8]</shop>
     </soldBy>
+  </item>
+  <item looktype="6404" name="Trap Hammer" type="none">
+    <questReward>
+      <quest>NPC Eldrin</quest>
+    </questReward>
   </item>
   <item looktype="5558" name="Treant mask" sell="550" type="mask">
     <droppedBy>
@@ -5947,6 +6088,11 @@
       <monster isBoss="true" looktype="5640" name="The Twishade"/>
     </droppedBy>
   </item>
+  <item looktype="2562" name="Vaelith's Axe" type="none">
+    <questReward>
+      <quest>NPC Vaelith</quest>
+    </questReward>
+  </item>
   <item looktype="5558" name="Vampire mask" sell="550" type="mask">
     <containedIn>
       <container>Bag of Halloween</container>
@@ -5961,11 +6107,6 @@
       <container>Bag of Halloween</container>
       <container>Especial Bag of Halloween</container>
     </containedIn>
-  </item>
-  <item looktype="5149" name="Vampire stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
-    </soldBy>
   </item>
   <item looktype="8488" name="Vampirism Vigor" type="buff">
     <questReward>
@@ -6105,9 +6246,6 @@
     </droppedBy>
   </item>
   <item looktype="5672" name="Weapon Shard" sell="7000" type="none">
-    <droppedBy>
-      <monster isBoss="true" looktype="6411" name="Myst"/>
-    </droppedBy>
     <containedIn>
       <container>Bag of Coliseum</container>
       <container>Bag of Ghulmor</container>
@@ -6179,12 +6317,8 @@
   </item>
   <item looktype="5280" name="Wolf Pet" type="addpet">
     <soldBy>
+      <shop>Aurea - Pets (25000 gp) [31942,32020,7]</shop>
       <shop>Wharpets (25000 gp) [31947,32019,7]</shop>
-    </soldBy>
-  </item>
-  <item looktype="6475" name="Wolf stone" type="spawnpet">
-    <soldBy>
-      <shop>Recovery Pets Stones (200 gp) [31942,32020,7]</shop>
     </soldBy>
   </item>
   <item looktype="5254" name="Yellow dragon egg" type="buff">

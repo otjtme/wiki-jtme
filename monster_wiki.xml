@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<monsters count="448" expRate="35" generatedAt="2026-07-11T13:17:02.990Z">
+<monsters count="476" expRate="35" generatedAt="2026-09-20T20:21:22.429Z">
   <monster element="hit" hp="29" looktype="2565" name="Bug" xp="35">
     <attacks>
       <e>hit</e>
@@ -46,10 +46,31 @@
       <e>energy</e>
     </weaknesses>
   </monster>
+  <monster element="none" hp="1500000" isBoss="true" looktype="8454" name="Ghulmor-Pillar" xp="0">
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="none" hp="1500000" isBoss="true" looktype="5131" name="Gorgoros-Pillar" xp="0">
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
   <monster element="holy" hp="30" looktype="5642" name="Hellhound" xp="35">
     <attacks>
       <e>holy</e>
     </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="none" hp="1500000" isBoss="true" looktype="6662" name="Orthoma-Pillar" xp="0">
     <weaknesses>
       <e>fire</e>
       <e>ice</e>
@@ -92,6 +113,20 @@
       <item looktype="2587" name="Minor health potion"/>
       <item looktype="2584" name="Minor mana potion"/>
     </drops>
+  </monster>
+  <monster element="none" hp="1500000" isBoss="true" looktype="6407" name="Yabura-Pillar" xp="0">
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="none" hp="1500000" isBoss="true" looktype="5894" name="Ynfernal-Pillar" xp="0">
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
   </monster>
   <monster element="hit" hp="173" looktype="5893" name="Anitree" xp="630">
     <attacks>
@@ -4473,6 +4508,17 @@
       <e>ice</e>
     </weaknesses>
   </monster>
+  <monster element="holy" hp="1800" looktype="5893" name="Treelord" xp="0">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="2000" looktype="6401" name="Chaomby" xp="19600">
     <attacks>
       <e>hit</e>
@@ -4505,6 +4551,20 @@
       <item looktype="5186" name="Leechacles heart"/>
     </drops>
   </monster>
+  <monster element="fire" hp="17000" isBoss="true" looktype="5122" name="The Orc Spy" xp="1750">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="2564" name="Orc mace"/>
+    </drops>
+  </monster>
   <monster element="hit" hp="2500" looktype="6401" name="Champ" xp="19950">
     <attacks>
       <e>hit</e>
@@ -4515,6 +4575,20 @@
       <e>fire</e>
       <e>energy</e>
     </weaknesses>
+  </monster>
+  <monster element="hit" hp="25000" isBoss="true" looktype="6663" name="Ghurzak" xp="1750">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5196" name="Orc Route"/>
+    </drops>
   </monster>
   <monster element="ice" hp="3072" looktype="5636" name="Archvampir" xp="18550">
     <attacks>
@@ -5391,6 +5465,17 @@
       <item looktype="5257" name="Dragon Egg - Cinereo"/>
     </drops>
   </monster>
+  <monster element="energy" hp="2700" looktype="6921" name="Dusk Elf" xp="21000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="60000" isBoss="true" looktype="6412" name="Eolo" xp="35000">
     <attacks>
       <e>hit</e>
@@ -5443,15 +5528,20 @@
       <e>hit</e>
     </weaknesses>
   </monster>
-  <monster element="hit" hp="100000" isBoss="true" looktype="6411" name="Myst" xp="12285">
+  <monster element="fire" hp="2700" looktype="6663" name="Mist Scout" xp="22750">
     <attacks>
+      <e>fire</e>
       <e>hit</e>
     </attacks>
     <weaknesses>
-      <e>hit</e>
+      <e>energy</e>
       <e>fire</e>
       <e>ice</e>
     </weaknesses>
+    <drops>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
   </monster>
   <monster element="hit" hp="60000" isBoss="true" looktype="5899" name="Salmoura" xp="35000">
     <attacks>
@@ -5465,6 +5555,42 @@
     <drops>
       <item looktype="5258" name="Dragon Egg - Salmoura"/>
     </drops>
+  </monster>
+  <monster element="holy" hp="45000" isBoss="true" looktype="6920" name="Verdant Sentinel" xp="52500">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="35000" isBoss="true" looktype="6663" name="Draugmar" xp="1750">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="6536" name="The Orc Mountain Key"/>
+    </drops>
+  </monster>
+  <monster element="holy" hp="55000" isBoss="true" looktype="6920" name="Verdant Keeper" xp="70000">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
   </monster>
   <monster element="energy" hp="10000" isBoss="true" looktype="2570" name="Acid Slime" xp="0">
     <attacks>
@@ -5645,6 +5771,17 @@
       <e>hit</e>
     </weaknesses>
   </monster>
+  <monster element="holy" hp="65000" isBoss="true" looktype="6920" name="Verdant Guardian" xp="70000">
+    <attacks>
+      <e>holy</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>hit</e>
+    </weaknesses>
+  </monster>
   <monster element="fire" hp="25000" isBoss="true" looktype="5894" name="Vulkar" xp="52500">
     <attacks>
       <e>fire</e>
@@ -5799,6 +5936,21 @@
       <item looktype="5579" name="Fine might potion"/>
     </drops>
   </monster>
+  <monster element="holy" hp="3500" looktype="6921" name="Hunter Elf" xp="22750">
+    <attacks>
+      <e>holy</e>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5566" name="Divine health potion"/>
+      <item looktype="5573" name="Divine mana potion"/>
+    </drops>
+  </monster>
   <monster element="hit" hp="180000" isBoss="true" looktype="6405" name="King Warlord" xp="52500">
     <attacks>
       <e>hit</e>
@@ -5926,6 +6078,17 @@
       <item looktype="6587" name="Etheric ore"/>
       <item looktype="6573" name="Forcebender ring"/>
     </drops>
+  </monster>
+  <monster element="energy" hp="8000" looktype="6921" name="Fallen Elf" xp="35000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
   </monster>
   <monster element="fire" hp="4000" looktype="5642" name="Shadowbite" xp="22750">
     <attacks>
@@ -6151,6 +6314,49 @@
       <e>ice</e>
     </weaknesses>
   </monster>
+  <monster element="energy" hp="10000" looktype="6921" name="Corrupt Elf" xp="49000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="holy" hp="150000" isBoss="true" looktype="6925" name="Elf Ashen" xp="315000">
+    <attacks>
+      <e>holy</e>
+      <e>energy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5526" name="Divine cuirass"/>
+      <item looktype="5527" name="Divine greaves"/>
+      <item looktype="5528" name="Divine helmet"/>
+      <item looktype="5529" name="Divine protector"/>
+      <item looktype="5532" name="Sanctification cloak"/>
+      <item looktype="5533" name="Sanctification legs"/>
+      <item looktype="5534" name="Sanctification hood"/>
+      <item looktype="5535" name="Sanctification ward"/>
+    </drops>
+  </monster>
+  <monster element="energy" hp="10000" looktype="6925" name="Elf Guard" xp="49000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
   <monster element="ice" hp="10000" looktype="5384" name="Elite Mutan" xp="45500">
     <attacks>
       <e>ice</e>
@@ -6193,6 +6399,28 @@
       <item looktype="5598" name="Elder mana potion"/>
     </drops>
   </monster>
+  <monster element="energy" hp="7000" looktype="5892" name="Elven Helper" xp="49000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
+  <monster element="energy" hp="10000" looktype="6925" name="Elven Warrior" xp="49000">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
+  </monster>
   <monster element="fire" hp="10000" looktype="5894" name="Flameguard" xp="49000">
     <attacks>
       <e>fire</e>
@@ -6202,6 +6430,17 @@
       <e>ice</e>
       <e>energy</e>
       <e>holy</e>
+    </weaknesses>
+  </monster>
+  <monster element="hit" hp="550000" isBoss="true" looktype="6928" name="Gothrak" xp="1750">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>hit</e>
     </weaknesses>
   </monster>
   <monster element="ice" hp="8500" looktype="5384" name="Mutan" xp="38500">
@@ -6248,6 +6487,45 @@
       <e>ice</e>
     </weaknesses>
   </monster>
+  <monster element="fire" hp="10000" looktype="6663" name="Orc Brute" xp="49000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+  </monster>
+  <monster element="fire" hp="150000" isBoss="true" looktype="6663" name="Orc Warchief" xp="315000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>fire</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5509" name="Demonic trousers"/>
+      <item looktype="5503" name="Hellfire legplates"/>
+      <item looktype="5510" name="Demonic hood"/>
+      <item looktype="5504" name="Hellfire helmet"/>
+    </drops>
+  </monster>
+  <monster element="fire" hp="10000" looktype="6663" name="Orc Warrior" xp="49000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="10000" looktype="5899" name="Volcan" xp="49000">
     <attacks>
       <e>hit</e>
@@ -6279,6 +6557,17 @@
       <item looktype="6522" name="Staff of pain"/>
     </drops>
   </monster>
+  <monster element="fire" hp="15000" looktype="5122" name="Gothrek" xp="49000">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>ice</e>
+      <e>holy</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="120000" isBoss="true" looktype="6657" name="Kyklopes" xp="59500">
     <attacks>
       <e>hit</e>
@@ -6301,6 +6590,21 @@
       <e>energy</e>
       <e>ice</e>
     </weaknesses>
+  </monster>
+  <monster element="hit" hp="11000" looktype="6663" name="Orc Hold" xp="59500">
+    <attacks>
+      <e>hit</e>
+      <e>fire</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>ice</e>
+    </weaknesses>
+    <drops>
+      <item looktype="5588" name="Fiery nexus"/>
+      <item looktype="5590" name="Conflagrator"/>
+    </drops>
   </monster>
   <monster element="hit" hp="200000" isBoss="true" looktype="6658" name="Tauragor" xp="59500">
     <attacks>
@@ -6486,6 +6790,17 @@
       <e>fire</e>
     </weaknesses>
   </monster>
+  <monster element="fire" hp="13500" looktype="6663" name="Orc Might" xp="66500">
+    <attacks>
+      <e>fire</e>
+      <e>hit</e>
+    </attacks>
+    <weaknesses>
+      <e>energy</e>
+      <e>fire</e>
+      <e>holy</e>
+    </weaknesses>
+  </monster>
   <monster element="hit" hp="11000" looktype="6657" name="Petraclops" xp="59500">
     <attacks>
       <e>hit</e>
@@ -6566,6 +6881,17 @@
       <item looktype="5698" name="Spirit Health Potion"/>
       <item looktype="5700" name="Spirit Mana Potion"/>
     </drops>
+  </monster>
+  <monster element="energy" hp="14500" looktype="6922" name="Elf Scout" xp="80500">
+    <attacks>
+      <e>energy</e>
+      <e>holy</e>
+    </attacks>
+    <weaknesses>
+      <e>fire</e>
+      <e>ice</e>
+      <e>energy</e>
+    </weaknesses>
   </monster>
   <monster element="fire" hp="14500" looktype="6913" name="Hellreaver" xp="80500">
     <attacks>
